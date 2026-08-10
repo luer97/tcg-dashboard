@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TCG 游戏监控工作台</title>
+<style>
+:root {
+  --bg: #f0f2f5;
+  --card-bg: #ffffff;
+  --text: #1a1a2e;
+  --text-secondary: #6b7280;
+  --border: #e5e7eb;
+  --accent: #4f46e5;
+  --accent-light: #eef2ff;
+  --red: #ef4444;
+  --green: #22c55e;
+  --orange: #f59e0b;
+  --blue: #3b82f6;
+  --purple: #8b5cf6;
+  --teal: #14b8a6;
+  --pink: #ec4899;
+  --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
+  --shadow-lg: 0 4px 6px rgba(0,0,0,0.07), 0 10px 15px rgba(0,0,0,0.08);
+  --radius: 12px;
+  --radius-sm: 8px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+.header {
+  background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #4338ca 100%);
+  color: white;
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 4px 20px rgba(79,70,229,0.3);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.header-left h1 { font-size: 22px; font-weight: 700; display: flex; align-items: center; gap: 10px; }
+.header-left h1 .icon { font-size: 28px; }
+.header-left .subtitle { font-size: 13px; opacity: 0.75; margin-top: 2px; }
+.header-right { display: flex; align-items: center; gap: 16px; font-size: 13px; }
+.status-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; margin-right: 6px; }
+.status-dot.active { background: #22c55e; animation: pulse 2s infinite; }
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+.refresh-btn {
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.25);
+  color: white;
+  padding: 6px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 13px;
+  transition: all 0.2s;
+}
+.refresh-btn:hover { background: rgba(255,255,255,0.25); }
+.container { max-width: 1480px; margin: 0 auto; padding: 24px; }
+.stats-bar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.stat-card {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  box-shadow: var(--shadow);
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.stat-icon { width: 46px; height: 46px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 22px; }
+.stat-icon.blue { background: #eff6ff; color: var(--blue); }
+.stat-icon.green { background: #f0fdf4; color: var(--green); }
+.stat-icon.orange { background: #fffbeb; color: var(--orange); }
+.stat-icon.purple { background: #f5f3ff; color: var(--purple); }
+.stat-icon.pink { background: #fdf2f8; color: var(--pink); }
+.stat-info .stat-value { font-size: 22px; font-weight: 700; }
+.stat-info .stat-label { font-size: 13px; color: var(--text-secondary); }
+.alert-banner {
+  background: linear-gradient(135deg, #fef2f2, #fee2e2);
+  border: 1px solid #fecaca;
+  border-radius: var(--radius);
+  padding: 14px 20px;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  animation: slideIn 0.4s ease;
+}
+@keyframes slideIn { from { transform: translateY(-10px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+.alert-banner .alert-icon { font-size: 20px; }
+.alert-banner .alert-text { flex: 1; font-size: 14px; }
+.alert-banner .alert-text strong { color: var(--red); }
+.alert-badge { background: var(--red); color: white; padding: 3px 10px; border-radius: 20px; font-size: 11px; font-weight: 600; white-space: nowrap; }
+.filters { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+.filter-btn {
+  padding: 8px 16px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 13px;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+.filter-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
+.tcg-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(440px, 1fr)); gap: 20px; }
+.tcg-card {
+  background: var(--card-bg);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.tcg-card:hover { box-shadow: var(--shadow-lg); transform: translateY(-2px); }
+.tcg-card-header {
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+}
+.tcg-card-header .game-name { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 15px; }
+.game-avatar { width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 18px; font-weight: 700; color: white; }
+.game-avatar.pk { background: linear-gradient(135deg, #fbbf24, #f59e0b); }
+.game-avatar.rw { background: linear-gradient(135deg, #06b6d4, #0891b2); }
+.game-avatar.xg { background: linear-gradient(135deg, #ef4444, #dc2626); }
+.game-avatar.hs { background: linear-gradient(135deg, #22c55e, #16a34a); }
+.game-avatar.zm { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+.game-avatar.cy { background: linear-gradient(135deg, #ec4899, #db2777); }
+.game-avatar.hy { background: linear-gradient(135deg, #f97316, #ea580c); }
+.game-avatar.az { background: linear-gradient(135deg, #e11d48, #be123c); }
+.game-avatar.hp { background: linear-gradient(135deg, #7c3aed, #5b21b6); }
+.game-avatar.mtgh { background: linear-gradient(135deg, #65a30d, #4d7c0f); }
+.game-avatar.op { background: linear-gradient(135deg, #dc2626, #991b1b); }
+.tcg-status { display: flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 20px; }
+.tcg-status.hot { background: #fef2f2; color: var(--red); }
+.tcg-status.active { background: #f0fdf4; color: #16a34a; }
+.tcg-status.upcoming { background: #fffbeb; color: #d97706; }
+.tab-nav { display: flex; border-bottom: 1px solid var(--border); padding: 0 16px; background: #fafbfc; }
+.tab-btn {
+  padding: 10px 14px;
+  font-size: 12px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  border: none;
+  background: none;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.tab-btn:hover { color: var(--text); }
+.tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+.tab-btn .badge { display: inline-block; background: var(--red); color: white; border-radius: 10px; padding: 1px 6px; font-size: 10px; margin-left: 4px; vertical-align: middle; }
+.tab-content { display: none; padding: 14px 20px; }
+.tab-content.active { display: block; }
+.info-item { padding: 10px 0; border-bottom: 1px solid #f3f4f6; display: flex; gap: 10px; align-items: flex-start; font-size: 13px; }
+.info-item:last-child { border-bottom: none; }
+.info-tag { padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; white-space: nowrap; flex-shrink: 0; }
+.info-tag.new { background: #dcfce7; color: #166534; }
+.info-tag.upcoming { background: #e0e7ff; color: #3730a3; }
+.info-tag.event { background: #dbeafe; color: #1e40af; }
+.info-tag.alert { background: #fef3c7; color: #92400e; }
+.info-tag.news { background: #f3e8ff; color: #6b21a8; }
+.info-tag.hot { background: #fee2e2; color: #991b1b; }
+.info-text { flex: 1; }
+.info-text .title { font-weight: 600; color: var(--text); }
+.info-text .desc { color: var(--text-secondary); font-size: 12px; margin-top: 2px; }
+.info-text .date { color: #9ca3af; font-size: 11px; margin-top: 2px; }
+.empty-state { text-align: center; padding: 24px; color: var(--text-secondary); font-size: 13px; }
+.footer { text-align: center; padding: 24px; color: var(--text-secondary); font-size: 12px; }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 3px; }
+@media (max-width: 960px) { .tcg-grid { grid-template-columns: 1fr; } .stats-bar { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 600px) { .header { padding: 16px; } .container { padding: 12px; } .stats-bar { grid-template-columns: repeat(2, 1fr); } .tcg-grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-left">
+    <h1><span class="icon">🎴</span>TCG 游戏监控工作台</h1>
+    <div class="subtitle">实时追踪 11 款集换式卡牌游戏动态 · 新品 · 赛事 · 舆情 · 活动</div>
+  </div>
+  <div class="header-right">
+    <span><span class="status-dot active"></span>监控中</span>
+    <span id="updateTime">最后更新: --</span>
+    <button class="refresh-btn" onclick="location.reload()">🔄 刷新数据</button>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="alert-banner" id="alertBanner" style="display:none">
+    <span class="alert-icon">🔔</span>
+    <span class="alert-text" id="alertText"></span>
+    <span class="alert-badge" id="alertBadge"></span>
+  </div>
+
+  <div class="stats-bar" id="statsBar"></div>
+
+  <div class="filters">
+    <button class="filter-btn active" onclick="filterGames('all', this)">全部游戏</button>
+    <button class="filter-btn" onclick="filterGames('hot', this)">🔥 近期热门</button>
+    <button class="filter-btn" onclick="filterGames('new', this)">🆕 新品上架</button>
+    <button class="filter-btn" onclick="filterGames('event', this)">🏆 赛事活动</button>
+    <button class="filter-btn" onclick="filterGames('sentiment', this)">📊 舆情关注</button>
+  </div>
+
+  <div class="tcg-grid" id="tcgGrid"></div>
+
+</div>
+
+<div class="footer">
+  TCG 游戏监控工作台 · 每日 9:00 自动巡查 · 数据来源：各游戏官方公告、行业媒体 · 仅供信息参考
+</div>
+
+<script>
+// 全局数据缓存
+let tcgData = [];
+
+// 加载数据
+async function loadData() {
+  const grid = document.getElementById('tcgGrid');
+  grid.innerHTML = '<div style="text-align:center;padding:60px;color:#6b7280;font-size:15px;">⏳ 正在加载最新数据...</div>';
+  try {
+    const resp = await fetch('data.json?_=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const json = await resp.json();
+    tcgData = json.games;
+    renderMeta(json.meta);
+    renderDashboard();
+  } catch(e) {
+    grid.innerHTML = '<div style="text-align:center;padding:60px;color:#ef4444;font-size:15px;">❌ 数据加载失败：' + e.message + '<br><small>请检查 data.json 文件是否存在</small></div>';
+    console.error('Load error:', e);
+  }
+}
+
+function renderMeta(meta) {
+  // 预警横幅
+  const banner = document.getElementById('alertBanner');
+  if (meta.alertBanner) {
+    document.getElementById('alertText').innerHTML = '<strong>⚠️ 重要预警：</strong>' + meta.alertBanner;
+    document.getElementById('alertBadge').textContent = meta.totalAlerts + '项';
+    banner.style.display = 'flex';
+  }
+  // 统计面板
+  document.getElementById('statsBar').innerHTML = [
+    { icon: '🃏', cls: 'blue', val: meta.totalGames, label: '监控游戏' },
+    { icon: '🆕', cls: 'green', val: meta.totalNewProducts, label: '近期新品/发售' },
+    { icon: '🏆', cls: 'orange', val: meta.totalEvents, label: '赛事/活动' },
+    { icon: '📢', cls: 'purple', val: meta.totalMarketing, label: '营销/大事件' },
+    { icon: '🔔', cls: 'pink', val: meta.totalAlerts, label: '重要预警' }
+  ].map(s => `<div class="stat-card"><div class="stat-icon ${s.cls}">${s.icon}</div><div class="stat-info"><div class="stat-value">${s.val}</div><div class="stat-label">${s.label}</div></div></div>`).join('');
+  // 更新时间
+  if (meta.updated) {
+    document.getElementById('updateTime').textContent = '数据更新: ' + meta.updated.replace('T', ' ').substring(0,16);
+  } else {
+    updateTime();
+  }
+}
+
+function renderDashboard() {
+  const grid = document.getElementById('tcgGrid');
+  if (!tcgData.length) return;
+  grid.innerHTML = tcgData.map(game => createTCGCard(game)).join('');
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+      const card = this.closest('.tcg-card');
+      card.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+      const tabName = this.dataset.tab;
+      card.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      const target = card.querySelector('.tab-content[data-tab="' + tabName + '"]');
+      if (target) target.classList.add('active');
+    });
+  });
+  if (!document.getElementById('updateTime').textContent.includes('数据更新')) updateTime();
+}
+
+function createTCGCard(game) {
+  var tabNames = { newProducts: '新品上架', sentiment: '舆情动态', marketing: '营销大事件', offline: '线下活动', tournaments: '赛事举办' };
+  var tabIcons = { newProducts: '🆕', sentiment: '📊', marketing: '📢', offline: '📍', tournaments: '🏆' };
+  var tabs = Object.keys(game.tabs).map(function(key, idx) {
+    var items = game.tabs[key];
+    var badge = items.length > 0 && idx === 0 ? '<span class="badge">' + items.length + '</span>' : '';
+    return '<button class="tab-btn' + (idx === 0 ? ' active' : '') + '" data-tab="' + key + '">' + tabIcons[key] + ' ' + tabNames[key] + badge + '</button>';
+  }).join('');
+  var tabContents = Object.keys(game.tabs).map(function(key, idx) {
+    var items = game.tabs[key];
+    if (items.length === 0) {
+      return '<div class="tab-content' + (idx === 0 ? ' active' : '') + '" data-tab="' + key + '"><div class="empty-state">暂无数据</div></div>';
+    }
+    var itemsHtml = items.map(function(item) {
+      return '<div class="info-item"><span class="info-tag ' + item.tag + '">' + item.tagText + '</span><div class="info-text"><div class="title">' + item.title + '</div><div class="desc">' + item.desc + '</div><div class="date">📅 ' + item.date + '</div></div></div>';
+    }).join('');
+    return '<div class="tab-content' + (idx === 0 ? ' active' : '') + '" data-tab="' + key + '">' + itemsHtml + '</div>';
+  }).join('');
+  var statusIcon = game.status === 'hot' ? '🔥 ' : game.status === 'active' ? '✅ ' : '⏳ ';
+  return '<div class="tcg-card" data-id="' + game.id + '" data-status="' + game.status + '"><div class="tcg-card-header"><div class="game-name"><div class="game-avatar ' + game.avatarClass + '">' + game.emoji + '</div><span>' + game.name + '</span></div><span class="tcg-status ' + game.status + '">' + statusIcon + game.statusText + '</span></div><div class="tab-nav">' + tabs + '</div>' + tabContents + '</div>';
+}
+
+function filterGames(type, btn) {
+  document.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+  btn.classList.add('active');
+  document.querySelectorAll('.tcg-card').forEach(function(card) {
+    if (type === 'all') { card.style.display = ''; return; }
+    var status = card.dataset.status;
+    var id = card.dataset.id;
+    if (type === 'hot' && status === 'hot') card.style.display = '';
+    else if (type === 'new' && ['ptcg','hspw','cyjz','hyrz','azuki','mtghobbit','onepiece','kakawowhp'].indexOf(id) >= 0) card.style.display = '';
+    else if (type === 'event' && ['rwzc','ptcg','xgzf','cyjz','mtghobbit','onepiece'].indexOf(id) >= 0) card.style.display = '';
+    else if (type === 'sentiment') card.style.display = '';
+    else card.style.display = 'none';
+  });
+}
+
+function updateTime() {
+  document.getElementById('updateTime').textContent = '最后更新: ' + new Date().toLocaleString('zh-CN');
+}
+
+document.addEventListener('DOMContentLoaded', loadData);
+</script>
+</body>
+</html>
