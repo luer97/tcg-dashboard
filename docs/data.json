@@ -1,11 +1,11 @@
 {
   "meta": {
     "updated": "2026-08-11T10:27:00+08:00",
-    "totalGames": 11,
-    "totalNewProducts": 32,
-    "totalEvents": 48,
-    "totalMarketing": 28,
-    "totalAlerts": 12,
+      "totalGames": 12,
+    "totalNewProducts": 39,
+    "totalEvents": 54,
+    "totalMarketing": 31,
+    "totalAlerts": 13,
     "alertBanner": "⚠️ 重要预警（8/11巡查）：🔴超英击战蜘蛛纪元<strong style=\"color:#dc2626\">明天8/12发售仅剩1天！</strong>🔴MTG《The Hobbit》Arena<strong style=\"color:#dc2626\">今日上线+实体8/14发售仅剩3天！</strong>🔴Azuki《Gates Awakened》已正式发售·LA区域赛8/15报名！🔴PTCG 30周年日本抽选进行中·8/14截止！🔴符文战场水晶玫瑰卡莎专场进行中+T1礼盒抽选8/14开启！🔴火影Mythos Set 2预发售8/28-30！🔴海贼王OP-17 4周年·8/28全球同步！"
   },
   "games": [
@@ -301,6 +301,42 @@
         "tournaments": [
           { "tag": "event", "tagText": "🔥今日", "title": "Arena Direct Sealed (8/14-23)", "desc": "HOB现开赛，7胜赢Collector Booster箱！8/14起", "date": "2026-08-14~23" },
           { "tag": "event", "tagText": "赛事", "title": "Friday Night Magic (8/14起)", "desc": "每周五HOB赛季FNM，Standard Showdown Wood Elves promo奖励", "date": "2026-08-14~09-24" }
+        ]
+      }
+    },
+    {
+      "id": "mtg",
+      "name": "万智牌",
+      "emoji": "🔮",
+      "avatarClass": "mtg",
+      "status": "hot",
+      "statusText": "Reality Fracture 10/2·半年创收70亿",
+      "tabs": {
+        "newProducts": [
+          { "tag": "new", "tagText": "已发售", "title": "Marvel Super Heroes 联名系列", "desc": "6/26全球发售！漫威超级英雄联动，史上最快突破3亿美元收入的MTG系列，玩家社区反响炸裂", "date": "2026-06-26" },
+          { "tag": "new", "tagText": "已发售", "title": "Secrets of Strixhaven（斯翠海文的秘密）", "desc": "4/24发售，五大学院回归！魔法学院主题扩展，上市后迅速全网售罄", "date": "2026-04-24" },
+          { "tag": "new", "tagText": "已发售", "title": "Teenage Mutant Ninja Turtles（忍者神龟联名）", "desc": "3/6全球发售，MTG×忍者神龟跨界联名", "date": "2026-03-06" },
+          { "tag": "new", "tagText": "已发售", "title": "Lorwyn Eclipsed（洛温：日蚀）", "desc": "1/23发售，本宇宙2026开年系列", "date": "2026-01-23" },
+          { "tag": "alert", "tagText": "🔥即将", "title": "Reality Fracture（现实裂隙）", "desc": "10/2全球发售！本宇宙年度收官系列，售前赛9/25-10/1，五色Foundations Commander预组同步推出。北京MagicCon 10/31-11/1", "date": "2026-10-02" },
+          { "tag": "upcoming", "tagText": "预告", "title": "Star Trek（星际迷航联名）", "desc": "11/13全球发售！MTG×Star Trek无疆新宇宙联动", "date": "2026-11-13" },
+          { "tag": "alert", "tagText": "🔥首测", "title": "MTG Arena 国服星火首测", "desc": "腾讯代理国服《万智牌：竞技场》开启星火首测！限定纪念卡背+登录福利+大师VS大师欢乐邀请赛", "date": "2026-01" }
+        ],
+        "sentiment": [
+          { "tag": "hot", "tagText": "🔥热议", "title": "H1创收约70亿元，单季超$5亿", "desc": "孩之宝财报：万智牌2026上半年持续强劲，2025年度销售$17亿成百亿IP。玩家平均年龄35岁、平均玩龄5年+，黏性极高", "date": "2026-08" },
+          { "tag": "news", "tagText": "关注", "title": "无疆新宇宙(UB)+本宇宙双引擎战略", "desc": "FF/蜘蛛侠/降世神通(2025)→忍者神龟/漫威英雄/霍比特人/星际迷航(2026)，UB系列与本体系列交替推出持续引爆市场", "date": "2026" },
+          { "tag": "news", "tagText": "关注", "title": "全球1.2万+门店·年参与赛事100万+人", "desc": "全球最大TCG赛事网络，Standard/Pioneer/Modern/Commander多赛制并行，MagicCon全球巡回", "date": "2026" }
+        ],
+        "marketing": [
+          { "tag": "event", "tagText": "✅已完成", "title": "MagicCon: Las Vegas 2026", "desc": "5/1-3拉斯维加斯会议中心，数千牌手+内容前瞻+竞技对决", "date": "2026-05-01~03" },
+          { "tag": "event", "tagText": "✅已完成", "title": "MagicCon: Amsterdam 2026", "desc": "7/17-19荷兰阿姆斯特丹，欧洲年度盛会", "date": "2026-07-17~19" },
+          { "tag": "event", "tagText": "🔥北京", "title": "MagicCon: Atlanta + Spotlight北京站", "desc": "亚特兰大MagicCon 11月+北京Fracture Spotlight 10/31-11/1！中国牌手主场赛事", "date": "2026-10~11" }
+        ],
+        "offline": [
+          { "tag": "event", "tagText": "门店", "title": "全球1.2万+认证店铺", "desc": "WPN认证体系覆盖全球，中国持续扩展中", "date": "2026" }
+        ],
+        "tournaments": [
+          { "tag": "event", "tagText": "🔥中国", "title": "学院杯·5城高校团队现开赛", "desc": "5座中国城市高校内举办团队现开赛(3人一队)，覆盖一线高校TCG玩家群体", "date": "2026" },
+          { "tag": "event", "tagText": "赛事", "title": "Pro Tour + Regional Championship体系", "desc": "全年多场PT+RC资格赛，覆盖Standard/Pioneer/Modern三大竞技赛制", "date": "2026" }
         ]
       }
     },
