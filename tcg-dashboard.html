@@ -152,7 +152,8 @@ body {
 .tcg-status.hot { background: #fef2f2; color: var(--red); }
 .tcg-status.active { background: #f0fdf4; color: #16a34a; }
 .tcg-status.upcoming { background: #fffbeb; color: #d97706; }
-.tab-nav { display: flex; border-bottom: 1px solid var(--border); padding: 0 16px; background: #fafbfc; }
+.tab-nav { display: flex; border-bottom: 1px solid var(--border); padding: 0 12px; background: #fafbfc; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+.tab-nav::-webkit-scrollbar { display: none; }
 .tab-btn {
   padding: 10px 14px;
   font-size: 12px;
@@ -163,12 +164,13 @@ body {
   border-bottom: 2px solid transparent;
   transition: all 0.2s;
   white-space: nowrap;
+  flex-shrink: 0;
 }
 .tab-btn:hover { color: var(--text); }
 .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
 .tab-btn .badge { display: inline-block; background: var(--red); color: white; border-radius: 10px; padding: 1px 6px; font-size: 10px; margin-left: 4px; vertical-align: middle; }
 .tab-content { display: none; padding: 14px 20px; }
-.tab-content.active { display: block; }
+.tab-content.active { display: block; max-height: 420px; overflow-y: auto; }
 .info-item { padding: 10px 0; border-bottom: 1px solid #f3f4f6; display: flex; gap: 10px; align-items: flex-start; font-size: 13px; }
 .info-item:last-child { border-bottom: none; }
 .info-tag { padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; white-space: nowrap; flex-shrink: 0; }
@@ -188,7 +190,7 @@ body {
 ::-webkit-scrollbar-track { background: transparent; }
 ::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 3px; }
 @media (max-width: 960px) { .tcg-grid { grid-template-columns: 1fr; } .stats-bar { grid-template-columns: repeat(3, 1fr); } }
-@media (max-width: 600px) { .header { padding: 16px; } .container { padding: 12px; } .stats-bar { grid-template-columns: repeat(2, 1fr); } .tcg-grid { grid-template-columns: 1fr; } }
+@media (max-width: 600px) { .header { padding: 12px 16px; } .container { padding: 10px; } .stats-bar { grid-template-columns: repeat(2, 1fr); } .tcg-grid { grid-template-columns: 1fr; } .tab-btn { padding: 8px 10px; font-size: 11px; } .tab-content.active { max-height: 360px; } .tcg-card-header { padding: 12px 16px; } .tcg-status { font-size: 11px; padding: 3px 8px; } }
 </style>
 </head>
 <body>
@@ -196,7 +198,7 @@ body {
 <div class="header">
   <div class="header-left">
     <h1><span class="icon">🎴</span>TCG 游戏监控工作台</h1>
-    <div class="subtitle">实时追踪 11 款集换式卡牌游戏动态 · 新品 · 赛事 · 舆情 · 活动</div>
+    <div class="subtitle">实时追踪 12 款集换式卡牌游戏动态 · 新品 · 赛事 · 舆情 · 活动</div>
   </div>
   <div class="header-right">
     <span><span class="status-dot active"></span>监控中</span>
