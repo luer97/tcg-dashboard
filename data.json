@@ -19,7 +19,7 @@
       "tabs": {
         "newProducts": [
           { "tag": "new", "tagText": "已发售", "title": "First Partner Illustration Collection Series 3", "desc": "8/7发售！Hoenn/Kalos/Paldea御三家插画卡，¥14.99", "date": "2026-08-07" },
-          { "tag": "alert", "tagText": "🔥仅剩1天", "title": "30周年日本抽选 8/14 16:59截止！", "desc": "仅剩最后1天！4款商品：(1)30th BOX ¥7,200 (2)太阳/月亮伊布套 ¥6,200 (3)FUTURISTIC BOX ¥27,500 (4)9款卡牌套装 ¥10,800(8/28~31单独抽选)。8/21公布抽选结果，My Number实名认证用户中签率更高，海外黄牛被封堵", "date": "2026-08-10~14" },
+          { "tag": "alert", "tagText": "🔥仅剩1天", "title": "30周年日本抽选 8/14 16:59截止！", "url": "https://www.pokemon.com/us/pokemon-news", "desc": "仅剩最后1天！4款商品：(1)30th BOX ¥7,200 (2)太阳/月亮伊布套 ¥6,200 (3)FUTURISTIC BOX ¥27,500 (4)9款卡牌套装 ¥10,800(8/28~31单独抽选)。8/21公布抽选结果，My Number实名认证用户中签率更高，海外黄牛被封堵", "date": "2026-08-10~14" },
           { "tag": "new", "tagText": "已发售", "title": "Pitch Black (Abyss Eye)", "desc": "7/17发售！Mega Darkrai/Zeraora/Chandelure/Excadrill ex，115+卡35+异画", "date": "2026-07-17" },
           { "tag": "new", "tagText": "新品", "title": "Mega Forces Tin + Ascended Heroes Tin", "desc": "8/28发售！Mega Dragonite/Darkrai/Zeraora + Meganium/Emboar/Feraligatr，各4包", "date": "2026-08-28" },
           { "tag": "new", "tagText": "新品", "title": "繁中版 超级进化 绿宝石风暴 M6F", "desc": "8/7台湾发售，Mega Rayquaza核心", "date": "2026-08-07" },
@@ -42,7 +42,7 @@
           { "tag": "event", "tagText": "门店", "title": "武汉光谷官方卡牌道馆", "desc": "齿轮组道馆开业，消费满¥99送特典卡", "date": "2026-07-03" }
         ],
         "tournaments": [
-          { "tag": "event", "tagText": "🔥重大赛事", "title": "2026 Pokémon World Championships", "desc": "8/28-30旧金山，Moscone Center初赛+Chase Center决赛(勇士主场)！开幕夜Oracle Park无人机秀", "date": "2026-08-28~30" }
+          { "tag": "event", "tagText": "🔥重大赛事", "title": "2026 Pokémon World Championships", "url": "https://www.pokemon.com/us/play-pokemon/pokemon-events/pokemon-tournaments", "desc": "8/28-30旧金山，Moscone Center初赛+Chase Center决赛(勇士主场)！开幕夜Oracle Park无人机秀", "date": "2026-08-28~30" }
         ]
       }
     },
@@ -285,7 +285,7 @@
       "statusText": "Arena已上线·实体仅剩1天！",
       "tabs": {
         "newProducts": [
-          { "tag": "alert", "tagText": "🔥仅剩1天", "title": "MTG The Hobbit 全球发售", "desc": "8/14正式发售仅剩1天！Bilbo Baggins孤山之旅，Tolkien宇宙×MTG第五扩展。Play Boosters $6.99 / Collector Boosters $37.99 / Bundle $69.99", "date": "2026-08-14" },
+          { "tag": "alert", "tagText": "🔥仅剩1天", "title": "MTG The Hobbit 全球发售", "url": "https://magic.wizards.com/en/news", "desc": "8/14正式发售仅剩1天！Bilbo Baggins孤山之旅，Tolkien宇宙×MTG第五扩展。Play Boosters $6.99 / Collector Boosters $37.99 / Bundle $69.99", "date": "2026-08-14" },
           { "tag": "new", "tagText": "进行中", "title": "售前赛 (Prerelease)", "desc": "8/7-13全球店铺售前赛进行中，提前一周抢先体验", "date": "2026-08-07~13" },
           { "tag": "alert", "tagText": "✅已上线", "title": "MTG Arena 数字版", "desc": "8/11正式上线！Pack/Pass/Play预购Bundle已开售，Sealed/Draft活动同步启动！Arena Direct Sealed 8/14-23可赢Collector Booster箱", "date": "2026-08-11" },
           { "tag": "new", "tagText": "新品", "title": "Gift Bundle 礼盒", "desc": "9/4发售，含特别赠卡和收藏配件", "date": "2026-09-04" },
@@ -323,7 +323,7 @@
           { "tag": "new", "tagText": "已发售", "title": "Secrets of Strixhaven（斯翠海文的秘密）", "desc": "4/24发售，五大学院回归！魔法学院主题扩展，上市后迅速全网售罄", "date": "2026-04-24" },
           { "tag": "new", "tagText": "已发售", "title": "Teenage Mutant Ninja Turtles（忍者神龟联名）", "desc": "3/6全球发售，MTG×忍者神龟跨界联名", "date": "2026-03-06" },
           { "tag": "new", "tagText": "已发售", "title": "Lorwyn Eclipsed（洛温：日蚀）", "desc": "1/23发售，本宇宙2026开年系列", "date": "2026-01-23" },
-          { "tag": "alert", "tagText": "🔥即将", "title": "Reality Fracture（现实裂隙）", "desc": "10/2全球发售！本宇宙年度收官系列，Jace变\"The Theorist\"构建Echoverse回声宇宙。售前赛9/25-10/1，五色Foundations Commander预组+Secret Lair Bundle同步推出。北京MagicCon 10/31-11/1", "date": "2026-10-02" },
+          { "tag": "alert", "tagText": "🔥即将", "title": "Reality Fracture（现实裂隙）", "url": "https://magic.wizards.com/en/news", "desc": "10/2全球发售！本宇宙年度收官系列，Jace变\"The Theorist\"构建Echoverse回声宇宙。售前赛9/25-10/1，五色Foundations Commander预组+Secret Lair Bundle同步推出。北京MagicCon 10/31-11/1", "date": "2026-10-02" },
           { "tag": "upcoming", "tagText": "预告", "title": "Star Trek（星际迷航联名）", "desc": "11/13全球发售！MTG×Star Trek无疆新宇宙联动", "date": "2026-11-13" },
           { "tag": "alert", "tagText": "🔥首测", "title": "MTG Arena 国服星火首测", "desc": "腾讯代理国服《万智牌：竞技场》开启星火首测！限定纪念卡背+登录福利+大师VS大师欢乐邀请赛", "date": "2026-01" }
         ],
@@ -356,7 +356,7 @@
       "statusText": "4周年在即·OP-17日本8/22全球8/28",
       "tabs": {
         "newProducts": [
-          { "tag": "alert", "tagText": "🔥里程碑", "title": "OP-17: The World's Strongest Warriors (4周年)", "desc": "日本8/22先行→全球8/28同步！Elbaph巨人国篇，Rocks D. Xebec首次登场(Secret Rare 12000战力)+Loki确认参战！Manga Rare/Manga Leader新稀有度。板垣恵介(Baki作者)绘制Kaido合作卡(OP17-062 SR)", "date": "2026-08-22~28" },
+          { "tag": "alert", "tagText": "🔥里程碑", "title": "OP-17: The World's Strongest Warriors (4周年)", "url": "https://en.onepiece-cardgame.com", "desc": "日本8/22先行→全球8/28同步！Elbaph巨人国篇，Rocks D. Xebec首次登场(Secret Rare 12000战力)+Loki确认参战！Manga Rare/Manga Leader新稀有度。板垣恵介(Baki作者)绘制Kaido合作卡(OP17-062 SR)", "date": "2026-08-22~28" },
           { "tag": "new", "tagText": "已发售", "title": "OP-16: The Time of Battle", "desc": "6/12发售，Paramount War/Impel Down篇，6位新领袖(黑胡子/战国/艾斯)，Manga Rare三上将", "date": "2026-06-12" },
           { "tag": "new", "tagText": "里程碑", "title": "OP-15: Adventure on Kami's Island (首款全球同步)", "desc": "4/3 Bandai首个全球同步发售！Skypiea篇，Enel Manga Rare为热门卡，日本仅提前5周", "date": "2026-04-03" },
           { "tag": "new", "tagText": "已发售", "title": "ST-31~36 新手起始牌组", "desc": "7/31发售，6色新预组(Luffy/Zoro/Kuzan/Katakuri/Sabo/Kid)，$11.99/副", "date": "2026-07-31" },
@@ -369,7 +369,7 @@
           { "tag": "news", "tagText": "市场", "title": "OP TCG全球第三大TCG", "desc": "2025 Q4已超越游戏王成为全球销售额#3 TCG。OP-16英文盒价从$400回落至$188", "date": "2026" }
         ],
         "marketing": [
-          { "tag": "event", "tagText": "🔥4周年", "title": "4周年Release Event + ONE PIECE DAY '26", "desc": "8/22-23全球OP-17先行店赛！6包Sealed构筑+限定Release Pack参与奖+Winner Pack。同期幕张Messe举办ONE PIECE DAY '26，8/23卡牌舞台压轴", "date": "2026-08-22~23" },
+          { "tag": "event", "tagText": "🔥4周年", "title": "4周年Release Event + ONE PIECE DAY '26", "url": "https://en.onepiece-cardgame.com", "desc": "8/22-23全球OP-17先行店赛！6包Sealed构筑+限定Release Pack参与奖+Winner Pack。同期幕张Messe举办ONE PIECE DAY '26，8/23卡牌舞台压轴", "date": "2026-08-22~23" },
           { "tag": "event", "tagText": "营销", "title": "3周年Collection英文版", "desc": "预计8月底随OP-17同步上市", "date": "2026-08" }
         ],
         "offline": [],

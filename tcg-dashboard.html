@@ -171,8 +171,12 @@ body {
 .tab-btn .badge { display: inline-block; background: var(--red); color: white; border-radius: 10px; padding: 1px 6px; font-size: 10px; margin-left: 4px; vertical-align: middle; }
 .tab-content { display: none; padding: 14px 20px; }
 .tab-content.active { display: block; max-height: 420px; overflow-y: auto; }
-.info-item { padding: 10px 0; border-bottom: 1px solid #f3f4f6; display: flex; gap: 10px; align-items: flex-start; font-size: 13px; }
+.info-item { padding: 10px 0; border-bottom: 1px solid #f3f4f6; display: flex; gap: 10px; align-items: flex-start; font-size: 13px; text-decoration: none; color: inherit; cursor: pointer; border-radius: 4px; transition: background 0.15s; }
 .info-item:last-child { border-bottom: none; }
+.info-item:hover { background: #f8fafc; }
+.info-item:hover .info-text .title { color: var(--accent); }
+.info-link { color: #cbd5e1; flex-shrink: 0; font-size: 14px; opacity: 0; transition: opacity 0.15s, color 0.15s; align-self: center; }
+.info-item:hover .info-link { opacity: 1; color: var(--accent); }
 .info-tag { padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; white-space: nowrap; flex-shrink: 0; }
 .info-tag.new { background: #dcfce7; color: #166534; }
 .info-tag.upcoming { background: #e0e7ff; color: #3730a3; }
@@ -310,7 +314,12 @@ function createTCGCard(game) {
       return '<div class="tab-content' + (idx === 0 ? ' active' : '') + '" data-tab="' + key + '"><div class="empty-state">暂无数据</div></div>';
     }
     var itemsHtml = items.map(function(item) {
-      return '<div class="info-item"><span class="info-tag ' + item.tag + '">' + item.tagText + '</span><div class="info-text"><div class="title">' + item.title + '</div><div class="desc">' + item.desc + '</div><div class="date">📅 ' + item.date + '</div></div></div>';
+      var href = item.url || ('https://www.bing.com/search?q=' + encodeURIComponent(game.name + ' ' + item.title));
+      return '<a class="info-item" href="' + href + '" target="_blank" rel="noopener noreferrer" title="点击查看来源">' +
+        '<span class="info-tag ' + item.tag + '">' + item.tagText + '</span>' +
+        '<div class="info-text"><div class="title">' + item.title + '</div><div class="desc">' + item.desc + '</div><div class="date">📅 ' + item.date + '</div></div>' +
+        '<span class="info-link">↗</span>' +
+        '</a>';
     }).join('');
     return '<div class="tab-content' + (idx === 0 ? ' active' : '') + '" data-tab="' + key + '">' + itemsHtml + '</div>';
   }).join('');
