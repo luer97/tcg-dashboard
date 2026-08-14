@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "entries": [
     {
       "date": "2026-07-17",
@@ -300,6 +300,80 @@
       "tagText": "活动",
       "title": "Pocket Ruler of the Skies Emblem Event 收官",
       "desc": "Mega Rayquaza ex新拓展包+Emblem Event今天(8/13)结束"
+    },
+    {
+      "date": "2026-08-14",
+      "game": "MTG The Hobbit",
+      "gameId": "mtghobbit",
+      "emoji": "🏔️",
+      "avatarClass": "mtgh",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥今日发售",
+      "title": "MTG The Hobbit 全球发售",
+      "url": "https://magic.wizards.com/en/news",
+      "desc": "8/14全球发售！Smaug金龙闪仅500张+40张Box Topper经典卡(One Ring回归)+Dwarvish语言卡5张，Arena Direct Sealed同步开启"
+    },
+    {
+      "date": "2026-08-14",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "marketing",
+      "tag": "alert",
+      "tagText": "🔥抽选",
+      "title": "T1冠军签名限定礼盒五大渠道公布",
+      "url": "https://lol.qq.com/news/space-detail.shtml?docid=14232345361603808949",
+      "desc": "8/15 10:00官方小程序+客户端抽选开启，另设天选之礼/武汉现场/群英聚力组队抽选，五位冠军签名卡曝光"
+    },
+    {
+      "date": "2026-08-14",
+      "game": "Gates Awakened (Azuki)",
+      "gameId": "azuki",
+      "emoji": "⛩️",
+      "avatarClass": "az",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥赛事",
+      "title": "洛杉矶Garden Arena区域赛确认8/15开赛",
+      "desc": "Pasadena Convention Center举行，与CoreTCG合作，Top16晋级2027 Invitational，Top8获serialized Raizan编号卡"
+    },
+    {
+      "date": "2026-08-14",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "sentiment",
+      "tag": "alert",
+      "tagText": "🔥里程碑",
+      "title": "OP-17首个完全全球同步+Treasure Rare新稀有度",
+      "desc": "131+4卡(135张)，全新Treasure Rare+Luffy Super Leader Parallel，四皇Manga Rare+Conqueror's Haki Special卡，日本8/22全球8/28"
+    },
+    {
+      "date": "2026-08-14",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "sentiment",
+      "tag": "hot",
+      "tagText": "🔥截止",
+      "title": "30周年日本抽选今日截止",
+      "desc": "8/14 16:59 JST截止，二级市场预售ETB溢价3-4倍，杉森建亲绘皮卡丘纪念卡公开"
+    },
+    {
+      "date": "2026-08-14",
+      "game": "火影忍者 TCG",
+      "gameId": "hyrz",
+      "emoji": "🍥",
+      "avatarClass": "hy",
+      "category": "newProducts",
+      "tag": "news",
+      "tagText": "关注",
+      "title": "Mythos Set2美区预发售定档9月下旬",
+      "desc": "欧洲8/28-30预发售+9/4正式，美/加/墨/加勒比9月下旬预发售，Set1二版8/29美国OP商店限量上市"
     }
   ]
 }
