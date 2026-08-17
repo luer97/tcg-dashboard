@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14",
+  "updated": "2026-08-17",
   "entries": [
     {
       "date": "2026-07-17",
@@ -374,6 +374,79 @@
       "tagText": "关注",
       "title": "Mythos Set2美区预发售定档9月下旬",
       "desc": "欧洲8/28-30预发售+9/4正式，美/加/墨/加勒比9月下旬预发售，Set1二版8/29美国OP商店限量上市"
+    },
+    {
+      "date": "2026-08-14",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "sentiment",
+      "tag": "news",
+      "tagText": "🔥致歉",
+      "title": "Bushiroad就缺货/黄牛问题致歉",
+      "desc": "8/14官方就市场需求超预期与黄牛炒作致歉，全球已售罄350万包+，重申TCG不应成金融商品"
+    },
+    {
+      "date": "2026-08-15",
+      "game": "超英击战 TCG",
+      "gameId": "cyjz",
+      "emoji": "🦸",
+      "avatarClass": "cy",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "✅已发售",
+      "title": "英文版海外正式发售",
+      "desc": "8/15标准补充包+基础卡组英文版全球上线，8/22广州首场地区公开赛紧随其后"
+    },
+    {
+      "date": "2026-08-15",
+      "game": "Gates Awakened (Azuki)",
+      "gameId": "azuki",
+      "emoji": "⛩️",
+      "avatarClass": "az",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥开赛",
+      "title": "洛杉矶Garden Arena区域赛开赛",
+      "desc": "8/15在Pasadena Convention Center举行，与CoreTCG合作，数百名选手参赛，Top16晋级2027 Invitational"
+    },
+    {
+      "date": "2026-08-15",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥抽选中",
+      "title": "T1冠军签名限定礼盒五大渠道抽选开启",
+      "url": "https://lol.qq.com/news/space-detail.shtml?docid=14232345361603808949",
+      "desc": "8/15 10:00官方小程序+客户端抽选开启，萨勒芬妮Keria冠军签名卡公开，英文版报名8/17截止"
+    },
+    {
+      "date": "2026-08-17",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥扩容",
+      "title": "一周年武汉站扩容至1280人+共鸣公开赛",
+      "desc": "8/29-30武汉国际博览中心B2馆，区域公开赛扩容至1280人(原640)，8/29赛区对抗表演赛+8/30共鸣公开赛(前2名直通全国冠军赛)"
+    },
+    {
+      "date": "2026-08-17",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥纪念赛",
+      "title": "OP-17发售纪念赛「最强斗士」公布",
+      "desc": "8/22日本先行+全国门店发售纪念赛，万代卡牌APP报名，购买6包即可参赛，特典包Vol.3奖励"
     }
   ]
 }
