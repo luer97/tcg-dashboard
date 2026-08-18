@@ -1,30 +1,6 @@
 {
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "entries": [
-    {
-      "date": "2026-07-17",
-      "game": "宝可梦 PTCG",
-      "gameId": "ptcg",
-      "emoji": "⚡",
-      "avatarClass": "pk",
-      "category": "newProducts",
-      "tag": "new",
-      "tagText": "已发售",
-      "title": "Pitch Black (Abyss Eye) 发售",
-      "desc": "7/17发售！Mega Darkrai/Zeraora/Chandelure/Excadrill ex，115+卡35+异画"
-    },
-    {
-      "date": "2026-07-17",
-      "game": "万智牌",
-      "gameId": "mtg",
-      "emoji": "🔮",
-      "avatarClass": "mtg",
-      "category": "marketing",
-      "tag": "event",
-      "tagText": "展会",
-      "title": "MagicCon Amsterdam 2026 开幕",
-      "desc": "7/17-19荷兰阿姆斯特丹，现场揭晓2027三款新系列(Nauctis/Kamigawa Titanbreach/Zhalfir)"
-    },
     {
       "date": "2026-07-23",
       "game": "火影忍者 TCG",
@@ -447,6 +423,54 @@
       "tagText": "🔥纪念赛",
       "title": "OP-17发售纪念赛「最强斗士」公布",
       "desc": "8/22日本先行+全国门店发售纪念赛，万代卡牌APP报名，购买6包即可参赛，特典包Vol.3奖励"
+    },
+    {
+      "date": "2026-08-16",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "sentiment",
+      "tag": "alert",
+      "tagText": "🔥重磅",
+      "title": "官宣2027全新赛事体系+首届全球总决赛",
+      "desc": "8/16年度游戏状态报告发布，首办全球总决赛、退役Summoner Skirmish、双线赛事架构升级；新卡仅通过常规扩展包上线，附属产品不再出独占卡"
+    },
+    {
+      "date": "2026-08-18",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥揭晓",
+      "title": "OP-17 Treasure Rare揭晓：白胡子Edward Newgate",
+      "desc": "英文独占TR(OP17-040，6费8000黑)，稀有度构成3SR+10SP+1TR+10SR，Loki确认OP17-119 SR；4周年Dash Pack 8/21实体店开送"
+    },
+    {
+      "date": "2026-08-22",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥大奖赛",
+      "title": "峡谷争锋2026大奖赛·上海",
+      "desc": "8/22-23上海开启，重磅奖池+创新配套赛道(无正赛名额也能参与)+竞技赛制革新，报名已开启"
+    },
+    {
+      "date": "2026-08-03",
+      "game": "Doginal Dogs Legends",
+      "gameId": "doginal",
+      "emoji": "🐕",
+      "avatarClass": "dg",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "🔥新TCG",
+      "title": "链上社区高端手绘TCG宣布",
+      "desc": "Dogecoin像素艺术藏品社区8/3宣布，111张手绘卡+40张牌组格式，9/2-4 DDNYC纽约现场首发"
     }
   ]
 }
