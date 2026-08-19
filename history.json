@@ -471,6 +471,79 @@
       "tagText": "🔥新TCG",
       "title": "链上社区高端手绘TCG宣布",
       "desc": "Dogecoin像素艺术藏品社区8/3宣布，111张手绘卡+40张牌组格式，9/2-4 DDNYC纽约现场首发"
+    },
+    {
+      "date": "2026-08-19",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "marketing",
+      "tag": "alert",
+      "tagText": "🔥抽选",
+      "title": "T1冠军签名礼盒8/20-21公布抽选结果",
+      "url": "https://lol.qq.com/news/space-detail.shtml?docid=14232345361603808949",
+      "desc": "签名版¥2025(韩/英/中各限10125套)/普通版¥399，中选24小时内付款，9/3统一发货，需誓约值≥120"
+    },
+    {
+      "date": "2026-08-19",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥奖金池",
+      "title": "2026大奖赛奖金池60万公布",
+      "desc": "冠军¥20万/亚军5万/季军3万，上海国际元数创港STAGE7，640内场+360外场，DAY2双卡组BO3新赛制"
+    },
+    {
+      "date": "2026-08-19",
+      "game": "超英击战 TCG",
+      "gameId": "cyjz",
+      "emoji": "🦸",
+      "avatarClass": "cy",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥调整",
+      "title": "广州公开赛赛事调整公告",
+      "desc": "每轮30→40分钟，须9张冲击卡组+卡套区分；冠军¥3000/亚军2000/季军1000，蜘蛛纪元HR限编(金编99/银编616)"
+    },
+    {
+      "date": "2026-08-19",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥新稀有度",
+      "title": "OP-17 Manga Leaders新稀有度首现+DP-12同日",
+      "desc": "Rocks D. Xebec=OP17-118 SEC(12000)，6领袖全确认；8/28同日发售DP-12双包+3rd Anniversary Set英文版"
+    },
+    {
+      "date": "2026-08-19",
+      "game": "万智牌",
+      "gameId": "mtg",
+      "emoji": "🔮",
+      "avatarClass": "mtg",
+      "category": "sentiment",
+      "tag": "news",
+      "tagText": "🔥揭晓",
+      "title": "Reality Fracture五学院命名揭晓",
+      "desc": "Hexhaven五学院(Fatehold蓝白/Theorix蓝黑/Stingerquill黑红/Konstrari红绿/Vigorbloom绿白)，每包正反角色对卡机制，2027推Battle of Five Armies Co-op Kit"
+    },
+    {
+      "date": "2026-08-19",
+      "game": "火影忍者 TCG",
+      "gameId": "hyrz",
+      "emoji": "🍥",
+      "avatarClass": "hy",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥预发售",
+      "title": "Mythos Set 2 欧洲预发售8/28-30",
+      "desc": "Shinobi Shiren预发售8/28-30、9/4正式、10/16第二波，新增原创设计+编号卡+22K金卡+新稀有度"
     }
   ]
 }
