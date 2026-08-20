@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-20",
   "entries": [
     {
       "date": "2026-07-23",
@@ -544,6 +544,79 @@
       "tagText": "🔥预发售",
       "title": "Mythos Set 2 欧洲预发售8/28-30",
       "desc": "Shinobi Shiren预发售8/28-30、9/4正式、10/16第二波，新增原创设计+编号卡+22K金卡+新稀有度"
+    },
+    {
+      "date": "2026-08-20",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "marketing",
+      "tag": "alert",
+      "tagText": "🔥开奖",
+      "title": "T1冠军签名限定礼盒今日公布第一轮抽选结果",
+      "url": "https://lol.qq.com/news/space-detail.shtml?docid=15148196801560497063",
+      "desc": "8/20第一轮、8/21第二轮开奖，五位冠军卡对应冠军皮肤(Doran安蓓萨/Oner赵信/Faker加里奥/Gumayusi厄运小姐/Keria萨勒芬妮)，广州玩家群已出价¥6000收购"
+    },
+    {
+      "date": "2026-08-21",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥中签",
+      "title": "30周年日本抽选8/21公布中签·8/21-25订购付款",
+      "desc": "中签者8/21 12:00起~8/25完成订购付款；30th CELEBRATION每包必含1张皮卡丘(30画师30张)，FUR新稀有度Mew ex/Mewtwo ex"
+    },
+    {
+      "date": "2026-08-21",
+      "game": "超英击战 TCG",
+      "gameId": "cyjz",
+      "emoji": "🦸",
+      "avatarClass": "cy",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥展会",
+      "title": "MOJOFEST趣藏嘉年华·上海开幕",
+      "desc": "8/21-23 HERO DOME英雄外滩演艺中心A19，试玩教学赠MOJO FEST限定宝藏包TB03，同场广州公开赛8/22"
+    },
+    {
+      "date": "2026-08-22",
+      "game": "超英击战 TCG",
+      "gameId": "cyjz",
+      "emoji": "🦸",
+      "avatarClass": "cy",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥首赛",
+      "title": "首场地区公开赛·广州站开赛",
+      "desc": "粤海喜来登天河厅，冠军¥3000/亚军2000/季军1000/5-8名500/9-16名300(税前)，参赛赠纪念牌垫+限定PR+BP01.2包，优胜金属冲击卡"
+    },
+    {
+      "date": "2026-08-21",
+      "game": "正面对决 TCG",
+      "gameId": "zmdd",
+      "emoji": "🏯",
+      "avatarClass": "zm",
+      "category": "offline",
+      "tag": "event",
+      "tagText": "🔥试玩",
+      "title": "北京DICE CON 2026线下试玩",
+      "desc": "8/21-23北京全国农业展览馆11号馆(第十届·亚洲最大桌游展)，首批线下试玩体验活动"
+    },
+    {
+      "date": "2026-08-14",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥店赛",
+      "title": "8月官方店赛开跑：捕捉露娜蒂+莉莉&百合女王牌垫抽选",
+      "desc": "捕捉露娜蒂主题赛8/14-9/10(CPR-01 PR包)、发售纪念赛8/14-8/31(灵魂卡套装+莉莉&百合女王牌垫抽选)"
     }
   ]
 }
