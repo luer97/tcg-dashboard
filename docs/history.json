@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "entries": [
     {
       "date": "2026-07-23",
@@ -617,6 +617,55 @@
       "tagText": "🔥店赛",
       "title": "8月官方店赛开跑：捕捉露娜蒂+莉莉&百合女王牌垫抽选",
       "desc": "捕捉露娜蒂主题赛8/14-9/10(CPR-01 PR包)、发售纪念赛8/14-8/31(灵魂卡套装+莉莉&百合女王牌垫抽选)"
+    },
+    {
+      "date": "2026-08-19",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "sentiment",
+      "tag": "news",
+      "tagText": "🔥加印",
+      "title": "Bushiroad宣布「帕尔帕戈斯的黎明」二版加印",
+      "desc": "8/19官方X确认Second Edition以满足全球需求，修正首版Ribbuny卡Strike框色/文字及包装'Palword'拼写错误"
+    },
+    {
+      "date": "2026-08-21",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥预发售",
+      "title": "OP-17英文预发售今日(8/21)开启·日本8/22全球8/28",
+      "desc": "史上首个Manga Leader=黑路飞OP17-079+四皇Manga Rare齐(凯多首次)，Treasure Rare=白胡子(英文独占)，Rocks D. Xebec=OP17-118 SEC，每包$4.99"
+    },
+    {
+      "date": "2026-08-21",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "marketing",
+      "tag": "alert",
+      "tagText": "🔥开签",
+      "title": "T1冠军签名礼盒小程序第二轮今日(8/21)15:00开签",
+      "url": "https://lol.qq.com/news/space-detail.shtml?docid=15148196801560497063",
+      "desc": "小程序6200套8/21 15:00释放资格抽选、客户端3600套8/20已开签，中选24小时内付款、9/3发货；二级市场已炒至¥4000(原价2025)"
+    },
+    {
+      "date": "2026-08-21",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥国际",
+      "title": "巴塞罗那地区资格赛8/21-23开赛",
+      "desc": "顶尖玩家齐聚巴塞罗那，2026年关键国际赛事"
     }
   ]
 }
