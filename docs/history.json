@@ -1,30 +1,6 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-25",
   "entries": [
-    {
-      "date": "2026-07-23",
-      "game": "火影忍者 TCG",
-      "gameId": "hyrz",
-      "emoji": "🍥",
-      "avatarClass": "hy",
-      "category": "offline",
-      "tag": "event",
-      "tagText": "试玩",
-      "title": "Mythos TCG SDCC试玩",
-      "desc": "7/23-26圣地亚哥漫展首次美国试玩"
-    },
-    {
-      "date": "2026-07-24",
-      "game": "哈利·波特 TCG",
-      "gameId": "kakawowhp",
-      "emoji": "🧙‍♂️",
-      "avatarClass": "hp",
-      "category": "marketing",
-      "tag": "event",
-      "tagText": "发布会",
-      "title": "卡卡嘉年华现场官宣",
-      "desc": "卢娜/奥利弗·伍德演员首次来华！华纳VP Vikram Sharma亲临上海西岸"
-    },
     {
       "date": "2026-07-30",
       "game": "幻兽帕鲁 TCG",
@@ -120,6 +96,18 @@
       "tagText": "庆典",
       "title": "简体中文版首发庆典·上海",
       "desc": "8/2五角场万达影城，教学/试玩/对战+购买"
+    },
+    {
+      "date": "2026-08-03",
+      "game": "Doginal Dogs Legends",
+      "gameId": "doginal",
+      "emoji": "🐕",
+      "avatarClass": "dg",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "🔥新TCG",
+      "title": "链上社区高端手绘TCG宣布",
+      "desc": "Dogecoin像素艺术藏品社区8/3宣布，111张手绘卡+40张牌组格式，9/2-4 DDNYC纽约现场首发"
     },
     {
       "date": "2026-08-06",
@@ -364,6 +352,18 @@
       "desc": "8/14官方就市场需求超预期与黄牛炒作致歉，全球已售罄350万包+，重申TCG不应成金融商品"
     },
     {
+      "date": "2026-08-14",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥店赛",
+      "title": "8月官方店赛开跑：捕捉露娜蒂+莉莉&百合女王牌垫抽选",
+      "desc": "捕捉露娜蒂主题赛8/14-9/10(CPR-01 PR包)、发售纪念赛8/14-8/31(灵魂卡套装+莉莉&百合女王牌垫抽选)"
+    },
+    {
       "date": "2026-08-15",
       "game": "超英击战 TCG",
       "gameId": "cyjz",
@@ -401,6 +401,18 @@
       "desc": "8/15 10:00官方小程序+客户端抽选开启，萨勒芬妮Keria冠军签名卡公开，英文版报名8/17截止"
     },
     {
+      "date": "2026-08-16",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "sentiment",
+      "tag": "alert",
+      "tagText": "🔥重磅",
+      "title": "官宣2027全新赛事体系+首届全球总决赛",
+      "desc": "8/16年度游戏状态报告发布，首办全球总决赛、退役Summoner Skirmish、双线赛事架构升级；新卡仅通过常规扩展包上线，附属产品不再出独占卡"
+    },
+    {
       "date": "2026-08-17",
       "game": "符文战场",
       "gameId": "rwzc",
@@ -425,18 +437,6 @@
       "desc": "8/22日本先行+全国门店发售纪念赛，万代卡牌APP报名，购买6包即可参赛，特典包Vol.3奖励"
     },
     {
-      "date": "2026-08-16",
-      "game": "符文战场",
-      "gameId": "rwzc",
-      "emoji": "⚔️",
-      "avatarClass": "rw",
-      "category": "sentiment",
-      "tag": "alert",
-      "tagText": "🔥重磅",
-      "title": "官宣2027全新赛事体系+首届全球总决赛",
-      "desc": "8/16年度游戏状态报告发布，首办全球总决赛、退役Summoner Skirmish、双线赛事架构升级；新卡仅通过常规扩展包上线，附属产品不再出独占卡"
-    },
-    {
       "date": "2026-08-18",
       "game": "海贼王 TCG",
       "gameId": "onepiece",
@@ -447,30 +447,6 @@
       "tagText": "🔥揭晓",
       "title": "OP-17 Treasure Rare揭晓：白胡子Edward Newgate",
       "desc": "英文独占TR(OP17-040，6费8000黑)，稀有度构成3SR+10SP+1TR+10SR，Loki确认OP17-119 SR；4周年Dash Pack 8/21实体店开送"
-    },
-    {
-      "date": "2026-08-22",
-      "game": "峡谷争锋",
-      "gameId": "xgzf",
-      "emoji": "🏰",
-      "avatarClass": "xg",
-      "category": "tournaments",
-      "tag": "alert",
-      "tagText": "🔥大奖赛",
-      "title": "峡谷争锋2026大奖赛·上海",
-      "desc": "8/22-23上海开启，重磅奖池+创新配套赛道(无正赛名额也能参与)+竞技赛制革新，报名已开启"
-    },
-    {
-      "date": "2026-08-03",
-      "game": "Doginal Dogs Legends",
-      "gameId": "doginal",
-      "emoji": "🐕",
-      "avatarClass": "dg",
-      "category": "newProducts",
-      "tag": "new",
-      "tagText": "🔥新TCG",
-      "title": "链上社区高端手绘TCG宣布",
-      "desc": "Dogecoin像素艺术藏品社区8/3宣布，111张手绘卡+40张牌组格式，9/2-4 DDNYC纽约现场首发"
     },
     {
       "date": "2026-08-19",
@@ -546,6 +522,18 @@
       "desc": "Shinobi Shiren预发售8/28-30、9/4正式、10/16第二波，新增原创设计+编号卡+22K金卡+新稀有度"
     },
     {
+      "date": "2026-08-19",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "sentiment",
+      "tag": "news",
+      "tagText": "🔥加印",
+      "title": "Bushiroad宣布「帕尔帕戈斯的黎明」二版加印",
+      "desc": "8/19官方X确认Second Edition以满足全球需求，修正首版Ribbuny卡Strike框色/文字及包装'Palword'拼写错误"
+    },
+    {
       "date": "2026-08-20",
       "game": "符文战场",
       "gameId": "rwzc",
@@ -583,18 +571,6 @@
       "desc": "8/21-23 HERO DOME英雄外滩演艺中心A19，试玩教学赠MOJO FEST限定宝藏包TB03，同场广州公开赛8/22"
     },
     {
-      "date": "2026-08-22",
-      "game": "超英击战 TCG",
-      "gameId": "cyjz",
-      "emoji": "🦸",
-      "avatarClass": "cy",
-      "category": "tournaments",
-      "tag": "alert",
-      "tagText": "🔥首赛",
-      "title": "首场地区公开赛·广州站开赛",
-      "desc": "粤海喜来登天河厅，冠军¥3000/亚军2000/季军1000/5-8名500/9-16名300(税前)，参赛赠纪念牌垫+限定PR+BP01.2包，优胜金属冲击卡"
-    },
-    {
       "date": "2026-08-21",
       "game": "正面对决 TCG",
       "gameId": "zmdd",
@@ -605,30 +581,6 @@
       "tagText": "🔥试玩",
       "title": "北京DICE CON 2026线下试玩",
       "desc": "8/21-23北京全国农业展览馆11号馆(第十届·亚洲最大桌游展)，首批线下试玩体验活动"
-    },
-    {
-      "date": "2026-08-14",
-      "game": "幻兽帕鲁 TCG",
-      "gameId": "hspw",
-      "emoji": "🐉",
-      "avatarClass": "hs",
-      "category": "marketing",
-      "tag": "event",
-      "tagText": "🔥店赛",
-      "title": "8月官方店赛开跑：捕捉露娜蒂+莉莉&百合女王牌垫抽选",
-      "desc": "捕捉露娜蒂主题赛8/14-9/10(CPR-01 PR包)、发售纪念赛8/14-8/31(灵魂卡套装+莉莉&百合女王牌垫抽选)"
-    },
-    {
-      "date": "2026-08-19",
-      "game": "幻兽帕鲁 TCG",
-      "gameId": "hspw",
-      "emoji": "🐉",
-      "avatarClass": "hs",
-      "category": "sentiment",
-      "tag": "news",
-      "tagText": "🔥加印",
-      "title": "Bushiroad宣布「帕尔帕戈斯的黎明」二版加印",
-      "desc": "8/19官方X确认Second Edition以满足全球需求，修正首版Ribbuny卡Strike框色/文字及包装'Palword'拼写错误"
     },
     {
       "date": "2026-08-21",
@@ -666,6 +618,90 @@
       "tagText": "🔥国际",
       "title": "巴塞罗那地区资格赛8/21-23开赛",
       "desc": "顶尖玩家齐聚巴塞罗那，2026年关键国际赛事"
+    },
+    {
+      "date": "2026-08-21",
+      "game": "哈利·波特 TCG",
+      "gameId": "kakawowhp",
+      "emoji": "🧙‍♂️",
+      "avatarClass": "hp",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥活动",
+      "title": "「魔法足迹」收藏展示框兑换活动开启",
+      "desc": "哈利·波特25周年献礼，8/21开启，集齐1角色7学年7张卡即有机会兑换展示框(3款各限量20个)"
+    },
+    {
+      "date": "2026-08-22",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥大奖赛",
+      "title": "峡谷争锋2026大奖赛·上海",
+      "desc": "8/22-23上海开启，重磅奖池+创新配套赛道(无正赛名额也能参与)+竞技赛制革新，报名已开启"
+    },
+    {
+      "date": "2026-08-22",
+      "game": "超英击战 TCG",
+      "gameId": "cyjz",
+      "emoji": "🦸",
+      "avatarClass": "cy",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥首赛",
+      "title": "首场地区公开赛·广州站开赛",
+      "desc": "粤海喜来登天河厅，冠军¥3000/亚军2000/季军1000/5-8名500/9-16名300(税前)，参赛赠纪念牌垫+限定PR+BP01.2包，优胜金属冲击卡"
+    },
+    {
+      "date": "2026-08-22",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "✅已发售",
+      "title": "OP-17日本正式发售",
+      "desc": "8/22日本正式发售，四皇主题+Elbaph巨人国篇，全球8/28完全同步"
+    },
+    {
+      "date": "2026-08-22",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥大奖赛",
+      "title": "2026大奖赛Day1千人瑞士轮八强出炉",
+      "desc": "8/22 Day1十轮瑞士轮圆满结束，八强出炉，DAY2双卡组BO3决赛"
+    },
+    {
+      "date": "2026-08-22",
+      "game": "超英击战 TCG",
+      "gameId": "cyjz",
+      "emoji": "🦸",
+      "avatarClass": "cy",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥冠军",
+      "title": "广州公开赛落幕·冠军猫岛-Icego",
+      "desc": "冠军猫岛-Icego(红蓝复仇者联盟)/亚军魔王(红蓝宿敌共生体)/季军猫岛-昊天(红蓝复仇者联盟)"
+    },
+    {
+      "date": "2026-08-23",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥结果",
+      "title": "2026大奖赛落幕·冠军奖品卡「貂蝉-绝世舞姬」公开",
+      "desc": "8/23 DAY2双卡组BO3决赛，冠军/上位奖品卡貂蝉-绝世舞姬公开，国冠资格赛限128人，8/27认证赛换新赛季VOL.2"
     }
   ]
 }
