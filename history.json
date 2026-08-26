@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "entries": [
     {
       "date": "2026-07-30",
@@ -702,6 +702,78 @@
       "tagText": "🔥结果",
       "title": "2026大奖赛落幕·冠军奖品卡「貂蝉-绝世舞姬」公开",
       "desc": "8/23 DAY2双卡组BO3决赛，冠军/上位奖品卡貂蝉-绝世舞姬公开，国冠资格赛限128人，8/27认证赛换新赛季VOL.2"
+    },
+    {
+      "date": "2026-08-25",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "newProducts",
+      "tag": "hot",
+      "tagText": "✅付款截止",
+      "title": "30周年日本抽选订购付款截止·9/15前发货",
+      "desc": "中签者8/25 15:59前完成订购付款，9/15前发货；eBay预售ETB仍炒至$175-220"
+    },
+    {
+      "date": "2026-08-26",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥开幕",
+      "title": "GamesCom 2026 科隆游戏展开幕",
+      "desc": "8/26-30德国科隆展出，本届超50家中国游戏厂商参展创历史新高，繁中版「起源」上市后继续全球推广"
+    },
+    {
+      "date": "2026-08-26",
+      "game": "正面对决 TCG",
+      "gameId": "zmdd",
+      "emoji": "🏯",
+      "avatarClass": "zm",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥城市赛",
+      "title": "第一赛季城市挑战赛·上海站(8/30)公布",
+      "desc": "8/30浦东丁香国际商业中心LG2中庭(鱼人桌游承办)，128人规模！冠军城市赛专属PR卡「兵行险招·法正」+冠军牌垫"
+    },
+    {
+      "date": "2026-08-26",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥店赛",
+      "title": "4周年店赛窗口(8/21-9/13)·二级市场火热",
+      "desc": "75-card Tournament Pack+P-110 Luffy领袖promo；日文OP-17整盒炒至¥17,000(~$107)，Shanks OP01-120 Manga Panel约$1,550"
+    },
+    {
+      "date": "2026-08-26",
+      "game": "MTG The Hobbit",
+      "gameId": "mtghobbit",
+      "emoji": "🏔️",
+      "avatarClass": "mtgh",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥赛事",
+      "title": "布里斯班Spotlight 8/28-30详情公布",
+      "desc": "ANZ首场Spotlight，Modern构筑赛$5万奖池(冠军$1万+Pro Tour邀请)，Riddles in the Dark限定promo，冠军Black Lotus主题奖杯"
+    },
+    {
+      "date": "2026-08-26",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "sentiment",
+      "tag": "news",
+      "tagText": "🔥加印",
+      "title": "中文「2版」套卡9/20推出·黄金捣蛋猫传闻超$1万",
+      "desc": "中文资讯称9/20推出「2版」套卡；黄金版捣蛋猫SLSSR传闻炒至超$1万(海外成交约$4000)"
     }
   ]
 }
