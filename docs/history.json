@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "entries": [
     {
       "date": "2026-07-30",
@@ -774,6 +774,42 @@
       "tagText": "🔥加印",
       "title": "中文「2版」套卡9/20推出·黄金捣蛋猫传闻超$1万",
       "desc": "中文资讯称9/20推出「2版」套卡；黄金版捣蛋猫SLSSR传闻炒至超$1万(海外成交约$4000)"
+    },
+    {
+      "date": "2026-08-27",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥今晚",
+      "title": "旧金山巨人队Oracle Park「Pokémon Worlds Night」主题之夜",
+      "desc": "8/27世锦赛开幕前夜，旧金山巨人队主场Oracle Park举办Pokémon Worlds Night：皮卡丘开球+无人机灯光秀！每位持徽章者获赠Ascended Heroes雷公(Raikou)箔卡PXP角标promo。世锦赛决赛移至Chase Center(勇士主场)，50,000+观众、徽章售罄，免费直播PokemonXP.com"
+    },
+    {
+      "date": "2026-08-27",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥新赛季",
+      "title": "认证赛换新赛季VOL.2全国开启",
+      "desc": "8/27今日起认证赛换新赛季VOL.2，全国店铺赛季换新！冠军奖品卡/卡垫「安琪拉-糖果风暴」，国冠资格赛限128人；奖品包VOL.2概率开出异画PR「周瑜-百相守梦」"
+    },
+    {
+      "date": "2026-08-27",
+      "game": "超英击战 TCG",
+      "gameId": "cyjz",
+      "emoji": "🦸",
+      "avatarClass": "cy",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "🔥新品",
+      "title": "首发新品「2026 Chronoz: Disney Legacy Trading Cards」",
+      "desc": "超英击战首发跨界新品，Disney Legacy Trading Cards系列，与漫威TCG双线并行，进一步拓展迪士尼IP卡牌矩阵"
     }
   ]
 }
