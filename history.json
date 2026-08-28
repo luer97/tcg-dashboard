@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "entries": [
     {
       "date": "2026-07-30",
@@ -810,6 +810,78 @@
       "tagText": "🔥新品",
       "title": "首发新品「2026 Chronoz: Disney Legacy Trading Cards」",
       "desc": "超英击战首发跨界新品，Disney Legacy Trading Cards系列，与漫威TCG双线并行，进一步拓展迪士尼IP卡牌矩阵"
+    },
+    {
+      "date": "2026-08-28",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥今日开赛",
+      "title": "2026宝可梦世界锦标赛·旧金山正式开赛",
+      "desc": "8/28-30旧金山Moscone Center初赛+Chase Center决赛！Day1瑞士轮今日打响，四大项目(TCG/VGC/GO/UNITE)总奖池$200万+，VGC首次改用《Pokémon Champions》平台，首度同期举办PokémonXP粉丝大会。选手欢迎礼含限定promo「Paradise Resort」天堂度假村卡"
+    },
+    {
+      "date": "2026-08-28",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥今日发售",
+      "title": "OP-17今日(8/28)全球同步发售·首个完全同步系列",
+      "desc": "4周年系列全球同步发售！JP/EN间隔缩至6天，首款Block 5。史上首个Manga Leader=黑路飞+四皇Manga Rare齐(凯多首次)，Treasure Rare=白胡子(英文独占)，新增Pirate Crew Super Parallel+Super Leader Parallel+Conqueror's Haki SP+板垣恵介绘Kaido卡；同日DP-12双包+3rd Anniversary Set英文版"
+    },
+    {
+      "date": "2026-08-28",
+      "game": "火影忍者 TCG",
+      "gameId": "hyrz",
+      "emoji": "🍥",
+      "avatarClass": "hy",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥今日预发售",
+      "title": "Mythos Set 2欧洲预发售今日(8/28-30)开启",
+      "desc": "Shinobi Shiren欧洲预发售今日开启(9/4正式/10/16第二波)，新增原创设计+编号卡+22K金卡+新稀有度，Set1二版8/29美国OP商店限量上市"
+    },
+    {
+      "date": "2026-08-28",
+      "game": "MTG The Hobbit",
+      "gameId": "mtghobbit",
+      "emoji": "🏔️",
+      "avatarClass": "mtgh",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥今日开幕",
+      "title": "布里斯班Spotlight今日(8/28)开幕",
+      "desc": "ANZ首场Spotlight由Let's Play Games主办，主赛事Modern构筑8/29-30，$5万奖池(冠军$1万+Pro Tour邀请)，Riddles in the Dark限定promo，冠军Black Lotus主题奖杯"
+    },
+    {
+      "date": "2026-08-28",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "今日发售",
+      "title": "Mega Forces Tin + Ascended Heroes Tin 今日发售",
+      "desc": "8/28今日发售！Mega Dragonite/Darkrai/Zeraora + Meganium/Emboar/Feraligatr，各4包"
+    },
+    {
+      "date": "2026-08-28",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥明日",
+      "title": "武汉一周年嘉年华倒计时1天",
+      "desc": "8/29-30武汉国际博览中心B2馆，1周年纪念P卡「阿卡丽」现场首发+《双城之战》演员空降开幕式，区域公开赛扩容至1280人，现场认证赠标准补充包1包"
     }
   ]
 }

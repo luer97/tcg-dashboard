@@ -1,12 +1,12 @@
 {
   "meta": {
-    "updated": "2026-08-27T09:00:00+08:00",
+    "updated": "2026-08-28T09:00:00+08:00",
     "totalGames": 13,
     "totalNewProducts": 67,
     "totalEvents": 47,
     "totalMarketing": 31,
     "totalAlerts": 25,
-    "alertBanner": "⚠️ 重要预警（8/27巡查）：🔴PTCG<strong style=\"color:#dc2626\">世锦赛8/28-30明日开赛·今晚8/27巨人队Oracle Park之夜(皮卡丘开球+无人机秀+雷公promo)！</strong>🔴海贼王OP-17<strong style=\"color:#dc2626\">全球8/28明日同步发售倒计时1天！</strong>🔴火影Mythos Set2<strong style=\"color:#dc2626\">欧洲预发售8/28-30明日开启！</strong>🔴MTG Hobbit<strong style=\"color:#dc2626\">布里斯班Spotlight 8/28-30明日($5万奖池)！</strong>🔴峡谷争锋<strong style=\"color:#dc2626\">认证赛VOL.2今日(8/27)全国开启·安琪拉-糖果风暴！</strong>🔴符文战场<strong style=\"color:#dc2626\">武汉嘉年华8/29-30倒计时2天·1周年纪念P卡阿卡丽现场首发！</strong>"
+    "alertBanner": "⚠️ 重要预警（8/28巡查）：🔴PTCG<strong style=\"color:#dc2626\">世锦赛今日(8/28)旧金山正式开赛·Day1瑞士轮·决赛8/30移师Chase Center！</strong>🔴海贼王OP-17<strong style=\"color:#dc2626\">今日(8/28)全球同步发售·首个Manga Leader黑路飞+四皇Manga Rare齐！</strong>🔴火影Mythos Set2<strong style=\"color:#dc2626\">今日(8/28-30)欧洲预发售开启·9/4正式！</strong>🔴MTG Hobbit<strong style=\"color:#dc2626\">布里斯班Spotlight今日(8/28)开幕($5万奖池·主赛事8/29-30)！</strong>🔴符文战场<strong style=\"color:#dc2626\">武汉一周年嘉年华8/29-30明日·1周年纪念P卡阿卡丽现场首发！</strong>🔴正面对决<strong style=\"color:#dc2626\">上海城市挑战赛8/30(128人)倒计时2天！</strong>"
   },
   "games": [
     {
@@ -15,7 +15,7 @@
       "emoji": "⚡",
       "avatarClass": "pk",
       "status": "hot",
-      "statusText": "世锦赛8/28-30明日开赛·今晚8/27巨人队Oracle Park之夜",
+      "statusText": "世锦赛今日(8/28)旧金山开赛·决赛8/30 Chase Center",
       "tabs": {
         "newProducts": [
           {
@@ -36,7 +36,7 @@
             "tag": "new",
             "tagText": "新品",
             "title": "Mega Forces Tin + Ascended Heroes Tin",
-            "desc": "8/28发售！Mega Dragonite/Darkrai/Zeraora + Meganium/Emboar/Feraligatr，各4包",
+            "desc": "8/28今日发售！Mega Dragonite/Darkrai/Zeraora + Meganium/Emboar/Feraligatr，各4包",
             "date": "2026-08-28"
           },
           {
@@ -115,15 +115,15 @@
           {
             "tag": "news",
             "tagText": "🔥今晚",
-            "title": "8/27旧金山巨人队Oracle Park「Pokémon Worlds Night」主题之夜",
-            "desc": "今晚8/27世锦赛开幕前夜，旧金山巨人队主场Oracle Park举办Pokémon Worlds Night：皮卡丘开球+无人机灯光秀！每位持徽章者获赠Ascended Heroes雷公(Raikou)箔卡PXP角标promo。世锦赛决赛移至Chase Center(勇士主场)，50,000+观众、徽章售罄，免费直播PokemonXP.com",
+            "title": "8/27旧金山巨人队Oracle Park「Pokémon Worlds Night」主题之夜(已落幕)",
+            "desc": "昨晚8/27世锦赛开幕前夜，旧金山巨人队主场Oracle Park举办Pokémon Worlds Night：皮卡丘开球+无人机灯光秀！每位持徽章者获赠Ascended Heroes雷公(Raikou)箔卡PXP角标promo。世锦赛决赛移至Chase Center(勇士主场)，50,000+观众、徽章售罄，免费直播PokemonXP.com",
             "date": "2026-08-27"
           },
           {
             "tag": "news",
             "tagText": "🔥关注",
-            "title": "2026世锦赛8/28-30旧金山倒计时1天！",
-            "desc": "Chase Center决赛(勇士主场)近3000名选手(TCG/游戏/GO/UNITE)！总奖池$200万+：TCG冠军$5万/亚军$3万，VGC冠军$3万，UNITE冠军$10万。VGC首次改用《Pokémon Champions》作为比赛平台(非朱紫)；首度同期举办PokémonXP粉丝大会(系列首个综合展会)。8/27旧金山巨人队Oracle Park「Pokémon Worlds Night」主题之夜。直播排期已公布(卡牌频道8/29-31 YouTube/Niconico，决赛8/31)。GO线上活动8/25起两只全新扮装皮卡丘",
+            "title": "2026世锦赛今日(8/28)旧金山正式开赛！",
+            "desc": "8/28-30旧金山Moscone Center(初赛)+8/30 Chase Center决赛(勇士主场)近3000名选手(TCG/游戏/GO/UNITE)！总奖池$200万+：TCG冠军$5万/亚军$3万，VGC冠军$3万，UNITE冠军$10万。VGC首次改用《Pokémon Champions》平台；首度同期举办PokémonXP粉丝大会(系列首个综合展会)。Day1北京时间8/28 23:30开播(卡牌频道YouTube/Niconico，决赛8/31凌晨)。选手欢迎礼含限定promo「Paradise Resort」天堂度假村卡(Naoki Saito绘，减Psyduck退场费)，Twitch Drops可领Blastoise等奖励。中国选手FuguanL.去年少年组夺冠，本届带卫冕意味",
             "date": "2026-08-28~30"
           },
           {
@@ -158,7 +158,7 @@
             "tagText": "🔥重大赛事",
             "title": "2026 Pokémon World Championships",
             "url": "https://www.pokemon.com/us/play-pokemon/pokemon-events/pokemon-tournaments",
-            "desc": "8/28-30旧金山(明日开赛)，Moscone Center初赛+Chase Center决赛(勇士主场)！开幕夜8/27 Oracle Park无人机秀+皮卡丘开球+雷公promo，免费直播PokemonXP.com",
+            "desc": "8/28-30旧金山(今日开赛)，Moscone Center初赛+Chase Center决赛(勇士主场)！Day1瑞士轮今日打响，决赛8/30，免费直播PokemonXP.com",
             "date": "2026-08-28~30"
           }
         ]
@@ -170,7 +170,7 @@
       "emoji": "⚔️",
       "avatarClass": "rw",
       "status": "hot",
-      "statusText": "武汉嘉年华8/29-30倒计时2天·GamesCom进行中",
+      "statusText": "武汉嘉年华8/29-30明日·GamesCom进行中",
       "tabs": {
         "newProducts": [
           {
@@ -273,7 +273,7 @@
             "tag": "event",
             "tagText": "🔥预告",
             "title": "一周年嘉年华·武汉（扩容升级）",
-            "desc": "8/29-30武汉国际博览中心B2馆(倒计时2天)！1周年纪念P卡「阿卡丽」现场首发，召唤师商店限定娑娜卡垫+伊泽瑞尔与拉克丝卡套抽选购，8/30项目组挑战赛；区域公开赛扩容至1280人(原640)，T1冠军系列+水晶玫瑰周边+双城之战主题活动",
+            "desc": "明日(8/29-30)武汉国际博览中心B2馆！1周年纪念P卡「阿卡丽」现场首发，召唤师商店限定娑娜卡垫+伊泽瑞尔与拉克丝卡套抽选购，8/30项目组挑战赛+《双城之战》演员空降开幕式；现场出示掌盟+小程序账号认证赠标准补充包1包。区域公开赛扩容至1280人(原640)，T1冠军系列+水晶玫瑰周边+双城之战主题活动",
             "date": "2026-08-29~30"
           },
           {
@@ -305,7 +305,7 @@
             "tag": "event",
             "tagText": "🔥国内",
             "title": "CN赛区武汉站+一周年庆典（扩容1280人）",
-            "desc": "8/29-30武汉国际博览中心B2馆：8/29赛区对抗表演赛(14位中外选手)+8/30共鸣公开赛(Bo1排位积分制+3v3团队赛，前2名直通全国冠军赛)。报名8/14 12:00已开启、8/20 23:59截止！T1礼盒现场抽选需誓约值≥120且身处场馆2公里内",
+            "desc": "明日(8/29-30)武汉国际博览中心B2馆：8/29赛区对抗表演赛(14位中外选手)+8/30共鸣公开赛(Bo1排位积分制+3v3团队赛，前2名直通全国冠军赛)。T1礼盒现场抽选需誓约值≥120且身处场馆2公里内",
             "date": "2026-08-29~30"
           },
           {
@@ -373,7 +373,7 @@
       "emoji": "🏰",
       "avatarClass": "xg",
       "status": "hot",
-      "statusText": "认证赛VOL.2今日(8/27)全国开启·安琪拉-糖果风暴",
+      "statusText": "认证赛VOL.2全国进行中·安琪拉-糖果风暴",
       "tabs": {
         "newProducts": [
           {
@@ -402,8 +402,8 @@
           {
             "tag": "news",
             "tagText": "🔥新赛季",
-            "title": "8/27认证赛换新赛季VOL.2（今日全国开启）",
-            "desc": "8/27今日起认证赛换新赛季VOL.2，全国店铺赛季换新！VOL.2 PR + 冠军奖品卡/卡垫「安琪拉-糖果风暴」，国冠资格赛限128人。奖品包VOL.2还有概率开出全新异画PR「周瑜-百相守梦」",
+            "title": "认证赛换新赛季VOL.2（全国进行中）",
+            "desc": "8/27起认证赛换新赛季VOL.2，全国店铺赛季换新！VOL.2 PR + 冠军奖品卡/卡垫「安琪拉-糖果风暴」，国冠资格赛限128人。奖品包VOL.2还有概率开出全新异画PR「周瑜-百相守梦」",
             "date": "2026-08-27起"
           },
           {
@@ -630,7 +630,7 @@
       "emoji": "🏯",
       "avatarClass": "zm",
       "status": "active",
-      "statusText": "8/30上海城市赛(128人)·DICE CON已收官",
+      "statusText": "8/30上海城市赛(128人)倒计时2天·DICE CON已收官",
       "tabs": {
         "newProducts": [
           {
@@ -845,7 +845,7 @@
       "emoji": "🍥",
       "avatarClass": "hy",
       "status": "hot",
-      "statusText": "Set2欧洲预发售8/28-30明日·9/4正式·Bandai 2027夏",
+      "statusText": "Set2欧洲预发售今日(8/28-30)开启·9/4正式·Bandai 2027夏",
       "tabs": {
         "newProducts": [
           {
@@ -857,9 +857,9 @@
           },
           {
             "tag": "alert",
-            "tagText": "🔥1天",
+            "tagText": "🔥今日预发售",
             "title": "Mythos Set 2: Shinobi Shiren",
-            "desc": "欧洲预发售8/28-30(明日开启，店赛抢先体验，店铺可自选周五/六/日举办)、9/4正式发售(Wave1: Booster Display 24包/盒，每包10张：1 Mission+4 Common+3 Uncommon+1 Rare/SR/Legendary+1 Holo变体+Special Pack A)，10/16 Wave2(Special Pack B+Team Set)。美区(美/加/墨/加勒比)预发售9月下旬，仅Booster Displays。Set 1二版8/29美国OP商店限量上市。新增原创卡牌设计(部分更亲民、部分限编)+新稀有度层级(含明确pull rate)+22K金卡回归+编号卡系统升级",
+            "desc": "今日(8/28-30)欧洲预发售开启(店赛抢先体验，店铺可自选周五/六/日举办)、9/4正式发售(Wave1: Booster Display 24包/盒，每包10张：1 Mission+4 Common+3 Uncommon+1 Rare/SR/Legendary+1 Holo变体+Special Pack A)，10/16 Wave2(Special Pack B+Team Set)。美区(美/加/墨/加勒比)预发售9月下旬，仅Booster Displays。Set 1二版8/29美国OP商店限量上市。新增原创卡牌设计(部分更亲民、部分限编)+新稀有度层级(含明确pull rate)+22K金卡回归+编号卡系统升级",
             "date": "2026-08-28起"
           },
           {
@@ -930,7 +930,7 @@
             "tag": "event",
             "tagText": "🔥赛事",
             "title": "Mythos Set 2 Pre-Release Tournament",
-            "desc": "8/28-30(明日)全球预发售店赛，提前一周抢先体验新卡！",
+            "desc": "今日(8/28-30)全球预发售店赛开启，提前一周抢先体验新卡！",
             "date": "2026-08-28~30"
           },
           {
@@ -1038,7 +1038,7 @@
       "emoji": "🏔️",
       "avatarClass": "mtgh",
       "status": "hot",
-      "statusText": "8/14已全球发售·布里斯班Spotlight 8/28-30明日",
+      "statusText": "8/14已全球发售·布里斯班Spotlight今日(8/28)开幕",
       "tabs": {
         "newProducts": [
           {
@@ -1106,7 +1106,7 @@
             "tag": "event",
             "tagText": "🔥赛事",
             "title": "Magic Spotlight: The Hobbit · 布里斯班",
-            "desc": "8/28-30(明日)澳大利亚布里斯班站(ANZ首场Spotlight)！Modern构筑赛，$5万奖池(冠军$1万+Pro Tour邀请)，Riddles in the Dark限定promo(Tomas Duchek绘，Top128获foil版)，冠军获Black Lotus主题奖杯",
+            "desc": "今日(8/28)开幕(Let's Play Games主办)，主赛事Modern构筑8/29-30($5万奖池：冠军$1万+Pro Tour邀请/亚军$5千)，Riddles in the Dark限定promo(Tomas Duchek绘，Top128获foil版)，冠军获Black Lotus主题奖杯",
             "date": "2026-08-28~30"
           },
           {
@@ -1297,7 +1297,7 @@
       "emoji": "🏴‍☠️",
       "avatarClass": "op",
       "status": "hot",
-      "statusText": "OP-17全球8/28明日同步·日本已发售",
+      "statusText": "OP-17今日(8/28)全球同步发售·日本已发售",
       "tabs": {
         "newProducts": [
           {
@@ -1305,8 +1305,8 @@
             "tagText": "🔥里程碑",
             "title": "OP-17: The World's Strongest Warriors (4周年)",
             "url": "https://en.onepiece-cardgame.com",
-            "desc": "英文预发售8/21→日本8/22→全球8/28(明日)完全同步！JP/EN发售间隔缩至6天。首款Block 5区块系列。Elbaph巨人国篇+四皇主题，131+4卡(135张)：6领袖/45普/30非普/26稀/10超稀/3秘稀/10特殊/1宝藏稀有/4 DON!!。6位领袖：白胡子(红OP17-001)/路飞(黑OP17-079)/香克斯(绿OP17-020)/凯多(紫OP17-058)/玲玲(黄OP17-099)/Rocks D. Xebec(蓝)。史上首个Manga Leader=黑路飞OP17-079+四皇Manga Rare齐(凯多首次Manga Rare)。Treasure Rare=白胡子Edward Newgate(OP17-040，英文独占，6费8000黑)；Rocks D. Xebec=OP17-118 SEC(蓝)；Loki=OP17-119 SEC(黑)。日版整盒炒至¥17,000(~$107)。每包$4.99(24包盒$119.76)。同日8/28发售DP-12双包+3rd Anniversary Set英文版",
-            "date": "2026-08-21~28"
+            "desc": "今日(8/28)全球同步发售！英文预发售8/21→日本8/22→全球8/28，JP/EN发售间隔缩至6天，首款Block 5区块系列。Elbaph巨人国篇+四皇主题，131+4卡(135张)。6位领袖：白胡子(红)/路飞(黑)/香克斯(绿)/凯多(紫)/玲玲(黄)/Rocks D. Xebec(蓝)。史上首个Manga Leader=黑路飞OP17-079+四皇Manga Rare齐(凯多首次Manga Rare)。Treasure Rare=白胡子Edward Newgate(OP17-040英文独占)。Rocks D. Xebec=OP17-118 SEC(蓝)；Loki=OP17-119 SEC(黑)。新增Pirate Crew Super Parallel新稀有度(Luffy+Xebec首现)+Super Leader Parallel(Luffy)+Conqueror's Haki SP卡系列(索隆/御田/卡普/罗杰/大和/雷利)+板垣恵介绘Kaido合作卡+Worldwide Release DON!!卡(Luffy+Zoro连图)。每包$4.99(24包盒$119.76)。同日发售DP-12双包+3rd Anniversary Set英文版",
+            "date": "2026-08-28"
           },
           {
             "tag": "new",
@@ -1362,9 +1362,9 @@
           {
             "tag": "hot",
             "tagText": "🔥热议",
-            "title": "OP-17 8/28 4周年里程碑·全球同步",
-            "desc": "OP-15(4月)已实现首次同步，OP-17起Bandai实现One Piece TCG日英完全同步！4周年庆典活动8/22-23全球店赛先行",
-            "date": "2026-08"
+            "title": "OP-17 今日(8/28) 4周年里程碑·全球同步发售",
+            "desc": "OP-15(4月)已实现首次同步，OP-17起Bandai实现One Piece TCG日英完全同步！4周年庆典活动8/22-23全球店赛先行已收官",
+            "date": "2026-08-28"
           },
           {
             "tag": "news",
