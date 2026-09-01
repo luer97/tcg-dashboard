@@ -1,12 +1,12 @@
 {
   "meta": {
-    "updated": "2026-08-28T09:00:00+08:00",
+    "updated": "2026-09-01T09:00:00+08:00",
     "totalGames": 13,
-    "totalNewProducts": 67,
-    "totalEvents": 47,
-    "totalMarketing": 31,
-    "totalAlerts": 25,
-    "alertBanner": "⚠️ 重要预警（8/28巡查）：🔴PTCG<strong style=\"color:#dc2626\">世锦赛今日(8/28)旧金山正式开赛·Day1瑞士轮·决赛8/30移师Chase Center！</strong>🔴海贼王OP-17<strong style=\"color:#dc2626\">今日(8/28)全球同步发售·首个Manga Leader黑路飞+四皇Manga Rare齐！</strong>🔴火影Mythos Set2<strong style=\"color:#dc2626\">今日(8/28-30)欧洲预发售开启·9/4正式！</strong>🔴MTG Hobbit<strong style=\"color:#dc2626\">布里斯班Spotlight今日(8/28)开幕($5万奖池·主赛事8/29-30)！</strong>🔴符文战场<strong style=\"color:#dc2626\">武汉一周年嘉年华8/29-30明日·1周年纪念P卡阿卡丽现场首发！</strong>🔴正面对决<strong style=\"color:#dc2626\">上海城市挑战赛8/30(128人)倒计时2天！</strong>"
+    "totalNewProducts": 68,
+    "totalEvents": 50,
+    "totalMarketing": 33,
+    "totalAlerts": 27,
+    "alertBanner": "⚠️ 重要预警（9/01巡查）：🔴PTCG<strong style=\"color:#dc2626\">世锦赛8/28-30已落幕·TCG冠军Andrew Hedrick(US)·2027世锦赛移师新加坡EXPO(8/13-15)！</strong>🔴峡谷争锋<strong style=\"color:#dc2626\">广州巡回赛9/12(512人)报名今日截止·抽选9/2公示！</strong>🔴Doginal<strong style=\"color:#dc2626\">DDNYC 9/2-4纽约首发明日·预购首日售罄！</strong>🔴火影<strong style=\"color:#dc2626\">Mythos Set3「Akatsuki」11/13全球同步(进入疾风传)！</strong>🔴幻兽帕鲁<strong style=\"color:#dc2626\">北京呆呆龙卡牌9/2-9/5构筑赛！</strong>🔴符文战场<strong style=\"color:#dc2626\">武汉一周年嘉年华8/29-30已圆满收官！</strong>"
   },
   "games": [
     {
@@ -15,7 +15,7 @@
       "emoji": "⚡",
       "avatarClass": "pk",
       "status": "hot",
-      "statusText": "世锦赛今日(8/28)旧金山开赛·决赛8/30 Chase Center",
+      "statusText": "世锦赛8/28-30已落幕·TCG冠军Andrew Hedrick(US)·2027移师新加坡",
       "tabs": {
         "newProducts": [
           {
@@ -121,9 +121,9 @@
           },
           {
             "tag": "news",
-            "tagText": "🔥关注",
-            "title": "2026世锦赛今日(8/28)旧金山正式开赛！",
-            "desc": "8/28-30旧金山Moscone Center(初赛)+8/30 Chase Center决赛(勇士主场)近3000名选手(TCG/游戏/GO/UNITE)！总奖池$200万+：TCG冠军$5万/亚军$3万，VGC冠军$3万，UNITE冠军$10万。VGC首次改用《Pokémon Champions》平台；首度同期举办PokémonXP粉丝大会(系列首个综合展会)。Day1北京时间8/28 23:30开播(卡牌频道YouTube/Niconico，决赛8/31凌晨)。选手欢迎礼含限定promo「Paradise Resort」天堂度假村卡(Naoki Saito绘，减Psyduck退场费)，Twitch Drops可领Blastoise等奖励。中国选手FuguanL.去年少年组夺冠，本届带卫冕意味",
+            "tagText": "🔥结果",
+            "title": "2026世锦赛圆满落幕·冠军全揭晓！",
+            "desc": "8/28-30旧金山Moscone Center初赛+Chase Center决赛(勇士主场)近3000名选手(TCG/VGC/GO/UNITE)！总奖池$200万+。冠军：TCG Masters Andrew Hedrick(US)/Senior Jake Ng(AU)/Junior Yuta Araki(JP)、VGC Masters Takuma Yamazaki(JP)、GO GGs489hiromaru(JP)、UNITE Zeta Division(JP，$100,000)。2027世锦赛官宣移师新加坡EXPO(8/13-15)。中国选手FuguanL.去年少年组夺冠",
             "date": "2026-08-28~30"
           },
           {
@@ -155,10 +155,10 @@
         "tournaments": [
           {
             "tag": "event",
-            "tagText": "🔥重大赛事",
-            "title": "2026 Pokémon World Championships",
+            "tagText": "✅已落幕",
+            "title": "2026 Pokémon World Championships（8/28-30圆满落幕）",
             "url": "https://www.pokemon.com/us/play-pokemon/pokemon-events/pokemon-tournaments",
-            "desc": "8/28-30旧金山(今日开赛)，Moscone Center初赛+Chase Center决赛(勇士主场)！Day1瑞士轮今日打响，决赛8/30，免费直播PokemonXP.com",
+            "desc": "旧金山收官！TCG Masters冠军 Andrew Hedrick(US，亚军Diego Cassiraga/AR)、Senior冠军 Jake Ng(AU)、Junior冠军 Yuta Araki(JP)；VGC Masters冠军 Takuma Yamazaki(JP)、GO冠军 GGs489hiromaru(JP)、UNITE冠军 Zeta Division(JP，$100,000)。2027世锦赛移师新加坡EXPO(8/13-15)",
             "date": "2026-08-28~30"
           }
         ]
@@ -170,7 +170,7 @@
       "emoji": "⚔️",
       "avatarClass": "rw",
       "status": "hot",
-      "statusText": "武汉嘉年华8/29-30明日·GamesCom进行中",
+      "statusText": "武汉嘉年华8/29-30已收官·下一站新加坡资格赛9/4-6",
       "tabs": {
         "newProducts": [
           {
@@ -271,9 +271,9 @@
           },
           {
             "tag": "event",
-            "tagText": "🔥预告",
-            "title": "一周年嘉年华·武汉（扩容升级）",
-            "desc": "明日(8/29-30)武汉国际博览中心B2馆！1周年纪念P卡「阿卡丽」现场首发，召唤师商店限定娑娜卡垫+伊泽瑞尔与拉克丝卡套抽选购，8/30项目组挑战赛+《双城之战》演员空降开幕式；现场出示掌盟+小程序账号认证赠标准补充包1包。区域公开赛扩容至1280人(原640)，T1冠军系列+水晶玫瑰周边+双城之战主题活动",
+            "tagText": "✅已落幕",
+            "title": "一周年嘉年华·武汉（8/29-30已圆满收官）",
+            "desc": "8/29-30武汉国际博览中心B2馆已收官！1周年纪念P卡「阿卡丽」现场首发，8/29赛区对抗赛(14位中外选手)+特邀明星表演赛(EDG.nobody & DRG.SpiritZ1)，8/30项目组挑战赛+《双城之战》演员空降开幕式；现场认证赠标准补充包1包。区域公开赛扩容至1280人(原640)",
             "date": "2026-08-29~30"
           },
           {
@@ -303,9 +303,9 @@
           },
           {
             "tag": "event",
-            "tagText": "🔥国内",
-            "title": "CN赛区武汉站+一周年庆典（扩容1280人）",
-            "desc": "明日(8/29-30)武汉国际博览中心B2馆：8/29赛区对抗表演赛(14位中外选手)+8/30共鸣公开赛(Bo1排位积分制+3v3团队赛，前2名直通全国冠军赛)。T1礼盒现场抽选需誓约值≥120且身处场馆2公里内",
+            "tagText": "✅已落幕",
+            "title": "CN赛区武汉站+一周年庆典（8/29-30已收官）",
+            "desc": "8/29-30武汉国际博览中心B2馆已收官：8/29赛区对抗表演赛(14位中外选手)+特邀明星表演赛(EDG.nobody & DRG.SpiritZ1)，8/30共鸣公开赛(Bo1排位积分制+3v3团队赛，前2名直通全国冠军赛)+项目组挑战赛。T1礼盒现场抽选需誓约值≥120且身处场馆2公里内",
             "date": "2026-08-29~30"
           },
           {
@@ -373,7 +373,7 @@
       "emoji": "🏰",
       "avatarClass": "xg",
       "status": "hot",
-      "statusText": "认证赛VOL.2全国进行中·安琪拉-糖果风暴",
+      "statusText": "大奖赛冠军御三家.鱼·广州巡回赛9/12(512人)",
       "tabs": {
         "newProducts": [
           {
@@ -443,9 +443,16 @@
           {
             "tag": "alert",
             "tagText": "✅已落幕",
-            "title": "峡谷争锋2026大奖赛·上海",
-            "desc": "8/22 Day1千人瑞士轮圆满结束八强出炉，8/23 Day2双卡组BO3决赛；冠军/上位奖品卡「貂蝉-绝世舞姬」已公开，国冠资格赛限128人；8/27起认证赛换新赛季VOL.2(PR+冠军奖品卡/卡垫「安琪拉-糖果风暴」)",
+            "title": "峡谷争锋2026大奖赛·上海（冠军御三家.鱼）",
+            "desc": "8/22 Day1千人瑞士轮八强出炉，8/23 Day2双卡组BO3决赛，冠军【御三家.鱼】；冠军/上位奖品卡「貂蝉-绝世舞姬」已公开，国冠资格赛限128人；8/27起认证赛换新赛季VOL.2",
             "date": "2026-08-22~23"
+          },
+          {
+            "tag": "event",
+            "tagText": "🔥巡回赛",
+            "title": "广州巡回赛（9/12·512人）",
+            "desc": "9/12广州举办(512人规模)，报名8/28-9/1，抽选结果9/2公示",
+            "date": "2026-09-12"
           },
           {
             "tag": "event",
@@ -595,6 +602,13 @@
         "tournaments": [
           {
             "tag": "event",
+            "tagText": "🔥店赛",
+            "title": "北京呆呆龙卡牌构筑赛（9/2-9/5）",
+            "desc": "9/2-9/5北京呆呆龙卡牌举办构筑赛；「2版」套卡9/20推出，第2弹「Legends Awaken」10/30三语同步",
+            "date": "2026-09-02~05"
+          },
+          {
+            "tag": "event",
             "tagText": "🔥全球体系",
             "title": "世界大赛完整路径公布！",
             "desc": "地区预选(2026/9~2027/3，覆盖20+地区)→全国决赛(2027/4)→世界总决赛(2027/5)！简中版选手有完整晋级路径",
@@ -630,7 +644,7 @@
       "emoji": "🏯",
       "avatarClass": "zm",
       "status": "active",
-      "statusText": "8/30上海城市赛(128人)倒计时2天·DICE CON已收官",
+      "statusText": "上海城市赛8/30已落幕·冠军REX·系列大奖赛2026秋",
       "tabs": {
         "newProducts": [
           {
@@ -695,9 +709,9 @@
           },
           {
             "tag": "event",
-            "tagText": "🔥城市赛",
-            "title": "第一赛季城市挑战赛·上海站（8/30）",
-            "desc": "8/30上海浦东丁香国际商业中心LG2中庭(鱼人桌游承办)，128人规模！冠军奖励城市赛专属PR卡「兵行险招·法正」+冠军牌垫，积分制(冠军20分/亚军16/3-4名12)。各地店赛持续进行",
+            "tagText": "✅已落幕",
+            "title": "第一赛季城市挑战赛·上海站（8/30已落幕·冠军REX）",
+            "desc": "8/30上海浦东丁香国际商业中心LG2中庭(鱼人桌游·卡牌承办)已收官！实际90人参赛(原128规模)，冠军【REX】获城市赛专属PR卡「兵行险招·法正」+冠军牌垫。各地店赛持续进行",
             "date": "2026-08-30"
           },
           {
@@ -720,9 +734,9 @@
         "tournaments": [
           {
             "tag": "event",
-            "tagText": "🔥城市赛",
-            "title": "第一赛季城市挑战赛·上海站（8/30）",
-            "desc": "8/30浦东丁香国际商业中心LG2中庭(鱼人桌游承办)，128人规模！冠军专属PR卡「兵行险招·法正」+冠军牌垫，积分制冲刺国冠赛资格",
+            "tagText": "✅已落幕",
+            "title": "第一赛季城市挑战赛·上海站（8/30·冠军REX）",
+            "desc": "8/30浦东丁香国际商业中心LG2中庭(鱼人桌游·卡牌承办)已落幕，90人参赛，冠军【REX】获专属PR卡「兵行险招·法正」+冠军牌垫，积分制冲刺国冠赛资格",
             "date": "2026-08-30"
           },
           {
@@ -845,7 +859,7 @@
       "emoji": "🍥",
       "avatarClass": "hy",
       "status": "hot",
-      "statusText": "Set2欧洲预发售今日(8/28-30)开启·9/4正式·Bandai 2027夏",
+      "statusText": "Set2欧洲预发售已收官·9/4正式·Set3「Akatsuki」11/13疾风传",
       "tabs": {
         "newProducts": [
           {
@@ -857,10 +871,10 @@
           },
           {
             "tag": "alert",
-            "tagText": "🔥今日预发售",
+            "tagText": "✅预发售已收官",
             "title": "Mythos Set 2: Shinobi Shiren",
-            "desc": "今日(8/28-30)欧洲预发售开启(店赛抢先体验，店铺可自选周五/六/日举办)、9/4正式发售(Wave1: Booster Display 24包/盒，每包10张：1 Mission+4 Common+3 Uncommon+1 Rare/SR/Legendary+1 Holo变体+Special Pack A)，10/16 Wave2(Special Pack B+Team Set)。美区(美/加/墨/加勒比)预发售9月下旬，仅Booster Displays。Set 1二版8/29美国OP商店限量上市。新增原创卡牌设计(部分更亲民、部分限编)+新稀有度层级(含明确pull rate)+22K金卡回归+编号卡系统升级",
-            "date": "2026-08-28起"
+            "desc": "欧洲预发售8/28-30已收官(店赛抢先体验)、9/4正式发售(Wave1: Booster Display 24包/盒，每包10张：1 Mission+4 Common+3 Uncommon+1 Rare/SR/Legendary+1 Holo变体+Special Pack A)，10/16 Wave2(Special Pack B+Team Set)。美区(美/加/墨/加勒比)预发售9月下旬，仅Booster Displays。Set 1二版8/29美国OP商店限量上市。新增原创卡牌设计(部分更亲民、部分限编)+新稀有度层级(含明确pull rate)+22K金卡回归+编号卡系统升级",
+            "date": "2026-09-04正式"
           },
           {
             "tag": "alert",
@@ -1038,7 +1052,7 @@
       "emoji": "🏔️",
       "avatarClass": "mtgh",
       "status": "hot",
-      "statusText": "8/14已全球发售·布里斯班Spotlight今日(8/28)开幕",
+      "statusText": "8/14已全球发售·布里斯班Spotlight已落幕·达拉斯9/4-6",
       "tabs": {
         "newProducts": [
           {
@@ -1297,15 +1311,15 @@
       "emoji": "🏴‍☠️",
       "avatarClass": "op",
       "status": "hot",
-      "statusText": "OP-17今日(8/28)全球同步发售·日本已发售",
+      "statusText": "OP-17全球同步已发售·预售盒价$349-$599·4周年店赛至9/13",
       "tabs": {
         "newProducts": [
           {
             "tag": "alert",
-            "tagText": "🔥里程碑",
+            "tagText": "✅全球同步已发售",
             "title": "OP-17: The World's Strongest Warriors (4周年)",
             "url": "https://en.onepiece-cardgame.com",
-            "desc": "今日(8/28)全球同步发售！英文预发售8/21→日本8/22→全球8/28，JP/EN发售间隔缩至6天，首款Block 5区块系列。Elbaph巨人国篇+四皇主题，131+4卡(135张)。6位领袖：白胡子(红)/路飞(黑)/香克斯(绿)/凯多(紫)/玲玲(黄)/Rocks D. Xebec(蓝)。史上首个Manga Leader=黑路飞OP17-079+四皇Manga Rare齐(凯多首次Manga Rare)。Treasure Rare=白胡子Edward Newgate(OP17-040英文独占)。Rocks D. Xebec=OP17-118 SEC(蓝)；Loki=OP17-119 SEC(黑)。新增Pirate Crew Super Parallel新稀有度(Luffy+Xebec首现)+Super Leader Parallel(Luffy)+Conqueror's Haki SP卡系列(索隆/御田/卡普/罗杰/大和/雷利)+板垣恵介绘Kaido合作卡+Worldwide Release DON!!卡(Luffy+Zoro连图)。每包$4.99(24包盒$119.76)。同日发售DP-12双包+3rd Anniversary Set英文版",
+            "desc": "8/28全球同步已发售！英文预发售8/21→日本8/22→全球8/28，JP/EN发售间隔缩至6天，首款Block 5区块系列。预售期英文盒价$349-$599(市场约$391) vs MSRP $119.76，溢价明显",
             "date": "2026-08-28"
           },
           {
@@ -1362,8 +1376,8 @@
           {
             "tag": "hot",
             "tagText": "🔥热议",
-            "title": "OP-17 今日(8/28) 4周年里程碑·全球同步发售",
-            "desc": "OP-15(4月)已实现首次同步，OP-17起Bandai实现One Piece TCG日英完全同步！4周年庆典活动8/22-23全球店赛先行已收官",
+            "title": "OP-17 4周年里程碑·全球同步已发售",
+            "desc": "OP-15(4月)已实现首次同步，OP-17起Bandai实现One Piece TCG日英完全同步！4周年庆典活动8/22-23全球店赛先行已收官。预售期英文盒价$349-$599(市场约$391) vs MSRP $119.76，溢价明显",
             "date": "2026-08-28"
           },
           {
@@ -1518,7 +1532,7 @@
       "emoji": "🐕",
       "avatarClass": "dg",
       "status": "upcoming",
-      "statusText": "链上社区TCG·9/2-4 DDNYC纽约上线",
+      "statusText": "预购首日售罄·DDNYC 9/2-4纽约首发明日",
       "tabs": {
         "newProducts": [
           {
@@ -1530,9 +1544,9 @@
           },
           {
             "tag": "upcoming",
-            "tagText": "预告",
-            "title": "DDNYC 2026 现场首发",
-            "desc": "9/2-4纽约品牌旗舰活动DDNYC 2026正式亮相，到场者将最先试玩，门票开售数小时即售罄",
+            "tagText": "🔥明日首发",
+            "title": "DDNYC 2026 现场首发（9/2-4）",
+            "desc": "9/2-4纽约品牌旗舰活动DDNYC 2026正式亮相(明日)，到场者将最先试玩，门票开售数小时即售罄；首发套装「Rise of the Pack」预购首日售罄",
             "date": "2026-09-02~04"
           }
         ],
@@ -1555,9 +1569,9 @@
         "marketing": [
           {
             "tag": "event",
-            "tagText": "预购",
-            "title": "首发套装预购开启",
-            "desc": "8/3与宣布同日开启预购，限量供给，稀有卡采用经典稀缺结构",
+            "tagText": "🔥售罄",
+            "title": "首发套装预购首日售罄",
+            "desc": "8/3与宣布同日开启预购，限量供给，稀有卡采用经典稀缺结构；预购首日即售罄",
             "date": "2026-08-03"
           }
         ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-09-01",
   "entries": [
     {
       "date": "2026-07-30",
@@ -882,6 +882,150 @@
       "tagText": "🔥明日",
       "title": "武汉一周年嘉年华倒计时1天",
       "desc": "8/29-30武汉国际博览中心B2馆，1周年纪念P卡「阿卡丽」现场首发+《双城之战》演员空降开幕式，区域公开赛扩容至1280人，现场认证赠标准补充包1包"
+    },
+    {
+      "date": "2026-08-29",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥开幕",
+      "title": "武汉一周年嘉年华今日(8/29)开幕·赛区对抗赛+明星表演赛",
+      "desc": "8/29武汉国际博览中心B2馆：赛区对抗赛(14位中外选手)+特邀明星表演赛(EDG.nobody & DRG.SpiritZ1)，高校召唤师三重福利，现场多项活动(新手教学/争锋竞技场/传奇乱斗/海南斯角斗场/现开/轮抽/四人乱斗/2v2/项目组挑战赛)"
+    },
+    {
+      "date": "2026-08-30",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥落幕",
+      "title": "2026宝可梦世界锦标赛圆满落幕·冠军全揭晓",
+      "desc": "8/28-30旧金山收官！TCG Masters冠军 Andrew Hedrick(US，亚军Diego Cassiraga/AR)、Senior冠军 Jake Ng(AU)、Junior冠军 Yuta Araki(JP)；VGC Masters冠军 Takuma Yamazaki(JP)、GO冠军 GGs489hiromaru(JP)、UNITE冠军 Zeta Division(JP，$100,000)。2027世锦赛确认移师新加坡Singapore EXPO(8/13-15)"
+    },
+    {
+      "date": "2026-08-30",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "✅收官",
+      "title": "武汉一周年嘉年华今日(8/30)圆满收官",
+      "desc": "8/30武汉收官：项目组挑战赛+《双城之战》演员空降开幕式，1周年纪念P卡「阿卡丽」现场首发，现场认证赠标准补充包1包，T1礼盒现场抽选同步进行"
+    },
+    {
+      "date": "2026-08-30",
+      "game": "正面对决 TCG",
+      "gameId": "zmdd",
+      "emoji": "🏯",
+      "avatarClass": "zm",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥落幕",
+      "title": "第一赛季城市挑战赛·上海站(8/30)落幕·冠军【REX】",
+      "desc": "8/30上海浦东丁香国际商业中心收官(鱼人桌游·卡牌承办)，实际90人参赛(原128规模)，冠军【REX】获城市赛专属PR卡「兵行险招·法正」+冠军牌垫"
+    },
+    {
+      "date": "2026-08-30",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥冠军",
+      "title": "2026大奖赛冠军揭晓【御三家.鱼】",
+      "desc": "2026大奖赛冠军【御三家.鱼】；下一站广州巡回赛9/12(512人规模，报名8/28-9/1，抽选9/2公示)"
+    },
+    {
+      "date": "2026-08-30",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "sentiment",
+      "tag": "hot",
+      "tagText": "🔥市场",
+      "title": "OP-17全球同步发售·预售盒价$349-$599",
+      "desc": "OP-17全球同步发售(首个完全同步系列)：新增KSP(Pirate Crew Super Parallel)最高稀有度Luffy EB04-061 + Rocks D. Xebec OP17-118，TR=白胡子OP17-040；预售期英文盒价$349-$599(市场约$391) vs 官方MSRP $119.76，溢价明显"
+    },
+    {
+      "date": "2026-09-01",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "tournaments",
+      "tag": "news",
+      "tagText": "🔥定档",
+      "title": "2027世锦赛确认新加坡Singapore EXPO(8/13-15)",
+      "desc": "2027宝可梦世界锦标赛官宣移师新加坡EXPO，8/13-15举办，接棒旧金山"
+    },
+    {
+      "date": "2026-09-01",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥报名截止",
+      "title": "广州巡回赛9/12(512人)·报名今日(9/1)截止",
+      "desc": "广州巡回赛9/12举办(512人规模)，报名8/28-9/1今日截止，抽选结果9/2公示"
+    },
+    {
+      "date": "2026-09-01",
+      "game": "火影忍者 TCG",
+      "gameId": "hyrz",
+      "emoji": "🍥",
+      "avatarClass": "hy",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥疾风传",
+      "title": "Mythos Set 3「Akatsuki」11/13全球同步·进入疾风传",
+      "desc": "Set 3「Akatsuki」11/13全球同步发售，正式进入疾风传篇章！新增美国/加拿大/拉美/澳洲/南非市场，全新稀有度+22K金卡回归。Set 2欧洲预发售8/28-30已收官，9/4正式发售"
+    },
+    {
+      "date": "2026-09-01",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥店赛",
+      "title": "北京呆呆龙卡牌9/2-9/5构筑赛",
+      "desc": "北京呆呆龙卡牌9/2-9/5举办构筑赛；「2版」套卡9/20推出，第2弹「Legends Awaken」10/30三语同步"
+    },
+    {
+      "date": "2026-09-01",
+      "game": "Doginal Dogs Legends",
+      "gameId": "doginal",
+      "emoji": "🐕",
+      "avatarClass": "dg",
+      "category": "marketing",
+      "tag": "alert",
+      "tagText": "🔥明日首发",
+      "title": "DDNYC 9/2-4纽约首发明日·预购首日售罄",
+      "desc": "DDNYC 2026纽约品牌旗舰活动9/2-4(明日)现场首发，首发套装「Rise of the Pack」预购首日售罄，到场者最先试玩"
+    },
+    {
+      "date": "2026-09-01",
+      "game": "万智牌",
+      "gameId": "mtg",
+      "emoji": "🔮",
+      "avatarClass": "mtg",
+      "category": "newProducts",
+      "tag": "news",
+      "tagText": "🔥预告",
+      "title": "Reality Fracture售前赛9/25-10/1·Arena 9/29",
+      "desc": "Reality Fracture 10/2桌面上线，售前赛9/25-10/1、Arena 9/29；Bloodline Recollector序列化500张(预购$88)；北京Spotlight 10/31-11/1、Hartford 10/23-25"
     }
   ]
 }
