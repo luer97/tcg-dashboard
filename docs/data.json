@@ -1,12 +1,12 @@
 {
   "meta": {
-    "updated": "2026-09-02T09:00:00+08:00",
+    "updated": "2026-09-03T09:00:00+08:00",
     "totalGames": 13,
-    "totalNewProducts": 69,
-    "totalEvents": 52,
-    "totalMarketing": 33,
-    "totalAlerts": 28,
-    "alertBanner": "⚠️ 重要预警（9/02巡查）：🔴峡谷争锋<strong style=\"color:#dc2626\">广州巡回赛9/12抽选结果今日(9/2)12:00公示！</strong>🔴Doginal<strong style=\"color:#dc2626\">DDNYC 9/2-4纽约首发今日开启·预购首日售罄！</strong>🔴幻兽帕鲁<strong style=\"color:#dc2626\">北京呆呆龙卡牌构筑赛9/2-9/5今日开赛！</strong>🔴符文战场<strong style=\"color:#dc2626\">新加坡资格赛9/4-6倒计时2天·OfflineTV到场！</strong>🔴火影<strong style=\"color:#dc2626\">Mythos Set2 9/4全球正式发售·倒计时2天！</strong>🔴PTCG<strong style=\"color:#dc2626\">30周年庆典9/16全球同步发售！</strong>"
+    "totalNewProducts": 71,
+    "totalEvents": 54,
+    "totalMarketing": 34,
+    "totalAlerts": 30,
+    "alertBanner": "⚠️ 重要预警（9/03巡查）：🔴符文战场<strong style=\"color:#dc2626\">新加坡资格赛9/4-6明日开赛·今日(9/3)为徽章领取/报到日！</strong>🔴火影<strong style=\"color:#dc2626\">Mythos Set2 9/4明日全球正式发售·倒计时1天！</strong>🔴峡谷争锋<strong style=\"color:#dc2626\">广州巡回赛9/12抽选结果9/2已公示·新奖品卡「云缨·赤焰之缨」公开！</strong>🔴正面对决<strong style=\"color:#dc2626\">天津CardTime店赛9/3今晚举办！</strong>🔴MTG Hobbit<strong style=\"color:#dc2626\">Dallas Spotlight 9/4-6明日开幕！</strong>🔴海贼王<strong style=\"color:#dc2626\">OP-18「THE DOMINANCE OF GOD」11/20全球同步·天野喜孝绘SEC卡！</strong>"
   },
   "games": [
     {
@@ -15,7 +15,7 @@
       "emoji": "⚡",
       "avatarClass": "pk",
       "status": "hot",
-      "statusText": "30周年庆典9/16全球同步·世锦赛预告全新ex★系列",
+      "statusText": "30周年庆典9/16全球同步·典藏手办礼盒喷火龙套装¥780",
       "tabs": {
         "newProducts": [
           {
@@ -79,6 +79,13 @@
             "tagText": "预告",
             "title": "30周年庆典 幻彩未来纪念礼盒",
             "desc": "9/16全球同步发售！¥1099含2张FUR皮卡丘ex+30周年特典，收藏级礼盒",
+            "date": "2026-09-16"
+          },
+          {
+            "tag": "upcoming",
+            "tagText": "新品",
+            "title": "30周年庆典 典藏手办礼盒（喷火龙套装）",
+            "desc": "9/16 10:00起发售！喷火龙主题典藏手办+卡牌套装，¥780，30周年限量纪念",
             "date": "2026-09-16"
           }
         ],
@@ -184,7 +191,7 @@
       "emoji": "⚔️",
       "avatarClass": "rw",
       "status": "hot",
-      "statusText": "新加坡资格赛9/4-6倒计时2天·OfflineTV到场",
+      "statusText": "新加坡资格赛9/4-6明日开赛·今日(9/3)徽章领取/报到日",
       "tabs": {
         "newProducts": [
           {
@@ -324,9 +331,9 @@
           },
           {
             "tag": "event",
-            "tagText": "赛事",
+            "tagText": "🔥明日",
             "title": "新加坡地区资格赛 (Singapore EXPO Hall 3)",
-            "desc": "9/4-6倒计时2天！US$25,000奖金池，冠军$6,000+Jayce卡，Top128获Lux水晶玫瑰卡垫，OfflineTV(Toast等)到场，YouTube/Twitch直播",
+            "desc": "9/4-6倒计时1天！今日(9/3)下午2-6点为徽章领取/报到日，主赛事9/5开赛。US$25,000奖金池，冠军$6,000+Jayce卡，Top128获Lux水晶玫瑰卡垫，OfflineTV(Toast等)到场，YouTube/Twitch直播",
             "date": "2026-09-04~06"
           },
           {
@@ -387,7 +394,7 @@
       "emoji": "🏰",
       "avatarClass": "xg",
       "status": "hot",
-      "statusText": "广州巡回赛9/12抽选今日(9/2)12:00公示",
+      "statusText": "广州巡回赛9/12抽选9/2已公示·新奖品卡「云缨·赤焰之缨」",
       "tabs": {
         "newProducts": [
           {
@@ -465,7 +472,7 @@
             "tag": "event",
             "tagText": "🔥巡回赛",
             "title": "广州巡回赛（9/12·512人）",
-            "desc": "抽选结果9/2 12:00公示！报名8/28-9/1，未签署确认书名额9/5释放，二次抽选9/6公示，512人规模",
+            "desc": "抽选结果9/2 12:00已公示！未签署确认书名额9/5释放，二次抽选9/6公示。新奖品卡「云缨·赤焰之缨」PR+32强限定牌垫，512人规模",
             "date": "2026-09-12"
           },
           {
@@ -484,7 +491,7 @@
       "emoji": "🐉",
       "avatarClass": "hs",
       "status": "hot",
-      "statusText": "北京呆呆龙卡牌构筑赛今日(9/2)开赛·第2弹Legends Awaken 10/30",
+      "statusText": "Sleeve&Card Set Vol.1延期至10/16·第2弹Legends Awaken 10/30",
       "tabs": {
         "newProducts": [
           {
@@ -510,10 +517,10 @@
           },
           {
             "tag": "upcoming",
-            "tagText": "新增",
-            "title": "帕鲁球主题卡套套装",
-            "desc": "含捣蛋猫/Depresso/Chillet/Quivern/Grizzbolt特典卡",
-            "date": "2026-10-02"
+            "tagText": "⚠️延期",
+            "title": "Sleeve & Card Set Vol.1 卡套套装（10/2→10/16）",
+            "desc": "原定10/2发售，官方延期至10/16！含捣蛋猫/Depresso/Chillet/Quivern/Grizzbolt特典卡",
+            "date": "2026-10-16"
           },
           {
             "tag": "upcoming",
@@ -658,7 +665,7 @@
       "emoji": "🏯",
       "avatarClass": "zm",
       "status": "active",
-      "statusText": "天津CardTime店赛9/3·系列大奖赛2026秋",
+      "statusText": "天津CardTime店赛9/3今晚·季度大奖赛首场2026年9月",
       "tabs": {
         "newProducts": [
           {
@@ -747,10 +754,10 @@
         ],
         "tournaments": [
           {
-            "tag": "upcoming",
-            "tagText": "预告",
+            "tag": "alert",
+            "tagText": "🔥今晚",
             "title": "天津CardTime店赛（9/3）",
-            "desc": "天津CardTime卡牌店9/3举办店赛，参与即有机会赢取限定PR卡",
+            "desc": "天津CardTime卡牌店9/3今晚举办店赛，参与即有机会赢取限定PR卡",
             "date": "2026-09-03"
           },
           {
@@ -763,9 +770,9 @@
           {
             "tag": "event",
             "tagText": "赛事",
-            "title": "首场系列大奖赛",
-            "desc": "2026年秋季开启，完整金字塔赛事体系已就位",
-            "date": "2026年秋"
+            "title": "首场季度大奖赛",
+            "desc": "2026年9月举行首场季度大奖赛，完整金字塔赛事体系已就位(店赛→城市赛→大奖赛→国冠赛)",
+            "date": "2026-09"
           }
         ]
       }
@@ -880,7 +887,7 @@
       "emoji": "🍥",
       "avatarClass": "hy",
       "status": "hot",
-      "statusText": "Mythos Set2 9/4全球正式发售·倒计时2天·Set3 Akatsuki 11/13",
+      "statusText": "Mythos Set2 9/4明日全球发售·倒计时1天·Set3 Akatsuki 11/13",
       "tabs": {
         "newProducts": [
           {
@@ -894,7 +901,7 @@
             "tag": "alert",
             "tagText": "✅预发售已收官",
             "title": "Mythos Set 2: Shinobi Shiren",
-            "desc": "9/4全球正式发售·倒计时2天！10/16第二波，欧洲预发售8/28-30已收官",
+            "desc": "9/4明日全球正式发售·倒计时1天！10/16第二波，欧洲预发售8/28-30已收官",
             "date": "2026-09-04"
           },
           {
@@ -961,6 +968,13 @@
           }
         ],
         "tournaments": [
+          {
+            "tag": "event",
+            "tagText": "🔥新Promo",
+            "title": "9-10月周赛Promo Pack（胜者卡卡西等）",
+            "desc": "9-10月欧美周赛推出Promo Pack：佐助/鸣人/自来也/千手纲手/鼬Chibi卡+胜者卡卡西卡，配套Set 2发售",
+            "date": "2026-09~10"
+          },
           {
             "tag": "event",
             "tagText": "🔥赛事",
@@ -1042,6 +1056,13 @@
         "marketing": [
           {
             "tag": "event",
+            "tagText": "🔥预售",
+            "title": "欧洲零售商上架AZK-01预售（订单截止9/4）",
+            "desc": "欧洲零售商上架AZK-01 Boosters/四款Starter Deck预售，标注Release Date约10/22-10/23，订单截止9/4",
+            "date": "2026-09-03"
+          },
+          {
+            "tag": "event",
             "tagText": "营销",
             "title": "创作者营销活动启动",
             "desc": "8/6起至10月，GameSquare部署TCG/收藏社区KOL，覆盖YouTube+TikTok+Instagram Reels",
@@ -1102,7 +1123,7 @@
             "tag": "new",
             "tagText": "新品",
             "title": "Gift Bundle 礼盒",
-            "desc": "9/4发售，含特别赠卡和收藏配件",
+            "desc": "9/4明日发售，含特别赠卡和收藏配件",
             "date": "2026-09-04"
           },
           {
@@ -1146,9 +1167,9 @@
           },
           {
             "tag": "event",
-            "tagText": "赛事",
+            "tagText": "🔥明日开幕",
             "title": "Magic Spotlight: The Hobbit · 达拉斯",
-            "desc": "9/4-6美国达拉斯站",
+            "desc": "9/4-6美国达拉斯站明日开幕！主赛事Modern构筑9/5-6，Top8获Pro Tour邀请，冠军$10,000",
             "date": "2026-09-04~06"
           }
         ],
@@ -1247,6 +1268,13 @@
           },
           {
             "tag": "alert",
+            "tagText": "🔥Secret Lair",
+            "title": "Secret Lair X Masters of the Universe 超级掉落",
+            "desc": "9/14开启预售！五套Drop(He-Man/Skeletor/She-Ra等)，闪卡$39.99/非闪$29.99；同月「A Perfectly Normal Superdrop」9/1已上线(Marvel Joe Fixit+Shivan Dragon回归)",
+            "date": "2026-09-14"
+          },
+          {
+            "tag": "alert",
             "tagText": "🔥首测",
             "title": "MTG Arena 国服星火首测",
             "desc": "腾讯代理国服《万智牌：竞技场》开启星火首测！限定纪念卡背+登录福利+大师VS大师欢乐邀请赛",
@@ -1266,6 +1294,13 @@
             "tagText": "🔥2027",
             "title": "MagicCon Amsterdam公布2027三款新系列",
             "desc": "7/17-19 MagicCon Amsterdam现场揭晓：(1)Nauctis 2/5(水下暗黑) (2)Kamigawa Titanbreach 6/4(神河巨人) (3)Zhalfir 10/1(非洲奇幻)。2027年6大系列(UB+本宇宙各半)",
+            "date": "2026-07-17"
+          },
+          {
+            "tag": "news",
+            "tagText": "🔥2027 MagicCon",
+            "title": "2027年MagicCon四站官宣+Mystery Booster指挥官版",
+            "desc": "2027 MagicCon全球四站：Detroit 2/26-28、Tokyo 5/14-16、Las Vegas 8/27-29、Amsterdam 12/3-5；新推Mystery Booster Commander Edition(新增50+全新卡，仅线下活动可得)",
             "date": "2026-07-17"
           },
           {
@@ -1537,6 +1572,13 @@
         "marketing": [
           {
             "tag": "event",
+            "tagText": "🔥海外上架",
+            "title": "Kakawow Aura/GEM 25周年收藏卡海外上架",
+            "desc": "9月海外零售商上架Kakawow Aura(常规8000箱+Blaster 2000箱)与GEM(仅500箱)25周年收藏卡：67张全新电影剧照+9位演员亲签+Peacock Fold孔雀折光工艺，为2027底正式TCG持续蓄水IP热度",
+            "date": "2026-09"
+          },
+          {
+            "tag": "event",
             "tagText": "🔥活动",
             "title": "「魔法足迹」收藏展示框兑换活动开启（8/21）",
             "desc": "哈利·波特25周年献礼！集齐任意1名角色(哈利/罗恩/赫敏)七个年级(Year1-7)全部7张卡，即有机会兑换官方收藏展示框(3款各限量20个，先到先得)。发送报名邮件至 ops@suplaymart.com 参与",
@@ -1566,8 +1608,8 @@
       "name": "Doginal Dogs Legends",
       "emoji": "🐕",
       "avatarClass": "dg",
-      "status": "upcoming",
-      "statusText": "DDNYC 9/2-4纽约首发今日开启·预购首日售罄",
+      "status": "hot",
+      "statusText": "DDNYC 9/2-4纽约首发进行中·现场创纪录数千人参与",
       "tabs": {
         "newProducts": [
           {
@@ -1579,9 +1621,9 @@
           },
           {
             "tag": "upcoming",
-            "tagText": "🔥明日首发",
+            "tagText": "🔥首发中",
             "title": "DDNYC 2026 现场首发（9/2-4）",
-            "desc": "9/2-4纽约品牌旗舰活动DDNYC 2026正式亮相(明日)，到场者将最先试玩，门票开售数小时即售罄；首发套装「Rise of the Pack」预购首日售罄",
+            "desc": "9/2-4纽约品牌旗舰活动DDNYC 2026首发进行中！The Whig报道现场创纪录数千人参与、TCG官方首发引发排队；首发套装「Rise of the Pack」预购首日售罄",
             "date": "2026-09-02~04"
           }
         ],
