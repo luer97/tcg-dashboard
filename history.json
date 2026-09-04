@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "entries": [
     {
       "date": "2026-08-06",
@@ -1171,6 +1171,66 @@
       "tagText": "🔥新卡",
       "title": "OP-18「THE DOMINANCE OF GOD」11/20全球同步·EB-05 10月",
       "desc": "天野喜孝绘Loki/Shamrock SEC卡+Franky首张Leader卡；EB-05 Heroines Edition Vol.2 10月发售"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥今日开赛",
+      "title": "新加坡地区资格赛9/4-6今日开赛·主赛事9/5",
+      "desc": "9/4观赛厅开放、9/5主赛事、9/6决赛；US$25,000奖金池，冠军$6,000+Jayce卡，Top128获Lux水晶玫瑰卡垫，OfflineTV到场，YouTube/Twitch直播"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "火影忍者 TCG",
+      "gameId": "hyrz",
+      "emoji": "🍥",
+      "avatarClass": "hy",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥今日发售",
+      "title": "Mythos Set 2: Shinobi Shiren 9/4全球正式发售",
+      "desc": "9/4今日全球正式发售，10/16第二波；欧洲预发售8/28-30已收官，9-10月周赛Promo Pack配套；Set3 Akatsuki 11/13疾风传"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "MTG The Hobbit",
+      "gameId": "mtghobbit",
+      "emoji": "🏔️",
+      "avatarClass": "mtgh",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "🔥今日发售",
+      "title": "Gift Bundle 礼盒9/4今日发售",
+      "desc": "Gift Bundle礼盒今日发售，含特别赠卡和收藏配件"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "MTG The Hobbit",
+      "gameId": "mtghobbit",
+      "emoji": "🏔️",
+      "avatarClass": "mtgh",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥今日开幕",
+      "title": "Magic Spotlight: The Hobbit · 达拉斯9/4-6今日开幕",
+      "desc": "主赛事Modern构筑9/5-6，Top8获Pro Tour邀请、冠军$10,000；Heart of the Mountain 9/4-10同步开始"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "Gates Awakened (Azuki)",
+      "gameId": "azuki",
+      "emoji": "⛩️",
+      "avatarClass": "az",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥今日截止",
+      "title": "欧洲零售商AZK-01预售订单9/4今日截止",
+      "desc": "欧洲零售商上架AZK-01 Boosters/四款Starter Deck预售，Release Date 10/23，订单截止9/4今日"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "meta": {
-    "updated": "2026-09-03T09:00:00+08:00",
+    "updated": "2026-09-04T09:00:00+08:00",
     "totalGames": 13,
     "totalNewProducts": 71,
     "totalEvents": 54,
     "totalMarketing": 34,
     "totalAlerts": 30,
-    "alertBanner": "⚠️ 重要预警（9/03巡查）：🔴符文战场<strong style=\"color:#dc2626\">新加坡资格赛9/4-6明日开赛·今日(9/3)为徽章领取/报到日！</strong>🔴火影<strong style=\"color:#dc2626\">Mythos Set2 9/4明日全球正式发售·倒计时1天！</strong>🔴峡谷争锋<strong style=\"color:#dc2626\">广州巡回赛9/12抽选结果9/2已公示·新奖品卡「云缨·赤焰之缨」公开！</strong>🔴正面对决<strong style=\"color:#dc2626\">天津CardTime店赛9/3今晚举办！</strong>🔴MTG Hobbit<strong style=\"color:#dc2626\">Dallas Spotlight 9/4-6明日开幕！</strong>🔴海贼王<strong style=\"color:#dc2626\">OP-18「THE DOMINANCE OF GOD」11/20全球同步·天野喜孝绘SEC卡！</strong>"
+    "alertBanner": "⚠️ 重要预警（9/04巡查）：🔴符文战场<strong style=\"color:#dc2626\">新加坡资格赛9/4-6今日开赛·主赛事9/5！</strong>🔴火影<strong style=\"color:#dc2626\">Mythos Set2 9/4今日全球正式发售！</strong>🔴MTG Hobbit<strong style=\"color:#dc2626\">Gift Bundle 9/4今日发售·Dallas Spotlight 9/4-6今日开幕！</strong>🔴Gates Awakened<strong style=\"color:#dc2626\">欧洲预售订单9/4今日截止！</strong>🔴峡谷争锋<strong style=\"color:#dc2626\">广州巡回赛9/12未签署名额9/5释放·二次抽选9/6公示！</strong>"
   },
   "games": [
     {
@@ -191,7 +191,7 @@
       "emoji": "⚔️",
       "avatarClass": "rw",
       "status": "hot",
-      "statusText": "新加坡资格赛9/4-6明日开赛·今日(9/3)徽章领取/报到日",
+      "statusText": "新加坡资格赛9/4-6今日开赛·主赛事9/5",
       "tabs": {
         "newProducts": [
           {
@@ -331,9 +331,9 @@
           },
           {
             "tag": "event",
-            "tagText": "🔥明日",
+            "tagText": "🔥今日开赛",
             "title": "新加坡地区资格赛 (Singapore EXPO Hall 3)",
-            "desc": "9/4-6倒计时1天！今日(9/3)下午2-6点为徽章领取/报到日，主赛事9/5开赛。US$25,000奖金池，冠军$6,000+Jayce卡，Top128获Lux水晶玫瑰卡垫，OfflineTV(Toast等)到场，YouTube/Twitch直播",
+            "desc": "9/4-6今日开赛！观赛厅开放，主赛事9/5打响、9/6决赛。US$25,000奖金池，冠军$6,000+Jayce卡，Top128获Lux水晶玫瑰卡垫，OfflineTV(Toast等)到场，YouTube/Twitch直播",
             "date": "2026-09-04~06"
           },
           {
@@ -887,7 +887,7 @@
       "emoji": "🍥",
       "avatarClass": "hy",
       "status": "hot",
-      "statusText": "Mythos Set2 9/4明日全球发售·倒计时1天·Set3 Akatsuki 11/13",
+      "statusText": "Mythos Set2 9/4今日全球正式发售·Set3 Akatsuki 11/13",
       "tabs": {
         "newProducts": [
           {
@@ -899,9 +899,9 @@
           },
           {
             "tag": "alert",
-            "tagText": "✅预发售已收官",
+            "tagText": "🔥今日发售",
             "title": "Mythos Set 2: Shinobi Shiren",
-            "desc": "9/4明日全球正式发售·倒计时1天！10/16第二波，欧洲预发售8/28-30已收官",
+            "desc": "9/4今日全球正式发售！10/16第二波，欧洲预发售8/28-30已收官",
             "date": "2026-09-04"
           },
           {
@@ -1056,10 +1056,10 @@
         "marketing": [
           {
             "tag": "event",
-            "tagText": "🔥预售",
-            "title": "欧洲零售商上架AZK-01预售（订单截止9/4）",
-            "desc": "欧洲零售商上架AZK-01 Boosters/四款Starter Deck预售，标注Release Date约10/22-10/23，订单截止9/4",
-            "date": "2026-09-03"
+            "tagText": "🔥今日截止",
+            "title": "欧洲零售商上架AZK-01预售（订单9/4今日截止）",
+            "desc": "欧洲零售商上架AZK-01 Boosters/四款Starter Deck预售，Release Date 10/23，订单截止9/4今日",
+            "date": "2026-09-04"
           },
           {
             "tag": "event",
@@ -1094,7 +1094,7 @@
       "emoji": "🏔️",
       "avatarClass": "mtgh",
       "status": "hot",
-      "statusText": "Gift Bundle 9/4发售·Dallas Spotlight 9/4-6·Commander Party R2 9/18-24",
+      "statusText": "Gift Bundle 9/4今日发售·Dallas Spotlight 9/4-6今日开幕",
       "tabs": {
         "newProducts": [
           {
@@ -1121,9 +1121,9 @@
           },
           {
             "tag": "new",
-            "tagText": "新品",
+            "tagText": "🔥今日发售",
             "title": "Gift Bundle 礼盒",
-            "desc": "9/4明日发售，含特别赠卡和收藏配件",
+            "desc": "9/4今日发售，含特别赠卡和收藏配件",
             "date": "2026-09-04"
           },
           {
@@ -1167,9 +1167,9 @@
           },
           {
             "tag": "event",
-            "tagText": "🔥明日开幕",
+            "tagText": "🔥今日开幕",
             "title": "Magic Spotlight: The Hobbit · 达拉斯",
-            "desc": "9/4-6美国达拉斯站明日开幕！主赛事Modern构筑9/5-6，Top8获Pro Tour邀请，冠军$10,000",
+            "desc": "9/4-6美国达拉斯站今日开幕！主赛事Modern构筑9/5-6，Top8获Pro Tour邀请，冠军$10,000",
             "date": "2026-09-04~06"
           }
         ],
@@ -1183,9 +1183,9 @@
           },
           {
             "tag": "event",
-            "tagText": "活动",
+            "tagText": "🔥今日开始",
             "title": "Magic Presents: Heart of the Mountain",
-            "desc": "9/4-10，Arkenstone争夺战主题Commander",
+            "desc": "9/4-10今日开始，Arkenstone争夺战主题Commander",
             "date": "2026-09-04~10"
           },
           {
