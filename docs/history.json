@@ -1,78 +1,6 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-08",
   "entries": [
-    {
-      "date": "2026-08-06",
-      "game": "Gates Awakened (Azuki)",
-      "gameId": "azuki",
-      "emoji": "⛩️",
-      "avatarClass": "az",
-      "category": "marketing",
-      "tag": "event",
-      "tagText": "合作",
-      "title": "GameSquare创作者营销合作宣布",
-      "desc": "GameSquare负责TCG/卡牌收藏社区KOL营销，覆盖YouTube+TikTok+Instagram，持续至10月"
-    },
-    {
-      "date": "2026-08-07",
-      "game": "宝可梦 PTCG",
-      "gameId": "ptcg",
-      "emoji": "⚡",
-      "avatarClass": "pk",
-      "category": "newProducts",
-      "tag": "new",
-      "tagText": "已发售",
-      "title": "First Partner Illustration Collection Series 3 发售",
-      "desc": "8/7发售！Hoenn/Kalos/Paldea御三家插画卡，繁中M6F绿宝石风暴同步上线"
-    },
-    {
-      "date": "2026-08-07",
-      "game": "符文战场",
-      "gameId": "rwzc",
-      "emoji": "⚔️",
-      "avatarClass": "rw",
-      "category": "newProducts",
-      "tag": "alert",
-      "tagText": "🔥里程碑",
-      "title": "繁中版第一系列「起源」正式上市",
-      "desc": "8/7港澳台发售！英雄预组+起源补充包+试炼之地，繁中赛区两场512人Regional公布"
-    },
-    {
-      "date": "2026-08-07",
-      "game": "符文战场",
-      "gameId": "rwzc",
-      "emoji": "⚔️",
-      "avatarClass": "rw",
-      "category": "marketing",
-      "tag": "event",
-      "tagText": "🔥联名",
-      "title": "双城之战沉浸式音乐秀·一周年主题月开幕",
-      "desc": "8/7-30！观演送纪念卡包，8/16、8/23海克斯主题活动日+限定联名镭射票根"
-    },
-    {
-      "date": "2026-08-07",
-      "game": "MTG The Hobbit",
-      "gameId": "mtghobbit",
-      "emoji": "🏔️",
-      "avatarClass": "mtgh",
-      "category": "newProducts",
-      "tag": "new",
-      "tagText": "进行中",
-      "title": "售前赛 (Prerelease) 开始",
-      "desc": "8/7-13全球店铺售前赛进行中，提前一周抢先体验"
-    },
-    {
-      "date": "2026-08-08",
-      "game": "超英击战 TCG",
-      "gameId": "cyjz",
-      "emoji": "🦸",
-      "avatarClass": "cy",
-      "category": "marketing",
-      "tag": "event",
-      "tagText": "展会",
-      "title": "COMIDAY30 成都",
-      "desc": "8/8-9世纪城新国际会展中心P11"
-    },
     {
       "date": "2026-08-10",
       "game": "宝可梦 PTCG",
@@ -1231,6 +1159,126 @@
       "tagText": "🔥今日截止",
       "title": "欧洲零售商AZK-01预售订单9/4今日截止",
       "desc": "欧洲零售商上架AZK-01 Boosters/四款Starter Deck预售，Release Date 10/23，订单截止9/4今日"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥阵容揭晓",
+      "title": "广州巡回赛9/12解说阵容+场贩公布·琶洲展馆",
+      "desc": "9/12广交会琶洲展馆举办！解说阵容：特邀主持&解说娇娇+特邀解说IZORO/书高，线上直播+抽奖。现场场贩更新：大乔「绒语心约」牌垫&牌套(组合购买赠PR卡)。未签署名额9/5 18:00释放、二次抽选9/6 12:00公示"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "超英击战 TCG",
+      "gameId": "cyjz",
+      "emoji": "🦸",
+      "avatarClass": "cy",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥店赛",
+      "title": "黑猫牌垫争霸赛构筑赛9/13广州卡朋卡牌",
+      "desc": "9/13 15:30广州卡朋卡牌陈家祠店构筑赛，报名费¥20(报名9/4起)，入场2包BP01+1包TB02，冠军获特殊牌垫+3张EB包自选单卡"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "火影忍者 TCG",
+      "gameId": "hyrz",
+      "emoji": "🍥",
+      "avatarClass": "hy",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥今日发售",
+      "title": "Mythos Set 2: Shinobi Shiren 9/4全球发售·217卡详情",
+      "desc": "9/4今日全球正式发售！217张卡(24包/盒·每包10卡)，编号卡系统精细化+全新原创卡牌设计+新稀有度层级+22K金卡回归，英版Booster Box £99.95-£119.99；10/16第二波(Starter Pack Design B+Team Set)，美/加/墨/加勒比9月下旬预发售"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "newProducts",
+      "tag": "upcoming",
+      "tagText": "🔥产品线",
+      "title": "30周年庆典全产品线MSRP明细公布",
+      "desc": "9/16首发：ETB $49.99(9包)/Pokemon ex Box $21.99/Poster $14.99/Tech Sticker $14.99/Knock Out $9.99/2-Pack Blister $9.99；10/2 Booster Bundle $26.94/Binder $31.99/Day&Night Mini Tins；10/30 Espeon&Umbreon对战牌组$19.99；11/6 Ditto Premium $39.99/Mewtwo&Mew Figure $29.99/Ultra-Premium Collection(Day/Night)$179.99；12/4 Sylveon&Greninja Tins；无传统36包整盒，9款主题卡组套装10/16"
+    },
+    {
+      "date": "2026-09-04",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "newProducts",
+      "tag": "news",
+      "tagText": "🔥新卡",
+      "title": "OP-18详情：Shamrock OP18-119/Gunko首Leader/Nico Robin",
+      "desc": "天野喜孝绘Loki(8000战力/OP17-119复刻)+Shamrock(OP18-119·9000战力·神之骑士团骑士+三头犬刻耳柏洛斯)SEC卡；Franky首张Leader+Gunko首张Leader(前并武志绘)+Nico Robin新Super/Manga Parallel，Water Seven×Holy Knights主题；SD-01 9/18(英文$24.99)、日本4周年套9月(18,700日元)"
+    },
+    {
+      "date": "2026-09-03",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥韩国",
+      "title": "官宣9/18正式登陆韩国·韩国限定卡",
+      "desc": "9/3官宣9/18韩国正式发售(韩文标准赛制)，从「起源」起步；韩国限定Over-number卡：阿狸·九尾狐、金克丝&亚索韩版限定(Kim Star新图)"
+    },
+    {
+      "date": "2026-09-06",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥欧洲总决赛",
+      "title": "BCG Fest 26-27 欧洲总决赛落幕(9/4-6荷兰乌得勒支)",
+      "desc": "One Piece TCG欧洲总决赛9/4-6在荷兰乌得勒支Jaarbeurs落幕，烧烧果实竞技场决出世界首位冠军，Championship欧洲总决赛同场收官"
+    },
+    {
+      "date": "2026-09-08",
+      "game": "万智牌",
+      "gameId": "mtg",
+      "emoji": "🔮",
+      "avatarClass": "mtg",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥预览季",
+      "title": "Reality Fracture预览季9/8启动(10am PT直播)",
+      "desc": "全卡表9/18公开，售前9/25-10/1、桌面10/2、Arena 9/29；Play Booster北美首发限量供应"
+    },
+    {
+      "date": "2026-09-08",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "sentiment",
+      "tag": "news",
+      "tagText": "🔥电子版",
+      "title": "电子版《符文战场》开发迹象浮现",
+      "desc": "拳头游戏公开招聘发行产品经理(要求TCG经验+移动端优先)，市场解读为电子版/移动端符文战场正在筹备，实体+数字双线布局信号"
+    },
+    {
+      "date": "2026-09-08",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "⚠️延期",
+      "title": "2E版「Dawn of Palpagos」重制推迟至10月底",
+      "desc": "首弹二版重制(罗马数字II标识，修正首版错字/卡面问题)由原定9月下旬推迟至10月底推出"
     }
   ]
 }
