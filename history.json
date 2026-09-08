@@ -1279,6 +1279,54 @@
       "tagText": "⚠️延期",
       "title": "2E版「Dawn of Palpagos」重制推迟至10月底",
       "desc": "首弹二版重制(罗马数字II标识，修正首版错字/卡面问题)由原定9月下旬推迟至10月底推出"
+    },
+    {
+      "date": "2026-09-05",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥名额释放",
+      "title": "广州巡回赛9/12未签署名额9/5 18:00释放",
+      "desc": "广州巡回赛9/12琶洲展馆，未签署确认书名额9/5 18:00释放，二次抽选9/6 12:00公示"
+    },
+    {
+      "date": "2026-09-06",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "✅落幕",
+      "title": "新加坡地区资格赛9/4-6落幕·冠军$6000+杰斯独占画卡",
+      "desc": "2026倒数第二场RQ收官！冠军$6,000+杰斯「进步先锋」独占画卡(冠军Playmat+Promo)，Top64获区域锦标赛资格，Top128获拉克丝水晶玫瑰Playmat；OfflineTV到场"
+    },
+    {
+      "date": "2026-09-06",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥二次抽选",
+      "title": "广州巡回赛9/12二次抽选9/6 12:00公示",
+      "desc": "未签署名额二次抽选9/6 12:00公示，新奖品卡「云缨·赤焰之缨」PR+32强限定牌垫，解说娇娇/IZORO/书高"
+    },
+    {
+      "date": "2026-09-08",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥新赛事",
+      "title": "战斗学院杯·高校专属赛事9/19起全国16城",
+      "desc": "全新高校赛事9/19第一阶段区域预选赛全国16城同步开赛，高校在读学生完成学生认证即可报名"
     }
   ]
 }

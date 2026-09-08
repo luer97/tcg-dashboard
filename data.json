@@ -3,7 +3,7 @@
     "updated": "2026-09-08T09:00:00+08:00",
     "totalGames": 13,
     "totalNewProducts": 75,
-    "totalEvents": 57,
+    "totalEvents": 58,
     "totalMarketing": 36,
     "totalAlerts": 33,
     "alertBanner": "⚠️ 重要预警（9/08巡查）：🔴万智牌<strong style=\"color:#dc2626\">Reality Fracture预览季9/8今日启动(10am PT直播)·全卡表9/18·售前9/25-10/1·桌面10/2！</strong>🔴符文战场<strong style=\"color:#dc2626\">9/18正式登陆韩国(韩文标准赛制)·韩国限定Over-number阿狸·九尾狐/金克丝/亚索！</strong>🔴幻兽帕鲁<strong style=\"color:#dc2626\">2E版「Dawn of Palpagos」重制推迟至10月底！</strong>🔴海贼王<strong style=\"color:#dc2626\">BCG Fest欧洲总决赛9/4-6荷兰乌得勒支·烧烧果实竞技场世界首位冠军诞生！</strong>🔴峡谷争锋<strong style=\"color:#dc2626\">广州巡回赛9/12琶洲展馆临近·未签署名额9/5已释放！</strong>"
@@ -352,17 +352,24 @@
           },
           {
             "tag": "event",
-            "tagText": "🔥今日开赛",
-            "title": "新加坡地区资格赛 (Singapore EXPO Hall 3)",
-            "desc": "9/4-6今日开赛！观赛厅开放，主赛事9/5打响、9/6决赛。US$25,000奖金池，冠军$6,000+Jayce卡，Top128获Lux水晶玫瑰卡垫，OfflineTV(Toast等)到场，YouTube/Twitch直播",
+            "tagText": "✅已落幕",
+            "title": "新加坡地区资格赛 (Singapore EXPO Hall 3) 已落幕",
+            "desc": "9/4-6新加坡EXPO已收官(2026倒数第二场RQ)！冠军$6,000+杰斯「进步先锋」独占画卡(冠军Playmat+Promo)，Top8 $1,000-3,000+Top Cut卡垫，Top16 $500，Top32 $250，Top64获区域锦标赛资格+40 Prize Wall券，Top128获拉克丝「冕卫之光」水晶玫瑰Playmat+杰斯异画Promo。直播解说Casanova/Courtney Smith/Carix/Logan Potter，OfflineTV(Toast/Sydeon/Yvonnie/Brodin/Frodan)到场，33张Best-Of Legends铂金传奇卡(来自Spiritforged/Unleashed/Vendetta)",
             "date": "2026-09-04~06"
           },
           {
             "tag": "event",
-            "tagText": "赛事",
-            "title": "CN赛区沈阳站",
-            "desc": "9/12-13辽宁省沈阳市",
+            "tagText": "🔥赛事",
+            "title": "CN赛区沈阳站（9/12-13·沈阳新世界博览馆4A馆）",
+            "desc": "9/12-13沈阳新世界博览馆4A馆举行，第四赛季区域公开赛沈阳站(武汉站冠军adtoll操控刀锋舞者艾瑞莉娅问鼎后CN赛区下一站)",
             "date": "2026-09-12~13"
+          },
+          {
+            "tag": "event",
+            "tagText": "🔥新赛事",
+            "title": "战斗学院杯·高校专属赛事（9/19起·全国16城）",
+            "desc": "全新高校专属赛事「战斗学院杯」正式启航！第一阶段区域预选赛9/19全国16城指定符文竞技场同步开赛，高校在读学生完成小程序学生认证即可报名，冠军奖励与晋级通道后续公布",
+            "date": "2026-09-19"
           },
           {
             "tag": "event",
