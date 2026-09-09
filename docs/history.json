@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "entries": [
     {
       "date": "2026-08-10",
@@ -1327,6 +1327,78 @@
       "tagText": "🔥新赛事",
       "title": "战斗学院杯·高校专属赛事9/19起全国16城",
       "desc": "全新高校赛事9/19第一阶段区域预选赛全国16城同步开赛，高校在读学生完成学生认证即可报名"
+    },
+    {
+      "date": "2026-09-09",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥数据",
+      "title": "首弹全球发货超440万包",
+      "desc": "「帕尔帕戈斯的黎明」全球累计发货突破440万包（此前350万→440万），二级市场溢价依旧严重；2E版重制推迟10月底"
+    },
+    {
+      "date": "2026-09-09",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥赛事",
+      "title": "广州巡回赛9/12解说阵容揭晓",
+      "desc": "娇娇/IZORO/书高联袂解说，512人·琶洲展馆，新奖品卡「云缨·赤焰之缨」PR+32强限定牌垫"
+    },
+    {
+      "date": "2026-09-09",
+      "game": "万智牌",
+      "gameId": "mtg",
+      "emoji": "🔮",
+      "avatarClass": "mtg",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥预览季",
+      "title": "Reality Fracture预览季新机制揭晓",
+      "desc": "全卡表9/18，新机制Empower Jace/Echoed Pairs，Hexhaven五学院+Elder Sphinxes；Arena Powered Cube 9/8-28，Hobbit Limited Open 9/11-13，故事结局9/11"
+    },
+    {
+      "date": "2026-09-09",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "newProducts",
+      "tag": "news",
+      "tagText": "🔥新卡",
+      "title": "OP-18详细公开：Franky/Gunko首Leader",
+      "desc": "11/20全球同步，天野喜孝绘Loki(8000战)/Shamrock(9000战)SEC，Franky/Gunko首张Leader，Nico Robin Super/Manga Parallel；EB-05 Heroines Vol.2 10/31，SD-01 9/18英文$24.99"
+    },
+    {
+      "date": "2026-09-09",
+      "game": "幻兽帕鲁 TCG",
+      "gameId": "hspw",
+      "emoji": "🐉",
+      "avatarClass": "hs",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥展会",
+      "title": "TGS 2026将展第2弹插画",
+      "desc": "幻兽帕鲁TCG亮相TGS 2026东京电玩展，现场展示第2弹「Legends Awaken」新插画，2E版重印10月底（罗马数字II标识）"
+    },
+    {
+      "date": "2026-09-09",
+      "game": "Doginal Dogs Legends",
+      "gameId": "doginal",
+      "emoji": "🐕",
+      "avatarClass": "dg",
+      "category": "sentiment",
+      "tag": "news",
+      "tagText": "🔥新动向",
+      "title": "数字版Legends beta waitlist开放",
+      "desc": "官方确认数字版开发中，beta access waitlist在ddltcg.com开放；实体Booster Box $169/24包，首日预购售罄"
     }
   ]
 }
