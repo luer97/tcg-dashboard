@@ -1,12 +1,12 @@
 {
   "meta": {
-    "updated": "2026-09-09T09:00:00+08:00",
+    "updated": "2026-09-10T09:00:00+08:00",
     "totalGames": 13,
     "totalNewProducts": 75,
-    "totalEvents": 58,
+    "totalEvents": 59,
     "totalMarketing": 37,
     "totalAlerts": 33,
-    "alertBanner": "⚠️ 重要预警（9/09巡查）：🔴峡谷争锋<strong style=\"color:#dc2626\">广州巡回赛9/12倒计时3天(512人·琶洲展馆·解说娇娇/IZORO/书高)！</strong>🔴符文战场<strong style=\"color:#dc2626\">沈阳站9/12-13(新世界博览馆4A馆)·9/18正式登陆韩国！</strong>🔴PTCG<strong style=\"color:#dc2626\">30周年庆典9/16全球同步倒计时7天(160+卡·FUR新稀有度·简中18元/包)！</strong>🔴万智牌<strong style=\"color:#dc2626\">Reality Fracture预览季进行中·全卡表9/18·新机制Empower/Echoed Pairs！</strong>🔴幻兽帕鲁<strong style=\"color:#dc2626\">首弹全球发货超440万包·TGS 2026将展第2弹插画！</strong>"
+    "alertBanner": "⚠️ 重要预警（9/10巡查）：🔴峡谷争锋<strong style=\"color:#dc2626\">广州巡回赛9/12倒计时2天(512人·琶洲·解说娇娇/IZORO/书高)！</strong>🔴符文战场<strong style=\"color:#dc2626\">沈阳站9/12-13(新世界博览馆4A馆)·9/18登陆韩国！</strong>🔴PTCG<strong style=\"color:#dc2626\">30周年庆典9/16全球同步倒计时6天(FUR新稀有度·简中18元/包)！</strong>🔴正面对决<strong style=\"color:#dc2626\">季度大奖赛《出征》超15万奖池·9/12天津神黄忠主题赛！</strong>🔴万智牌<strong style=\"color:#dc2626\">Reality Fracture预览季进行中·全卡表9/18！</strong>"
   },
   "games": [
     {
@@ -714,7 +714,7 @@
       "emoji": "🏯",
       "avatarClass": "zm",
       "status": "active",
-      "statusText": "天津店赛9/3已落幕·首场季度大奖赛9月·第二弹11月",
+      "statusText": "季度大奖赛《出征》超15万奖池·9/12天津神黄忠主题赛·第二弹11月",
       "tabs": {
         "newProducts": [
           {
@@ -817,11 +817,18 @@
             "date": "2026-08-30"
           },
           {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "首场季度大奖赛",
-            "desc": "2026年9月举行首场季度大奖赛，完整金字塔赛事体系已就位(店赛→城市赛→大奖赛→国冠赛)",
+            "tag": "alert",
+            "tagText": "🔥奖池",
+            "title": "第一赛季季度大奖赛《出征》",
+            "desc": "9/3官宣！首场季度大奖赛《出征》重磅来袭，超15万奖池等主公来战(姚记潮品9/4 B站)。金字塔赛事体系(店赛→城市赛→大奖赛→国冠赛)，9号看大奖赛细则决定报名",
             "date": "2026-09"
+          },
+          {
+            "tag": "event",
+            "tagText": "🔥店赛",
+            "title": "天津神黄忠主题赛（9/12·CardTime卡牌店）",
+            "desc": "9/12 14:00天津CardTime卡牌店(南开新世界百货4楼)举办，免费入场送PR【老兵的铁剑】+三国杀OL兑换码，八强获神黄忠主题赛优胜牌盒、冠军限定卡垫；另有9/10周中娱乐构筑赛(入场《出征》补充包1包)",
+            "date": "2026-09-12"
           }
         ]
       }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "entries": [
     {
       "date": "2026-08-10",
@@ -1399,6 +1399,30 @@
       "tagText": "🔥新动向",
       "title": "数字版Legends beta waitlist开放",
       "desc": "官方确认数字版开发中，beta access waitlist在ddltcg.com开放；实体Booster Box $169/24包，首日预购售罄"
+    },
+    {
+      "date": "2026-09-10",
+      "game": "正面对决 TCG",
+      "gameId": "zmdd",
+      "emoji": "🏯",
+      "avatarClass": "zm",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥奖池",
+      "title": "第一赛季季度大奖赛《出征》超15万奖池",
+      "desc": "9/3官宣首场季度大奖赛《出征》重磅来袭，超15万奖池！姚记潮品9/4 B站发布，9号看大奖赛细则决定报名；金字塔赛事体系(店赛→城市赛→大奖赛→国冠赛)"
+    },
+    {
+      "date": "2026-09-10",
+      "game": "正面对决 TCG",
+      "gameId": "zmdd",
+      "emoji": "🏯",
+      "avatarClass": "zm",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥店赛",
+      "title": "天津神黄忠主题赛9/12·CardTime卡牌店",
+      "desc": "9/12 14:00天津CardTime卡牌店(南开新世界百货4楼)举办，免费入场送PR【老兵的铁剑】+三国杀OL兑换码，八强神黄忠主题赛优胜牌盒、冠军限定卡垫；另有9/10周中娱乐构筑赛"
     }
   ]
 }
