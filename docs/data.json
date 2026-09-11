@@ -1,1744 +1,1932 @@
 {
-  "meta": {
-    "updated": "2026-09-10T09:00:00+08:00",
-    "totalGames": 13,
-    "totalNewProducts": 75,
-    "totalEvents": 59,
-    "totalMarketing": 37,
-    "totalAlerts": 33,
-    "alertBanner": "⚠️ 重要预警（9/10巡查）：🔴峡谷争锋<strong style=\"color:#dc2626\">广州巡回赛9/12倒计时2天(512人·琶洲·解说娇娇/IZORO/书高)！</strong>🔴符文战场<strong style=\"color:#dc2626\">沈阳站9/12-13(新世界博览馆4A馆)·9/18登陆韩国！</strong>🔴PTCG<strong style=\"color:#dc2626\">30周年庆典9/16全球同步倒计时6天(FUR新稀有度·简中18元/包)！</strong>🔴正面对决<strong style=\"color:#dc2626\">季度大奖赛《出征》超15万奖池·9/12天津神黄忠主题赛！</strong>🔴万智牌<strong style=\"color:#dc2626\">Reality Fracture预览季进行中·全卡表9/18！</strong>"
+ "meta": {
+  "updated": "2026-09-11T09:00:00+08:00",
+  "totalGames": 13,
+  "totalNewProducts": 88,
+  "totalEvents": 68,
+  "totalMarketing": 40,
+  "totalAlerts": 38,
+  "alertBanner": "⚠️ 重要预警（9/11巡查）：🔴<strong style=\"color:#dc2626\">峡谷争锋广州巡回赛9/12明日开赛（512人·琶洲）！</strong>🔴<strong style=\"color:#dc2626\">符文战场沈阳站9/12-13明日开赛（新世界博览馆4A馆·三平台直播）！</strong>🔴<strong style=\"color:#dc2626\">正面对决9/12天津神黄忠主题赛（0元报名·冠军限定卡垫）！</strong>🔴<strong style=\"color:#dc2626\">PTCG 30周年庆典9/16全球同步倒计时5天（176张全闪·每包必出皮卡丘）！</strong>🔴<strong style=\"color:#dc2626\">万智牌 Reality Fracture 全卡表9/18·售前9/25·桌面10/2！</strong>🔴<strong style=\"color:#dc2626\">海贼王 OP-18「THE DOMINANCE OF GOD」11月全球同步·天野喜孝绘洛基/夏姆洛克SEC！</strong>🔴<strong style=\"color:#dc2626\">哈利波特 AURA 25周年9月发售（全球限量8000箱·67张全新剧照）！</strong>🔴<strong style=\"color:#dc2626\">幻兽帕鲁 TGS 9/17-21 第2弹插画先行公开！</strong>"
+ },
+ "games": [
+  {
+   "id": "ptcg",
+   "name": "宝可梦 PTCG",
+   "emoji": "⚡",
+   "avatarClass": "pk",
+   "status": "hot",
+   "statusText": "30周年庆典9/16倒计时5天·全球同步5波铺货·Delta Reign 11/6",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "First Partner Illustration Collection Series 3",
+      "desc": "8/7发售！Hoenn/Kalos/Paldea御三家插画卡，¥14.99",
+      "date": "2026-08-07"
+     },
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "Pitch Black (Abyss Eye)",
+      "desc": "7/17发售！Mega Darkrai/Zeraora/Chandelure/Excadrill ex，115+卡35+异画",
+      "date": "2026-07-17"
+     },
+     {
+      "tag": "new",
+      "tagText": "新品",
+      "title": "Mega Forces Tin + Ascended Heroes Tin",
+      "desc": "8/28今日发售！Mega Dragonite/Darkrai/Zeraora + Meganium/Emboar/Feraligatr，各4包",
+      "date": "2026-08-28"
+     },
+     {
+      "tag": "new",
+      "tagText": "新品",
+      "title": "繁中版 超级进化 绿宝石风暴 M6F",
+      "desc": "8/7台湾发售，Mega Rayquaza核心",
+      "date": "2026-08-07"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥重要",
+      "title": "30th Celebration 扩展包 (全球同步)",
+      "desc": "9/16全球同步首发！全闪卡包(Futuristic Rare新稀有度)+30种皮卡丘+128张主卡+30张经典复刻卡(Base Set Charizard等)！Mewtwo ex/Mew ex异画由YOSHIROTTEN绘制，复刻卡不适用于Standard",
+      "date": "2026-09-16"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "🔥产品线",
+      "title": "30周年庆典全产品线MSRP明细",
+      "desc": "9/16首发：Elite Trainer Box $49.99(9包)/Pokemon ex Box $21.99/Poster Collection $14.99/Tech Sticker $14.99/Knock Out $9.99/2-Pack Blister $9.99；10/2：Booster Bundle $26.94/Binder $31.99/Day&Night Mini Tins；10/30：Espeon&Umbreon对战牌组$19.99；11/6：Ditto Premium $39.99/Mewtwo&Mew Figure $29.99/Ultra-Premium Collection(Day/Night)$179.99；12/4：Sylveon&Greninja Tins。无传统36包整盒，9款主题卡组套装10/16(27御三家)",
+      "date": "2026-09-16起"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "Espeon ex / Umbreon ex 对战牌组",
+      "desc": "10/30发售！太阳伊布/月亮伊布各自独立对战牌组，9月套装中已作为插画稀有卡登场",
+      "date": "2026-10-30"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "Delta Reign + 30th Ultra-Premium Collection",
+      "desc": "11/6同日发售！30包+纹理特典卡，30周年超豪华收藏箱",
+      "date": "2026-11-06"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "Storm Emerald (风暴翡翠)",
+      "desc": "预计9月全球同步，Mega Rayquaza ex核心，年度最受期待系列",
+      "date": "2026-09"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "30周年庆典 幻彩未来纪念礼盒",
+      "desc": "9/16全球同步发售！¥1099含2张FUR皮卡丘ex+30周年特典，收藏级礼盒",
+      "date": "2026-09-16"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "新品",
+      "title": "30周年庆典 典藏手办礼盒（喷火龙套装）",
+      "desc": "9/16 10:00起发售！喷火龙主题典藏手办+卡牌套装，¥780，30周年限量纪念",
+      "date": "2026-09-16"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥卡表",
+      "title": "日版176张卡表全公开：30张皮卡丘 + 30张经典复刻",
+      "desc": "9/16全球同步倒计时5天！日版176张=103张主卡(含30张皮卡丘子集·30位不同画师·每包必出1张)+32张Secret Rare+30张Classic Collection复刻+8张基础能量；含基础能量在内全卡闪膜。日版整盒20包，每包6张闪+1张皮卡丘+1张基础能量。经典复刻：Base Set Charizard #137/Shining Celebi #141/Dark Tyranitar #144/N #153/Rayquaza EX #154/Greninja BREAK #157/Pikachu & Zekrom GX #160/Arceus VSTAR #164",
+      "date": "2026-09-11",
+      "url": "https://www.pokemon.com/us/pokemon-tcg/"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "卡表",
+      "title": "Delta Reign 卡表：Mega Rayquaza ex 等135+卡（售前10/24）",
+      "desc": "11/6发售！135+卡，Mega Rayquaza ex / Mega Golisopod ex / Mega Golurk ex / Mega Malamar ex 领衔，新增 Legendary Stadiums 机制；售前赛 10/24-11/1",
+      "date": "2026-11-06",
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Delta_Reign_(TCG)"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "news",
+      "tagText": "🔥新系列",
+      "title": "世锦赛8/31预告全新「ex★」(ex Star)系列",
+      "desc": "官方在8/31世锦赛上公开全新ex★系列logo+Mega Lucario Z ex卡，新一代Mega进化体系，后续将公布详情",
+      "date": "2026-08-31"
+     },
+     {
+      "tag": "hot",
+      "tagText": "✅付款截止",
+      "title": "30周年日本抽选订购付款已截止(8/25)·9/15前发货",
+      "url": "https://pokemonhubs.com/ptcg/30th-celebration-card-lottery-guide",
+      "desc": "中签者已于8/25 15:59前完成订购付款，9/15前发货。30th CELEBRATION每包6张全闪、必含1张皮卡丘(30画师各绘1张)；卡表已完整公开(含Base Set Charizard复刻+Pikachu&Zekrom TAG TEAM等30张经典复刻)。早期28包开箱数据：60.7%的包仅含皮卡丘，SIR Pikachu ex/Gengar ex极稀有，FUR新稀有度Mew ex/Mewtwo ex(YOSHIROTTEN绘)。9款卡牌套装8/28-31另行抽选。My Number实名认证分层封堵海外黄牛，eBay预售ETB仍炒至$175-220",
+      "date": "2026-08-25截止"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥新卡",
+      "title": "Ken Sugimori亲绘皮卡丘·30周年纪念卡公开",
+      "desc": "Game Freak联合创始人杉森建为30周年绘制全新皮卡丘卡，致敬初代Base Set胖皮卡丘！另公开Meowth/Alolan Meowth日夜主题卡(8/8)。PokemonXP Panel直播8/11上线",
+      "date": "2026-08-12"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥抢购",
+      "title": "Target今日(8/14)3am EST开抢30周年预购",
+      "desc": "Celebration Knock Out Collection($9.99含2包+闪Eevee+金币)+First Partner Series 2+Prismatic SPC+Chaos Rising ETB，限量限购，机器人抢购激烈",
+      "date": "2026-08-14"
+     },
+     {
+      "tag": "hot",
+      "tagText": "热议",
+      "title": "PTCG Pocket Ruler of the Skies Emblem Event",
+      "desc": "Mega Rayquaza ex新拓展包+Emblem Event今天(8/13)结束！世锦赛庆祝活动+Learning Lab+道馆馆主挑战赛",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥新概念",
+      "title": "Pokémon Asia Championship Series + Game On! 开幕",
+      "desc": "8/7正式启动！Pokémon Game On! 概念在台港澳+东南亚7地区推出，新赛季纪球联盟赛开放报名，9/1起道馆发放特典卡",
+      "date": "2026-08-07起"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥今晚",
+      "title": "8/27旧金山巨人队Oracle Park「Pokémon Worlds Night」主题之夜(已落幕)",
+      "desc": "昨晚8/27世锦赛开幕前夜，旧金山巨人队主场Oracle Park举办Pokémon Worlds Night：皮卡丘开球+无人机灯光秀！每位持徽章者获赠Ascended Heroes雷公(Raikou)箔卡PXP角标promo。世锦赛决赛移至Chase Center(勇士主场)，50,000+观众、徽章售罄，免费直播PokemonXP.com",
+      "date": "2026-08-27"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥结果",
+      "title": "2026世锦赛圆满落幕·冠军全揭晓！",
+      "desc": "8/28-30旧金山Moscone Center初赛+Chase Center决赛(勇士主场)近3000名选手(TCG/VGC/GO/UNITE)！总奖池$200万+。冠军：TCG Masters Andrew Hedrick(US)/Senior Jake Ng(AU)/Junior Yuta Araki(JP)、VGC Masters Takuma Yamazaki(JP)、GO GGs489hiromaru(JP)、UNITE Zeta Division(JP，$100,000)。2027世锦赛官宣移师新加坡EXPO(8/13-15)。中国选手FuguanL.去年少年组夺冠",
+      "date": "2026-08-28~30"
+     },
+     {
+      "tag": "news",
+      "tagText": "市场",
+      "title": "Pitch Black二级市场表现",
+      "desc": "7/17发售的暗系Mega系列，Mega Darkrai ex热度最高，异画卡价格稳步上行",
+      "date": "2026-08"
+     },
+     {
+      "tag": "hot",
+      "tagText": "全球5波",
+      "title": "30th Celebration 国际版分5波铺货（9/16-12/4）",
+      "desc": "国际版分5波：9/16首发 → 10/2 → 10/30 → 11/6 → 12/4。日本与国际同日首发为该系列史上首次，全球同步营销",
+      "date": "2026-09-11",
+      "url": "https://www.pokemon.com/us/pokemon-tcg/"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "营销",
+      "title": "道馆「战术牌组限定战」",
+      "desc": "7/17至9/11，专属对战桌垫奖励",
+      "date": "2026-07-17~09-11"
+     }
+    ],
+    "offline": [
+     {
+      "tag": "event",
+      "tagText": "门店",
+      "title": "武汉光谷官方卡牌道馆",
+      "desc": "齿轮组道馆开业，消费满¥99送特典卡",
+      "date": "2026-07-03"
+     }
+    ],
+    "tournaments": [
+     {
+      "tag": "event",
+      "tagText": "✅已落幕",
+      "title": "2026 Pokémon World Championships（8/28-30圆满落幕）",
+      "url": "https://www.pokemon.com/us/play-pokemon/pokemon-events/pokemon-tournaments",
+      "desc": "旧金山收官！TCG Masters冠军 Andrew Hedrick(US，亚军Diego Cassiraga/AR)、Senior冠军 Jake Ng(AU)、Junior冠军 Yuta Araki(JP)；VGC Masters冠军 Takuma Yamazaki(JP)、GO冠军 GGs489hiromaru(JP)、UNITE冠军 Zeta Division(JP，$100,000)。2027世锦赛移师新加坡EXPO(8/13-15)",
+      "date": "2026-08-28~30"
+     }
+    ]
+   }
   },
-  "games": [
-    {
-      "id": "ptcg",
-      "name": "宝可梦 PTCG",
-      "emoji": "⚡",
-      "avatarClass": "pk",
-      "status": "hot",
-      "statusText": "30周年庆典9/16全球同步·典藏手办礼盒喷火龙套装¥780",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "First Partner Illustration Collection Series 3",
-            "desc": "8/7发售！Hoenn/Kalos/Paldea御三家插画卡，¥14.99",
-            "date": "2026-08-07"
-          },
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "Pitch Black (Abyss Eye)",
-            "desc": "7/17发售！Mega Darkrai/Zeraora/Chandelure/Excadrill ex，115+卡35+异画",
-            "date": "2026-07-17"
-          },
-          {
-            "tag": "new",
-            "tagText": "新品",
-            "title": "Mega Forces Tin + Ascended Heroes Tin",
-            "desc": "8/28今日发售！Mega Dragonite/Darkrai/Zeraora + Meganium/Emboar/Feraligatr，各4包",
-            "date": "2026-08-28"
-          },
-          {
-            "tag": "new",
-            "tagText": "新品",
-            "title": "繁中版 超级进化 绿宝石风暴 M6F",
-            "desc": "8/7台湾发售，Mega Rayquaza核心",
-            "date": "2026-08-07"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥重要",
-            "title": "30th Celebration 扩展包 (全球同步)",
-            "desc": "9/16全球同步首发！全闪卡包(Futuristic Rare新稀有度)+30种皮卡丘+128张主卡+30张经典复刻卡(Base Set Charizard等)！Mewtwo ex/Mew ex异画由YOSHIROTTEN绘制，复刻卡不适用于Standard",
-            "date": "2026-09-16"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "🔥产品线",
-            "title": "30周年庆典全产品线MSRP明细",
-            "desc": "9/16首发：Elite Trainer Box $49.99(9包)/Pokemon ex Box $21.99/Poster Collection $14.99/Tech Sticker $14.99/Knock Out $9.99/2-Pack Blister $9.99；10/2：Booster Bundle $26.94/Binder $31.99/Day&Night Mini Tins；10/30：Espeon&Umbreon对战牌组$19.99；11/6：Ditto Premium $39.99/Mewtwo&Mew Figure $29.99/Ultra-Premium Collection(Day/Night)$179.99；12/4：Sylveon&Greninja Tins。无传统36包整盒，9款主题卡组套装10/16(27御三家)",
-            "date": "2026-09-16起"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "Espeon ex / Umbreon ex 对战牌组",
-            "desc": "10/30发售！太阳伊布/月亮伊布各自独立对战牌组，9月套装中已作为插画稀有卡登场",
-            "date": "2026-10-30"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "Delta Reign + 30th Ultra-Premium Collection",
-            "desc": "11/6同日发售！30包+纹理特典卡，30周年超豪华收藏箱",
-            "date": "2026-11-06"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "Storm Emerald (风暴翡翠)",
-            "desc": "预计9月全球同步，Mega Rayquaza ex核心，年度最受期待系列",
-            "date": "2026-09"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "30周年庆典 幻彩未来纪念礼盒",
-            "desc": "9/16全球同步发售！¥1099含2张FUR皮卡丘ex+30周年特典，收藏级礼盒",
-            "date": "2026-09-16"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "新品",
-            "title": "30周年庆典 典藏手办礼盒（喷火龙套装）",
-            "desc": "9/16 10:00起发售！喷火龙主题典藏手办+卡牌套装，¥780，30周年限量纪念",
-            "date": "2026-09-16"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "news",
-            "tagText": "🔥新系列",
-            "title": "世锦赛8/31预告全新「ex★」(ex Star)系列",
-            "desc": "官方在8/31世锦赛上公开全新ex★系列logo+Mega Lucario Z ex卡，新一代Mega进化体系，后续将公布详情",
-            "date": "2026-08-31"
-          },
-          {
-            "tag": "hot",
-            "tagText": "✅付款截止",
-            "title": "30周年日本抽选订购付款已截止(8/25)·9/15前发货",
-            "url": "https://pokemonhubs.com/ptcg/30th-celebration-card-lottery-guide",
-            "desc": "中签者已于8/25 15:59前完成订购付款，9/15前发货。30th CELEBRATION每包6张全闪、必含1张皮卡丘(30画师各绘1张)；卡表已完整公开(含Base Set Charizard复刻+Pikachu&Zekrom TAG TEAM等30张经典复刻)。早期28包开箱数据：60.7%的包仅含皮卡丘，SIR Pikachu ex/Gengar ex极稀有，FUR新稀有度Mew ex/Mewtwo ex(YOSHIROTTEN绘)。9款卡牌套装8/28-31另行抽选。My Number实名认证分层封堵海外黄牛，eBay预售ETB仍炒至$175-220",
-            "date": "2026-08-25截止"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥新卡",
-            "title": "Ken Sugimori亲绘皮卡丘·30周年纪念卡公开",
-            "desc": "Game Freak联合创始人杉森建为30周年绘制全新皮卡丘卡，致敬初代Base Set胖皮卡丘！另公开Meowth/Alolan Meowth日夜主题卡(8/8)。PokemonXP Panel直播8/11上线",
-            "date": "2026-08-12"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥抢购",
-            "title": "Target今日(8/14)3am EST开抢30周年预购",
-            "desc": "Celebration Knock Out Collection($9.99含2包+闪Eevee+金币)+First Partner Series 2+Prismatic SPC+Chaos Rising ETB，限量限购，机器人抢购激烈",
-            "date": "2026-08-14"
-          },
-          {
-            "tag": "hot",
-            "tagText": "热议",
-            "title": "PTCG Pocket Ruler of the Skies Emblem Event",
-            "desc": "Mega Rayquaza ex新拓展包+Emblem Event今天(8/13)结束！世锦赛庆祝活动+Learning Lab+道馆馆主挑战赛",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥新概念",
-            "title": "Pokémon Asia Championship Series + Game On! 开幕",
-            "desc": "8/7正式启动！Pokémon Game On! 概念在台港澳+东南亚7地区推出，新赛季纪球联盟赛开放报名，9/1起道馆发放特典卡",
-            "date": "2026-08-07起"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥今晚",
-            "title": "8/27旧金山巨人队Oracle Park「Pokémon Worlds Night」主题之夜(已落幕)",
-            "desc": "昨晚8/27世锦赛开幕前夜，旧金山巨人队主场Oracle Park举办Pokémon Worlds Night：皮卡丘开球+无人机灯光秀！每位持徽章者获赠Ascended Heroes雷公(Raikou)箔卡PXP角标promo。世锦赛决赛移至Chase Center(勇士主场)，50,000+观众、徽章售罄，免费直播PokemonXP.com",
-            "date": "2026-08-27"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥结果",
-            "title": "2026世锦赛圆满落幕·冠军全揭晓！",
-            "desc": "8/28-30旧金山Moscone Center初赛+Chase Center决赛(勇士主场)近3000名选手(TCG/VGC/GO/UNITE)！总奖池$200万+。冠军：TCG Masters Andrew Hedrick(US)/Senior Jake Ng(AU)/Junior Yuta Araki(JP)、VGC Masters Takuma Yamazaki(JP)、GO GGs489hiromaru(JP)、UNITE Zeta Division(JP，$100,000)。2027世锦赛官宣移师新加坡EXPO(8/13-15)。中国选手FuguanL.去年少年组夺冠",
-            "date": "2026-08-28~30"
-          },
-          {
-            "tag": "news",
-            "tagText": "市场",
-            "title": "Pitch Black二级市场表现",
-            "desc": "7/17发售的暗系Mega系列，Mega Darkrai ex热度最高，异画卡价格稳步上行",
-            "date": "2026-08"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "营销",
-            "title": "道馆「战术牌组限定战」",
-            "desc": "7/17至9/11，专属对战桌垫奖励",
-            "date": "2026-07-17~09-11"
-          }
-        ],
-        "offline": [
-          {
-            "tag": "event",
-            "tagText": "门店",
-            "title": "武汉光谷官方卡牌道馆",
-            "desc": "齿轮组道馆开业，消费满¥99送特典卡",
-            "date": "2026-07-03"
-          }
-        ],
-        "tournaments": [
-          {
-            "tag": "event",
-            "tagText": "✅已落幕",
-            "title": "2026 Pokémon World Championships（8/28-30圆满落幕）",
-            "url": "https://www.pokemon.com/us/play-pokemon/pokemon-events/pokemon-tournaments",
-            "desc": "旧金山收官！TCG Masters冠军 Andrew Hedrick(US，亚军Diego Cassiraga/AR)、Senior冠军 Jake Ng(AU)、Junior冠军 Yuta Araki(JP)；VGC Masters冠军 Takuma Yamazaki(JP)、GO冠军 GGs489hiromaru(JP)、UNITE冠军 Zeta Division(JP，$100,000)。2027世锦赛移师新加坡EXPO(8/13-15)",
-            "date": "2026-08-28~30"
-          }
-        ]
-      }
-    },
-    {
-      "id": "rwzc",
-      "name": "符文战场",
-      "emoji": "⚔️",
-      "avatarClass": "rw",
-      "status": "hot",
-      "statusText": "9/12-13沈阳站·9/18登陆韩国·韩国限定阿狸/金克丝/亚索·电子版开发中",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "「化神争锋」(Vendetta) 第四系列",
-            "desc": "8/1发售！160+新卡/50异画/9传奇卡+30超编，售前赛创历史最佳",
-            "date": "2026-08-01"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥里程碑",
-            "title": "繁中版第一系列「起源」正式上市！",
-            "desc": "8/7港澳台发售！英雄预组(吉茵珂丝/维克特/李星)+起源补充包+试炼之地(4套入门牌组)。繁中赛区两场512人Regional公布！",
-            "date": "2026-08-07"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥二轮开签",
-            "title": "T1 2025冠军签名限定礼盒 今日(8/21)15:00小程序第二轮开签",
-            "url": "https://lol.qq.com/news/space-detail.shtml?docid=15148196801560497063",
-            "desc": "小程序6200套8/21 15:00公布第二轮抽选结果(释放资格抽选)、英雄联盟客户端3600套8/20 15:00已开签，中选24小时内付款、9/3统一发货。签名版¥2025(韩/英/中各限10125套)、普通版¥399(下半年推出)。二级市场行情已炒至¥4000(原价2025)。另设「天选之礼」周年抽奖、8/29-30武汉现场抽选、9月中旬「群英聚力」组队抽选。五位冠军签名卡对应冠军皮肤：Doran=安蓓萨/Oner=赵信/Faker=加里奥/Gumayusi=厄运小姐/Keria=萨勒芬妮。需誓约值≥120方可参与",
-            "date": "2026-08-21起"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥韩国",
-            "title": "符文战场 9/18 正式登陆韩国（韩文标准赛制）",
-            "desc": "9/3官宣9/18韩国正式发售，从第一系列「起源」起步！韩国限定Over-number卡：阿狸·九尾狐、金克丝&亚索韩版限定(画师Kim Star新图)。T1已签约LS为首位符文战场选手+BaseCamp经销",
-            "date": "2026-09-18"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "韩文版第一系列",
-            "desc": "9/18韩国正式发售，韩国限定Over-number阿狸·九尾狐/金克丝/亚索",
-            "date": "2026-09-18"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "「辉耀群星」(Radiance) 第五系列",
-            "desc": "9月底洛杉矶资格赛开启预览！售前现开赛10/16-22，艾克传奇卡红蓝配色，法语版同步推出",
-            "date": "2026-10-16~22"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "2027产品线：第六~第九系列",
-            "desc": "Legacy(1/29，含四人礼盒：黑默丁格/俄洛伊/泰达米尔/SP拉克丝)→Reckoning(4/30，封面疑似奥瑞利安·索尔/基兰/妮蔻/薇恩)→Q3第八系列(班德尔城)→Q4第九系列(皮城&祖安)，全球总决赛2027",
-            "date": "2027"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "alert",
-            "tagText": "🔥重磅",
-            "title": "2026年度报告：官宣2027全新赛事体系+首届全球总决赛",
-            "desc": "8/16官方发布年度游戏状态报告(执行制作人柴诚然+游戏总监Dave Guskin+设计总监Nik Davidson联合发布)。首办全球总决赛落地、退役Summoner Skirmish城市挑战赛、双线赛事架构升级。卡牌供应规则重大调整：新卡仅通过常规扩展包上线，试炼之地/特殊礼盒不再出独占卡。重点优化2v2模式+轮抽新增专属卡牌+筹备2028非轮换赛制",
-            "date": "2026-08-16"
-          },
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "Gen Con海外大放异彩·2027世界赛确认！",
-            "desc": "8月Gen Con展会占据大规模展区，游戏总监Guskin透露团队仅不到50人，确认2027年举办全球总决赛级别世界赛！2026-2027路线图：巴塞罗那→武汉→沈阳→洛杉矶→成都→拉斯维加斯",
-            "date": "2026-08-10"
-          },
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "T1礼盒抽选8/15开启+萨勒芬妮Keria签名卡公开",
-            "desc": "8/15抽选已启动！萨勒芬妮Keria冠军签名卡公开，T1 CEO表示Faker编号卡可能¥10万+，GEN/Cloud9/EDG等电竞豪门纷纷举办授权赛事",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "繁中版首波Regional+巴塞罗那资格赛",
-            "desc": "台湾站9/19-20新北硅谷512人！澳门站10/9-11威尼斯人512人！巴塞罗那8/21-23顶尖玩家齐聚",
-            "date": "2026-08-10"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥电子版",
-            "title": "电子版《符文战场》开发迹象浮现",
-            "desc": "拳头游戏公开招聘发行产品经理(要求TCG经验+移动端优先)，市场解读为电子版/移动端符文战场正在筹备，实体+数字双线布局信号",
-            "date": "2026-09"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "🔥今日开幕",
-            "title": "GamesCom 2026 科隆游戏展",
-            "desc": "8/26-30德国科隆展出(今日贸易/媒体日开幕)！本届超50家中国游戏厂商参展创历史新高，繁中版「起源」8/7已上市后继续全球推广",
-            "date": "2026-08-26~30"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥进行中",
-            "title": "水晶玫瑰·卡莎专场 (8/10-16)",
-            "desc": "参加1场指定赛事解锁卡莎水晶玫瑰主题隔板！后续瑟提&娑娜(8/17-23)、伊泽&拉克丝(8/24-31)",
-            "date": "2026-08-10~16"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥联名",
-            "title": "双城之战沉浸式音乐秀·一周年主题月",
-            "desc": "8/7-30！观演送纪念卡包(金克丝/蔚/杰斯/维克托/梅尔随机)，8/16、8/23海克斯主题活动日+限定联名镭射票根+抽奖",
-            "date": "2026-08-07~30"
-          },
-          {
-            "tag": "event",
-            "tagText": "✅已落幕",
-            "title": "一周年嘉年华·武汉（8/29-30已圆满收官）",
-            "desc": "8/29-30武汉国际博览中心B2馆已收官！1周年纪念P卡「阿卡丽」现场首发，8/29赛区对抗赛(14位中外选手)+特邀明星表演赛(EDG.nobody & DRG.SpiritZ1)，8/30项目组挑战赛+《双城之战》演员空降开幕式；现场认证赠标准补充包1包。区域公开赛扩容至1280人(原640)",
-            "date": "2026-08-29~30"
-          },
-          {
-            "tag": "event",
-            "tagText": "营销",
-            "title": "符文之夜活动",
-            "desc": "8/7-10/11每周活动，有机会开出梅尔异画奖励卡",
-            "date": "2026-08-07~10-11"
-          }
-        ],
-        "offline": [
-          {
-            "tag": "event",
-            "tagText": "🔥进行中",
-            "title": "城市挑战赛S4+Summoner Skirmish",
-            "desc": "S4已开战！8/17首轮Summoner Skirmish开启，双赛段免费参赛，水晶玫瑰卡莎冠军卡垫",
-            "date": "2026-08-08起"
-          }
-        ],
-        "tournaments": [
-          {
-            "tag": "event",
-            "tagText": "🔥国际",
-            "title": "巴塞罗那地区资格赛",
-            "desc": "8/21-23，顶尖玩家齐聚巴塞罗那，2026年关键国际赛事",
-            "date": "2026-08-21~23"
-          },
-          {
-            "tag": "event",
-            "tagText": "✅已落幕",
-            "title": "CN赛区武汉站+一周年庆典（8/29-30已收官）",
-            "desc": "8/29-30武汉国际博览中心B2馆已收官：8/29赛区对抗表演赛(14位中外选手)+特邀明星表演赛(EDG.nobody & DRG.SpiritZ1)，8/30共鸣公开赛(Bo1排位积分制+3v3团队赛，前2名直通全国冠军赛)+项目组挑战赛。T1礼盒现场抽选需誓约值≥120且身处场馆2公里内",
-            "date": "2026-08-29~30"
-          },
-          {
-            "tag": "event",
-            "tagText": "✅已落幕",
-            "title": "新加坡地区资格赛 (Singapore EXPO Hall 3) 已落幕",
-            "desc": "9/4-6新加坡EXPO已收官(2026倒数第二场RQ)！冠军$6,000+杰斯「进步先锋」独占画卡(冠军Playmat+Promo)，Top8 $1,000-3,000+Top Cut卡垫，Top16 $500，Top32 $250，Top64获区域锦标赛资格+40 Prize Wall券，Top128获拉克丝「冕卫之光」水晶玫瑰Playmat+杰斯异画Promo。直播解说Casanova/Courtney Smith/Carix/Logan Potter，OfflineTV(Toast/Sydeon/Yvonnie/Brodin/Frodan)到场，33张Best-Of Legends铂金传奇卡(来自Spiritforged/Unleashed/Vendetta)",
-            "date": "2026-09-04~06"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥倒计时3天",
-            "title": "CN赛区沈阳站（9/12-13·沈阳新世界博览馆4A馆）",
-            "desc": "9/12-13沈阳新世界博览馆4A馆举行，第四赛季区域公开赛沈阳站(武汉站冠军adtoll操控刀锋舞者艾瑞莉娅问鼎后CN赛区下一站)",
-            "date": "2026-09-12~13"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥倒计时10天",
-            "title": "战斗学院杯·高校专属赛事（9/19起·全国16城）",
-            "desc": "全新高校专属赛事「战斗学院杯」正式启航！第一阶段区域预选赛9/19全国16城指定符文竞技场同步开赛，高校在读学生完成小程序学生认证即可报名，冠军奖励与晋级通道后续公布",
-            "date": "2026-09-19"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "繁中 Regional Qualifier · 台湾站",
-            "desc": "9/19-20新北台北矽谷国际会议中心，512人",
-            "date": "2026-09-19"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "洛杉矶地区资格赛 (年度最后一场)",
-            "desc": "9/25-27拳头游戏主场，辉耀群星预览同步开启",
-            "date": "2026-09-25~27"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "Frontline拉斯维加斯公开赛",
-            "desc": "10/1-4内华达州拉斯维加斯",
-            "date": "2026-10-01~04"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "繁中 Regional Qualifier · 澳门站",
-            "desc": "10/9-11威尼斯人金光会展D&E馆(联名ASCC)，512人",
-            "date": "2026-10-09"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "CN赛区全国公开赛·成都",
-            "desc": "10/10-11四川省成都市",
-            "date": "2026-10-10~11"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "北美地区冠军赛·拉斯维加斯",
-            "desc": "12/11-13，与TFT联动",
-            "date": "2026-12-11~13"
-          }
-        ]
-      }
-    },
-    {
-      "id": "xgzf",
-      "name": "峡谷争锋",
-      "emoji": "🏰",
-      "avatarClass": "xg",
-      "status": "hot",
-      "statusText": "广州巡回赛9/12倒计时3天·解说娇娇/IZORO/书高·新奖品卡云缨",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "✅已发售",
-            "title": "第二弹补充包「守焰同驰」（8/12）正式上市！",
-            "desc": "8/12已全国到货！谋略卡+资源卡(风暴龙王/东风祭坛)+英雄卡KR(8张全新：百里玄策/守约/蔡文姬/花木兰/苏烈等)+追逃游戏亚瑟&安琪拉连图KR+无框限编KR！全新加入日落海的荣誉骑士与神秘法师",
-            "date": "2026-08-12"
-          },
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "初版预组（河洛/建木/逐鹿）",
-            "desc": "50元亲民定价，上海首站巡回赛640名选手",
-            "date": "2026-04-08"
-          },
-          {
-            "tag": "new",
-            "tagText": "新品",
-            "title": "路启千秋主题礼盒",
-            "desc": "CJ2026首发亮相，丝路主题",
-            "date": "2026-08"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "news",
-            "tagText": "🔥新赛季",
-            "title": "认证赛换新赛季VOL.2（全国进行中）",
-            "desc": "8/27起认证赛换新赛季VOL.2，全国店铺赛季换新！VOL.2 PR + 冠军奖品卡/卡垫「安琪拉-糖果风暴」，国冠资格赛限128人。奖品包VOL.2还有概率开出全新异画PR「周瑜-百相守梦」",
-            "date": "2026-08-27起"
-          },
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "第二弹卡牌预览持续曝光中",
-            "desc": "谋略卡→资源卡(风暴龙王异画/东风祭坛)→8张全新英雄KR(百里玄策/百里守约/蔡文姬/花木兰/苏烈等)→追逃游戏亚瑟&安琪拉连图KR，发售日待公布",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "CJ2026圆满收官",
-            "desc": "N3馆三天热度爆棚，绝美coser+貂蝉背包+试玩+抽奖，全国赛事万人参与",
-            "date": "2026-08-01~03"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "营销",
-            "title": "全国巡回赛持续进行",
-            "desc": "5月起每月巡回赛级别以上大型赛事，城市派对青岛站8月奥帆中心",
-            "date": "2026-05起"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥场贩",
-            "title": "广州站场贩更新：大乔「绒语心约」牌垫&牌套",
-            "desc": "广州巡回赛现场场贩更新！大乔款「绒语心约」牌垫&牌套全新登场，组合购买赠大乔绒语心约PR卡一张（无需中选正赛，到场即可购买，数量有限售完即止）",
-            "date": "2026-09-12"
-          }
-        ],
-        "offline": [
-          {
-            "tag": "event",
-            "tagText": "活动",
-            "title": "全国30+城市超百场试玩会",
-            "desc": "覆盖主要一二线城市",
-            "date": "2026"
-          }
-        ],
-        "tournaments": [
-          {
-            "tag": "alert",
-            "tagText": "✅已落幕",
-            "title": "峡谷争锋2026大奖赛·上海（冠军御三家.鱼）",
-            "desc": "8/22 Day1千人瑞士轮八强出炉，8/23 Day2双卡组BO3决赛，冠军【御三家.鱼】；冠军/上位奖品卡「貂蝉-绝世舞姬」已公开，国冠资格赛限128人；8/27起认证赛换新赛季VOL.2",
-            "date": "2026-08-22~23"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥倒计时3天",
-            "title": "广州巡回赛（9/12·512人·琶洲展馆）",
-            "desc": "9/12·琶洲展馆·512人规模！解说阵容揭晓：娇娇/IZORO/书高。新奖品卡「云缨·赤焰之缨」PR+32强限定牌垫",
-            "date": "2026-09-12"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "国冠赛年度总决赛",
-            "desc": "总奖金池高达200万元",
-            "date": "2026"
-          }
-        ]
-      }
-    },
-    {
-      "id": "hspw",
-      "name": "幻兽帕鲁 TCG",
-      "emoji": "🐉",
-      "avatarClass": "hs",
-      "status": "hot",
-      "statusText": "首弹全球发货超440万包·2E版重制推迟10月底·第2弹Legends Awaken 10/30",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "第1弹「帕尔帕戈斯的黎明」",
-            "desc": "7/30三语同步(日/英/简中)，预购量350万包+，50+帕鲁原创插画，243张卡(含异画)",
-            "date": "2026-07-30"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥收藏",
-            "title": "首印\"Error Box\"成收藏品",
-            "desc": "包装Palworld印成Palword(少一个l)，Bushiroad确认再版修正，首版被囤为\"Error Box\"。金魂卡价格从$4000回落至~$1000，捣蛋猫金卡真实成交$849-999",
-            "date": "2026-08"
-          },
-          {
-            "tag": "alert",
-            "tagText": "⚠️延期",
-            "title": "2E版「Dawn of Palpagos」重制推迟至10月底",
-            "desc": "首弹二版重制(罗马数字II标识，修正首版错字/卡面问题)由原定9月下旬推迟至10月底推出",
-            "date": "2026-10月底"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥新增",
-            "title": "第2弹「LEGENDS AWAKEN 觉醒的传说」",
-            "desc": "10/30日英简中三语同步！100+卡+平行异画，Broncherry/Chillet Ignis/Jetragon参战，反派Saya登场。Sleeve & Card Set Vol.1于10/2、Trial Decks 12/18、第3弹2027/1/29",
-            "date": "2026-10-30"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "⚠️延期",
-            "title": "Sleeve & Card Set Vol.1 卡套套装（10/2→10/16）",
-            "desc": "原定10/2发售，官方延期至10/16！含捣蛋猫/Depresso/Chillet/Quivern/Grizzbolt特典卡",
-            "date": "2026-10-16"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "新增",
-            "title": "Trial Decks 第三波（含全新机制）",
-            "desc": "12/18发售，接Red/Blue和Green/Purple预组，加入全新机制起始卡组",
-            "date": "2026-12-18"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "第3弹扩展包",
-            "desc": "2027/1/29发售！全产品线已排到明年",
-            "date": "2027-01-29"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "二级市场价格持续走高·首弹全球发货超440万包",
-            "desc": "首弹「帕尔帕戈斯的黎明」全球累计发货已超440万包（此前350万），二级市场溢价依旧严重",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥致歉",
-            "title": "Bushiroad就缺货/黄牛问题正式致歉(8/12)",
-            "desc": "8/12官方就市场需求超预期与黄牛炒作致歉，全球已售罄350万包+，重申TCG不应成金融商品。日本快闪店新货改为无塑封销售反制黄牛囤货，具体补货时间待后续公布",
-            "date": "2026-08-12"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥加印",
-            "title": "Bushiroad宣布「帕尔帕戈斯的黎明」二版加印(8/18-19)",
-            "desc": "8/18英文官方X确认补货在途+2nd Edition重印计划(修正首版Ribbuny卡Strike框色/文字及包装'Palword'拼写错误)；中文资讯称9/20推出「2版」套卡。黄金版捣蛋猫SLSSR传闻炒至超$1万(海外成交约$4000)，第2弹「LEGENDS AWAKEN」10/30发售在即",
-            "date": "2026-08-19"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "Palworld IP多平台扩张",
-            "desc": "官方授权手机新作《Palworld Online》由Garena代理(开发+发行)，与实体TCG同步布局，IP正从单一游戏转向多平台生态",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "儒意时光卡藏获中国区运营权",
-            "desc": "计划2027年底前开设200家直营门店，整合发行/零售/赛事/社区",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "Bushiroad承诺杜绝缺货炒作",
-            "desc": "木谷高明强调TCG不应成金融商品，起始牌组优先保障供应",
-            "date": "2026-07"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "🔥火热",
-            "title": "秋叶原限时快闪店",
-            "desc": "8/1-9/13火热进行中！",
-            "date": "2026-08-01~09-13"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥赛事",
-            "title": "8月官方店赛：捕捉露娜蒂+莉莉&百合女王牌垫抽选",
-            "desc": "「捕捉露娜蒂」主题赛事8/14-9/10(入场CPR-01 PR包)；「帕洛斯的黎明」发售纪念特别赛8/14-8/31(入场灵魂卡套装3枚+抽选莉莉&百合女王牌垫)。通过时光卡藏卡牌小助手报名",
-            "date": "2026-08-14起"
-          },
-          {
-            "tag": "event",
-            "tagText": "营销",
-            "title": "官方宣传大使阵容公布",
-            "desc": "BanG Dream! VTuber峰月律、DJ千石由乃、新日本职业摔角手Great-O-Khan出任官方宣传大使",
-            "date": "2026-07-22"
-          },
-          {
-            "tag": "event",
-            "tagText": "营销",
-            "title": "全球400+店铺教学活动",
-            "desc": "Bushiroad员工亲赴海外推广，参与约1.5万人",
-            "date": "2026-06起"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥展会",
-            "title": "TGS 2026 东京电玩展将展出第2弹插画",
-            "desc": "幻兽帕鲁TCG将亮相TGS 2026，现场展示第2弹「Legends Awaken」新插画，2E版重印10月底（罗马数字II标识）",
-            "date": "2026-09"
-          }
-        ],
-        "offline": [
-          {
-            "tag": "event",
-            "tagText": "活动",
-            "title": "简体中文版首发庆典·上海",
-            "desc": "8/2五角场万达影城 ✅已完成",
-            "date": "2026-08-02"
-          }
-        ],
-        "tournaments": [
-          {
-            "tag": "done",
-            "tagText": "✅已落幕",
-            "title": "北京呆呆龙卡牌构筑赛（9/2-9/5）",
-            "desc": "9/2-9/5北京呆呆龙卡牌举办构筑赛；「2版」套卡9/20推出，第2弹「Legends Awaken」10/30三语同步",
-            "date": "2026-09-02~05"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥全球体系",
-            "title": "世界大赛完整路径公布！",
-            "desc": "地区预选(2026/9~2027/3，覆盖20+地区)→全国决赛(2027/4)→世界总决赛(2027/5)！简中版选手有完整晋级路径",
-            "date": "2026-09起"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥新赛事",
-            "title": "Masters League 大型巡回赛",
-            "desc": "9月日本四城市举办，同步贩售限定周边",
-            "date": "2026-09"
-          },
-          {
-            "tag": "event",
-            "tagText": "新赛事",
-            "title": "Challengers Cup Season 1",
-            "desc": "10月举办，优胜者获流水序号限定卡片",
-            "date": "2026-10"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "8月起每月店赛",
-            "desc": "全球官方认证店铺赛体系启动",
-            "date": "2026-08起"
-          }
-        ]
-      }
-    },
-    {
-      "id": "zmdd",
-      "name": "正面对决 TCG",
-      "emoji": "🏯",
-      "avatarClass": "zm",
-      "status": "active",
-      "statusText": "季度大奖赛《出征》超15万奖池·9/12天津神黄忠主题赛·第二弹11月",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "alert",
-            "tagText": "🔥里程碑",
-            "title": "第一弹补充包「出征」CJ首发！",
-            "desc": "7/31-8/3 CJ现场+全国800余家店铺同期发售！KayaK操刀，国民IP三国杀正式入局TCG赛道",
-            "date": "2026-07-31"
-          },
-          {
-            "tag": "new",
-            "tagText": "限量",
-            "title": "设计师签名限量礼盒",
-            "desc": "CJ现场限量发售，含限定卡牌+牌垫+牌盒+牌套，极具收藏价值",
-            "date": "2026-08"
-          },
-          {
-            "tag": "new",
-            "tagText": "新品",
-            "title": "周边配件阵容",
-            "desc": "吕玲绮主题卡册/牌盒/卡砖/牌垫/牌套等丰富周边",
-            "date": "2026-08"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "第二弹内容",
-            "desc": "Q4推出，与《镇魂街王者归来》联动卡牌，每三个月一弹稳定更新",
-            "date": "2026 Q4"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "国产TCG标杆：CJ首发现场火爆！",
-            "desc": "6大TCG顶牌手表演赛(万智牌/符文战场/游戏王/宝可梦)+舞台节目+COSER走秀+互动试玩，三国杀4亿用户基础",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "长期运营模式公布",
-            "desc": "金字塔赛事体系(店赛→城市赛→大奖赛→国冠赛)，4季/年，首场大奖赛2026秋。亚太出海计划同步",
-            "date": "2026"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "🔥回顾",
-            "title": "CJ现场表演赛",
-            "desc": "李博(万智牌)/Rico1997(全能)/张老伯(万智金级)/nii(PTCG双冠)/阳光(游戏王国冠)等明星牌手",
-            "date": "2026-07-31~08-03"
-          },
-          {
-            "tag": "event",
-            "tagText": "✅已收官",
-            "title": "北京DICE CON 2026线下试玩（8/21-23已收官）",
-            "desc": "8/21-23北京全国农业展览馆11号馆(第十届·亚洲最大桌游展)，首批线下试玩体验活动，2000+款参展桌游、200余家参展单位",
-            "date": "2026-08-21~23"
-          },
-          {
-            "tag": "event",
-            "tagText": "✅已落幕",
-            "title": "第一赛季城市挑战赛·上海站（8/30已落幕·冠军REX）",
-            "desc": "8/30上海浦东丁香国际商业中心LG2中庭(鱼人桌游·卡牌承办)已收官！实际90人参赛(原128规模)，冠军【REX】获城市赛专属PR卡「兵行险招·法正」+冠军牌垫。各地店赛持续进行",
-            "date": "2026-08-30"
-          },
-          {
-            "tag": "event",
-            "tagText": "联动",
-            "title": "与镇魂街王者归来联动",
-            "desc": "专属联动卡牌(P卡)公布",
-            "date": "2026"
-          }
-        ],
-        "offline": [
-          {
-            "tag": "event",
-            "tagText": "渠道",
-            "title": "800+店铺同期覆盖",
-            "desc": "根植店家策略，全周期资源扶持+专属运营资源包",
-            "date": "2026"
-          }
-        ],
-        "tournaments": [
-          {
-            "tag": "done",
-            "tagText": "✅已落幕",
-            "title": "天津CardTime店赛（9/3）",
-            "desc": "天津CardTime卡牌店9/3今晚举办店赛，参与即有机会赢取限定PR卡",
-            "date": "2026-09-03"
-          },
-          {
-            "tag": "event",
-            "tagText": "✅已落幕",
-            "title": "第一赛季城市挑战赛·上海站（8/30·冠军REX）",
-            "desc": "8/30浦东丁香国际商业中心LG2中庭(鱼人桌游·卡牌承办)已落幕，90人参赛，冠军【REX】获专属PR卡「兵行险招·法正」+冠军牌垫，积分制冲刺国冠赛资格",
-            "date": "2026-08-30"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥奖池",
-            "title": "第一赛季季度大奖赛《出征》",
-            "desc": "9/3官宣！首场季度大奖赛《出征》重磅来袭，超15万奖池等主公来战(姚记潮品9/4 B站)。金字塔赛事体系(店赛→城市赛→大奖赛→国冠赛)，9号看大奖赛细则决定报名",
-            "date": "2026-09"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥店赛",
-            "title": "天津神黄忠主题赛（9/12·CardTime卡牌店）",
-            "desc": "9/12 14:00天津CardTime卡牌店(南开新世界百货4楼)举办，免费入场送PR【老兵的铁剑】+三国杀OL兑换码，八强获神黄忠主题赛优胜牌盒、冠军限定卡垫；另有9/10周中娱乐构筑赛(入场《出征》补充包1包)",
-            "date": "2026-09-12"
-          }
-        ]
-      }
-    },
-    {
-      "id": "cyjz",
-      "name": "超英击战 TCG",
-      "emoji": "🦸",
-      "avatarClass": "cy",
-      "status": "hot",
-      "statusText": "MOJOFEST上海8/23已落幕·首发新品Chronoz迪士尼联动",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "漫威TCG中文版全球首发",
-            "desc": "6/19广州全球首发，中国原创漫威TCG，杰森娱乐全生态运营",
-            "date": "2026-06-19"
-          },
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "印尼语版本上市",
-            "desc": "8/2雅加达发布，本地化运营+门店周赛/月赛体系",
-            "date": "2026-08-02"
-          },
-          {
-            "tag": "new",
-            "tagText": "✅已发售",
-            "title": "补充包《蜘蛛纪元》SP01 正式发售！",
-            "desc": "8/12全国到货！蜘蛛侠主题特别补充包，全闪卡无平卡：80角色卡+20冲击卡+54异画卡(每包6张/每盒20包/每箱12盒)，全新HR限编稀有度共4款(金编99张/银编616张)。英文海外版8/15紧随其后，泰国/新加坡8月落地本地化赛事；香港ACGHK 7/24-28英文版先行亮相",
-            "date": "2026-08-12"
-          },
-          {
-            "tag": "new",
-            "tagText": "✅已发售",
-            "title": "英文版海外正式发售",
-            "desc": "8/15标准补充包+基础卡组英文版已全球上线！8/22广州首场地区公开赛(城市赛)紧随其后",
-            "date": "2026-08-15"
-          },
-          {
-            "tag": "new",
-            "tagText": "🔥新品",
-            "title": "首发新品「2026 Chronoz: Disney Legacy Trading Cards」",
-            "desc": "超英击战首发跨界新品，Disney Legacy Trading Cards系列，与漫威TCG双线并行，进一步拓展迪士尼IP卡牌矩阵",
-            "date": "2026-08"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "8月活动矩阵全开",
-            "desc": "COMIDAY30成都(8/8-9 ✅已完成)→蜘蛛纪元(8/12)→英文版(8/15)→MOJOFEST上海(8/21-23)→广州公开赛(8/22)",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "中国原创TCG出海标杆",
-            "desc": "香港+印尼+泰国+新加坡同步布局，杰森娱乐\"产品+渠道+体验+社群+赛事\"全生态模式。8/16创始人林俊亲赴泰国曼谷赛事交流，杰森年营收突破10亿元",
-            "date": "2026-08"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "展会",
-            "title": "COMIDAY30 成都",
-            "desc": "8/8-9世纪城新国际会展中心P11 ✅已完成",
-            "date": "2026-08-08~09"
-          },
-          {
-            "tag": "event",
-            "tagText": "✅已收官",
-            "title": "MOJOFEST趣藏嘉年华·上海",
-            "desc": "8/21-23 HERO DOME英雄外滩演艺中心A19(黄浦区局门路688号)已圆满收官！入场礼包含MOJO FEST限定宝藏包TB03，试玩教学赠包。另泰国曼谷8/16举行首场海外赛事",
-            "date": "2026-08-21~23"
-          }
-        ],
-        "offline": [
-          {
-            "tag": "event",
-            "tagText": "🔥新店",
-            "title": "森罗万象上海环球港店开业",
-            "desc": "8月初开业，大面积店铺内设对战专区，卡牌爱好者长期据点",
-            "date": "2026-08"
-          },
-          {
-            "tag": "event",
-            "tagText": "活动",
-            "title": "全国多地主题体验馆",
-            "desc": "武汉/广东等地已落地，门店试玩+玩家社群+赛事搭建",
-            "date": "2026"
-          }
-        ],
-        "tournaments": [
-          {
-            "tag": "alert",
-            "tagText": "✅已落幕",
-            "title": "首场地区公开赛·广州站（8/22圆满落幕）",
-            "desc": "冠军 猫岛-Icego(红蓝复仇者联盟)、亚军 魔王(红蓝宿敌共生体)、季军 猫岛-昊天(红蓝复仇者联盟)！冠军¥3000/亚军¥2000/季军¥1000，优胜金属冲击卡(冠军金卡/亚军银卡/季军铜卡)，同场MOJOFEST上海8/21-23",
-            "date": "2026-08-22"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥倒计时4天",
-            "title": "黑猫牌垫争霸赛《超英击战》构筑赛（9/13·广州）",
-            "desc": "9/13 15:30广州卡朋卡牌陈家祠店举办构筑赛，报名费¥20(报名9/4起)，入场2包BP01+1包TB02，冠军获特殊牌垫+3张EB包自选单卡，赛后另有抽选牌垫",
-            "date": "2026-09-13"
-          }
-        ]
-      }
-    },
-    {
-      "id": "hyrz",
-      "name": "火影忍者 TCG",
-      "emoji": "🍥",
-      "avatarClass": "hy",
-      "status": "hot",
-      "statusText": "Mythos Set2已全球发售·Set3 Akatsuki 11/13全球同步",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "Naruto Mythos Set 1: Konoha Shido",
-            "desc": "3/13欧洲首发，152张卡+22K金传奇卡，现已进入美国零售渠道",
-            "date": "2026-03-13"
-          },
-          {
-            "tag": "done",
-            "tagText": "✅已发售",
-            "title": "Mythos Set 2: Shinobi Shiren",
-            "desc": "9/4今日全球正式发售！217张卡(24包/盒·每包10卡)，编号卡系统精细化+全新原创卡牌设计(Original Designs)+新稀有度层级+22K金卡回归，英版Booster Box £99.95-£119.99。10/16第二波(Starter Pack Design B+Team Set)，美/加/墨/加勒比9月下旬预发售，欧洲预发售8/28-30已收官",
-            "date": "2026-09-04"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥重要",
-            "title": "Mythos Set 3: Akatsuki（疾风传）",
-            "desc": "11/13全球同步(预发售11/7)！进入疾风传，新增美/加/拉美/澳/南非市场。Set 2美区预发售9月下旬、2027欧洲锦标赛3月",
-            "date": "2026-11-13"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥重磅",
-            "title": "Bandai「Naruto Card Game」",
-            "desc": "2027夏全球同步！规则全公开：1领袖+50角色+5查克拉+1召唤，Leader生命值归零即败。Gen Con先行卡国内¥8000+！10月全球巡展启动",
-            "date": "2027年夏"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "alert",
-            "tagText": "🔥关注",
-            "title": "Bandai火影TCG Gen Con先行卡天价",
-            "desc": "中国二级市场报价8000+元！Bandai全球巡展10月启动(NYCC→PAX Aus→Spiel Essen→Paris→Lucca)",
-            "date": "2026-08"
-          },
-          {
-            "tag": "hot",
-            "tagText": "热议",
-            "title": "两款火影TCG正面竞争格局",
-            "desc": "Cicaboom Mythos(收藏向/欧洲核心/3弹已定) vs Bandai新TCG(竞技向/全球/2027夏)。市场格局重大重塑",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "Mythos Set 2新增全球5大市场",
-            "desc": "美国/加拿大/拉美/澳洲/南非同步接入Set 2，Set 3起全球完全同步。Set 1二版限量进入美国",
-            "date": "2026-08"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "已完成",
-            "title": "Gen Con 2026 Bandai试玩",
-            "desc": "7/30-8/2印第安纳波利斯，免费教学+先行卡+背包+贴纸 ✅",
-            "date": "2026-07-30~08-02"
-          },
-          {
-            "tag": "event",
-            "tagText": "营销",
-            "title": "Bandai全球巡展10月启动",
-            "desc": "NYCC(10月)→PAX Australia(10月)→Spiel Essen→Paris Games Week→Lucca",
-            "date": "2026-10起"
-          }
-        ],
-        "offline": [
-          {
-            "tag": "event",
-            "tagText": "已完成",
-            "title": "Mythos TCG SDCC试玩",
-            "desc": "7/23-26圣地亚哥漫展首次美国试玩 ✅",
-            "date": "2026-07-23~26"
-          }
-        ],
-        "tournaments": [
-          {
-            "tag": "event",
-            "tagText": "🔥新Promo",
-            "title": "9-10月周赛Promo Pack（胜者卡卡西等）",
-            "desc": "9-10月欧美周赛推出Promo Pack：佐助/鸣人/自来也/千手纲手/鼬Chibi卡+胜者卡卡西卡，配套Set 2发售",
-            "date": "2026-09~10"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥赛事",
-            "title": "Mythos Set 2 Pre-Release Tournament",
-            "desc": "今日(8/28-30)全球预发售店赛开启，提前一周抢先体验新卡！",
-            "date": "2026-08-28~30"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "Mythos Store Championships",
-            "desc": "6月起欧洲店铺冠军赛进行中",
-            "date": "2026-06起"
-          },
-          {
-            "tag": "news",
-            "tagText": "规划",
-            "title": "Mythos欧洲锦标赛",
-            "desc": "目标2027年3月",
-            "date": "2027-03"
-          }
-        ]
-      }
-    },
-    {
-      "id": "azuki",
-      "name": "Gates Awakened (Azuki)",
-      "emoji": "⛩️",
-      "avatarClass": "az",
-      "status": "hot",
-      "statusText": "AZK-01已发售·下个区域赛10/24 Peoria",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "alert",
-            "tagText": "🔥已发售",
-            "title": "Gates Awakened (AZK-01) 正式上市！",
-            "desc": "Azuki首款TCG已全面发售！4款起始牌组$12.99(雷/水/地/火)，补充包展示盒$119.99(24包/盒)，148张独特卡牌。预购收入超$100万！",
-            "date": "2026-08"
-          },
-          {
-            "tag": "new",
-            "tagText": "已上线",
-            "title": "GameSquare创作者营销合作",
-            "desc": "8/6宣布，GameSquare负责TCG/卡牌收藏社区KOL营销，覆盖YouTube+TikTok+Instagram，持续至10月",
-            "date": "2026-08-06"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "Gates Awakened Manga同步推出",
-            "desc": "与TCG同步发行配套漫画，创作者Arnold Tsang参与原创内容",
-            "date": "2026-09~10"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "NFT IP首次实体TCG全面落地",
-            "desc": "AZK-01已发货！独立IKZ资源牌组系统+双区域战场(花园/巷弄)+传送门机制，规则创新获好评。$10万锦标赛奖金池。首场区域赛8/15 Pasadena约320人参赛",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "⚠️禁卡",
-            "title": "Rushfire Gate 8/18被禁·第二弹2026年末",
-            "desc": "官方8/18宣布Rushfire Gate禁卡(平衡性调整)；第二弹扩展包定档2026年末。下个Garden Arena区域赛10/24 Peoria，组织者更换为Top Cut Events",
-            "date": "2026-08-18"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "Web3到实体TCG的跨界尝试",
-            "desc": "Chiru Labs从NFT成功转型实体TCG，Arnold Tsang(前守望先锋艺术总监)领衔美术团队，全手绘零AI",
-            "date": "2026-08"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "done",
-            "tagText": "✅已截止",
-            "title": "欧洲零售商上架AZK-01预售（订单9/4已截止）",
-            "desc": "欧洲零售商上架AZK-01 Boosters/四款Starter Deck预售，Release Date 10/23，订单截止9/4今日",
-            "date": "2026-09-04"
-          },
-          {
-            "tag": "event",
-            "tagText": "营销",
-            "title": "创作者营销活动启动",
-            "desc": "8/6起至10月，GameSquare部署TCG/收藏社区KOL，覆盖YouTube+TikTok+Instagram Reels",
-            "date": "2026-08~10"
-          }
-        ],
-        "offline": [],
-        "tournaments": [
-          {
-            "tag": "event",
-            "tagText": "🔥下一场",
-            "title": "Garden Arena区域赛·Peoria (10/24)",
-            "desc": "下个Garden Arena区域赛10/24在Peoria举行，组织者更换为Top Cut Events。Top16晋级2027 Invitational，Top8获serialized Raizan编号卡，$10万锦标赛奖金池",
-            "date": "2026-10-24"
-          },
-          {
-            "tag": "event",
-            "tagText": "✅已结束",
-            "title": "洛杉矶Garden Arena区域赛 (8/15已结束)",
-            "desc": "Azuki TCG首场官方区域赛8/15在Pasadena Convention Center举行，与CoreTCG合作！约320名选手参赛，Top16晋级2027 Invitational，Top8获serialized Raizan编号卡，$10万锦标赛奖金池",
-            "date": "2026-08-15"
-          }
-        ]
-      }
-    },
-    {
-      "id": "mtghobbit",
-      "name": "MTG The Hobbit",
-      "emoji": "🏔️",
-      "avatarClass": "mtgh",
-      "status": "hot",
-      "statusText": "Hobbit已发售·Gift Bundle 9/4已发售·Dallas已落幕·Heart of the Mountain进行中",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "✅已发售",
-            "title": "MTG The Hobbit 全球发售",
-            "url": "https://magic.wizards.com/en/news",
-            "desc": "8/14已全球发售！Bilbo Baggins孤山之旅，Tolkien宇宙×MTG第五扩展。Play Boosters $6.99 / Collector Boosters $37.99 / Bundle $69.99。Smaug金龙闪仅500张+40张Box Topper经典卡(One Ring回归)+Dwarvish语言卡5张",
-            "date": "2026-08-14"
-          },
-          {
-            "tag": "new",
-            "tagText": "✅已完成",
-            "title": "售前赛 (Prerelease)",
-            "desc": "8/7-13全球店铺售前赛已完成",
-            "date": "2026-08-07~13"
-          },
-          {
-            "tag": "alert",
-            "tagText": "✅已上线",
-            "title": "MTG Arena 数字版",
-            "desc": "8/11正式上线！Pack/Pass/Play预购Bundle已开售，Sealed/Draft活动同步启动！Arena Direct Sealed 8/14-23可赢Collector Booster箱",
-            "date": "2026-08-11"
-          },
-          {
-            "tag": "done",
-            "tagText": "✅已发售",
-            "title": "Gift Bundle 礼盒",
-            "desc": "9/4今日发售，含特别赠卡和收藏配件",
-            "date": "2026-09-04"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥稀有",
-            "title": "Smaug Gleaming Gold 金龙闪",
-            "desc": "Smaug the Magnificent金龙闪变体仅500张！Book Cover变体/Dwarvish语言卡/Dragon Hoard边框卡",
-            "date": "2026-08-14"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "Tolkien宇宙第三度联动MTG·Arena今日上线",
-            "desc": "继LTR魔戒后再度回归中土世界！新机制Storied Recruit(传奇招募)+Hone Counters(磨砺指示物)+回归Adventure/Amass(Goblins)/Saga",
-            "date": "2026-08"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥B&R",
-            "title": "Standard紧急B&R更新(8/10)",
-            "desc": "Gran-Gran、Stormchaser's Talent、Badgermole Cub 禁止！每张补偿1 Wildcard。Timeless为8月Qualifier赛制",
-            "date": "2026-08-10"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "Legality: HOB全赛制合法",
-            "desc": "主系列HOB全赛制合法；Eternal-legal子系列HOC可用于Commander/Legacy/Vintage",
-            "date": "2026-08"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "🔥赛事",
-            "title": "Magic Spotlight: The Hobbit · 布里斯班",
-            "desc": "今日(8/28)开幕(Let's Play Games主办)，主赛事Modern构筑8/29-30($5万奖池：冠军$1万+Pro Tour邀请/亚军$5千)，Riddles in the Dark限定promo(Tomas Duchek绘，Top128获foil版)，冠军获Black Lotus主题奖杯",
-            "date": "2026-08-28~30"
-          },
-          {
-            "tag": "done",
-            "tagText": "✅已落幕",
-            "title": "Magic Spotlight: The Hobbit · 达拉斯",
-            "desc": "9/4-6美国达拉斯站今日开幕！主赛事Modern构筑9/5-6，Top8获Pro Tour邀请，冠军$10,000",
-            "date": "2026-09-04~06"
-          }
-        ],
-        "offline": [
-          {
-            "tag": "event",
-            "tagText": "活动",
-            "title": "Commander Party 第一轮",
-            "desc": "8/21-27，赠卡Bilbo, Luckwearer",
-            "date": "2026-08-21~27"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥进行中",
-            "title": "Magic Presents: Heart of the Mountain",
-            "desc": "9/4-10今日开始，Arkenstone争夺战主题Commander",
-            "date": "2026-09-04~10"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "Commander Party 第二轮 (9/18-24)",
-            "desc": "Commander Party第二轮9/18-24举行，各认证店铺组织",
-            "date": "2026-09-18~24"
-          }
-        ],
-        "tournaments": [
-          {
-            "tag": "event",
-            "tagText": "🔥今日",
-            "title": "Arena Direct Sealed (8/14-23)",
-            "desc": "HOB现开赛，7胜赢Collector Booster箱！8/14起",
-            "date": "2026-08-14~23"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "Friday Night Magic (8/14起)",
-            "desc": "每周五HOB赛季FNM，Standard Showdown Wood Elves promo奖励",
-            "date": "2026-08-14~09-24"
-          }
-        ]
-      }
-    },
-    {
-      "id": "mtg",
-      "name": "万智牌",
-      "emoji": "🔮",
-      "avatarClass": "mtg",
-      "status": "hot",
-      "statusText": "Reality Fracture预览季进行中·全卡表9/18·新机制Empower/Echoed Pairs",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "Marvel Super Heroes 联名系列",
-            "desc": "6/26全球发售！漫威超级英雄联动，史上最快突破3亿美元收入的MTG系列，玩家社区反响炸裂",
-            "date": "2026-06-26"
-          },
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "Secrets of Strixhaven（斯翠海文的秘密）",
-            "desc": "4/24发售，五大学院回归！魔法学院主题扩展，上市后迅速全网售罄",
-            "date": "2026-04-24"
-          },
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "Teenage Mutant Ninja Turtles（忍者神龟联名）",
-            "desc": "3/6全球发售，MTG×忍者神龟跨界联名",
-            "date": "2026-03-06"
-          },
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "Lorwyn Eclipsed（洛温：日蚀）",
-            "desc": "1/23发售，本宇宙2026开年系列",
-            "date": "2026-01-23"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥预览季",
-            "title": "Reality Fracture 预览季 9/8 启动（10am PT直播）",
-            "desc": "预览季9/8启动（10am PT直播）！全卡表9/18·售前赛9/25-10/1·桌面10/2·Arena 9/29。Arena预购3款bundle已上线，Arena Powered Cube 9/8-28，Hobbit Limited Open 9/11-13，故事结局9/11，新机制Empower Jace/Echoed Pairs+Hexhaven五学院+Elder Sphinxes",
-            "date": "2026-09-08"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥即将",
-            "title": "Reality Fracture（现实裂隙）",
-            "url": "https://magic.wizards.com/en/news",
-            "desc": "10/2全球发售！本宇宙年度收官系列，Jace黑化为反派「The Theorist」构建Echoverse回声宇宙。镜像鹏洛客颠覆色组：蓝Chandra Chill of Compliance(预购$48)/1费白Liliana the Faultless/2费白Ajani Resolute/黑Garruk Veiled Butcher。Echoed Pairs机制每包必含一对正反对卡(30张无框echo对卡=15对)。收藏亮点：13张Shattered Mirror碎镜卡(仅Collector含闪)、23张Braintwister无框卡、10张Japan Showcase。Commander含Darksteel Angel(16年陈年Platinum Angel加强版：不会输+不灭+防-1/-1)。序列化Headliner「Bloodline Recollector」500张、预购$88。售前9/25-10/1、Arena 9/29、Card Kingdom预购8/26已开启。产品线MSRP：Play Booster $5.49/Collector Booster $26.99/Bundle $57.99/Commander Deck $49.99。Secret Lair Bundle 10/23通过Secret Lair网店+WPN店铺发售。北京Fracture Spotlight 10/31-11/1、Hartford 10/23-25。2027年推Battle of Five Armies Co-op Kit",
-            "date": "2026-10-02"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "Star Trek（星际迷航联名）",
-            "desc": "11/13全球发售！MTG×Star Trek无疆新宇宙联动",
-            "date": "2026-11-13"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥Secret Lair",
-            "title": "Secret Lair X Masters of the Universe 超级掉落",
-            "desc": "9/14开启预售！五套Drop(He-Man/Skeletor/She-Ra等)，闪卡$39.99/非闪$29.99；同月「A Perfectly Normal Superdrop」9/1已上线(Marvel Joe Fixit+Shivan Dragon回归)",
-            "date": "2026-09-14"
-          },
-          {
-            "tag": "alert",
-            "tagText": "🔥首测",
-            "title": "MTG Arena 国服星火首测",
-            "desc": "腾讯代理国服《万智牌：竞技场》开启星火首测！限定纪念卡背+登录福利+大师VS大师欢乐邀请赛",
-            "date": "2026-01"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "H1创收约70亿元，单季超$5亿",
-            "desc": "孩之宝财报：万智牌2026上半年持续强劲，2025年度销售$17亿成百亿IP。玩家平均年龄35岁、平均玩龄5年+，黏性极高",
-            "date": "2026-08"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥2027",
-            "title": "MagicCon Amsterdam公布2027三款新系列",
-            "desc": "7/17-19 MagicCon Amsterdam现场揭晓：(1)Nauctis 2/5(水下暗黑) (2)Kamigawa Titanbreach 6/4(神河巨人) (3)Zhalfir 10/1(非洲奇幻)。2027年6大系列(UB+本宇宙各半)",
-            "date": "2026-07-17"
-          },
-          {
-            "tag": "news",
-            "tagText": "🔥2027 MagicCon",
-            "title": "2027年MagicCon四站官宣+Mystery Booster指挥官版",
-            "desc": "2027 MagicCon全球四站：Detroit 2/26-28、Tokyo 5/14-16、Las Vegas 8/27-29、Amsterdam 12/3-5；新推Mystery Booster Commander Edition(新增50+全新卡，仅线下活动可得)",
-            "date": "2026-07-17"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "全球1.2万+门店·年参与赛事100万+人",
-            "desc": "全球最大TCG赛事网络，Standard/Pioneer/Modern/Commander多赛制并行，MagicCon全球巡回",
-            "date": "2026"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "✅已完成",
-            "title": "MagicCon: Las Vegas 2026",
-            "desc": "5/1-3拉斯维加斯会议中心，数千牌手+内容前瞻+竞技对决",
-            "date": "2026-05-01~03"
-          },
-          {
-            "tag": "event",
-            "tagText": "✅已完成",
-            "title": "MagicCon: Amsterdam 2026",
-            "desc": "7/17-19荷兰阿姆斯特丹，欧洲年度盛会",
-            "date": "2026-07-17~19"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥北京",
-            "title": "MagicCon: Atlanta + Spotlight北京站",
-            "desc": "亚特兰大MagicCon 11月+北京Fracture Spotlight 10/31-11/1！中国牌手主场赛事",
-            "date": "2026-10~11"
-          }
-        ],
-        "offline": [
-          {
-            "tag": "event",
-            "tagText": "门店",
-            "title": "全球1.2万+认证店铺",
-            "desc": "WPN认证体系覆盖全球，中国持续扩展中",
-            "date": "2026"
-          }
-        ],
-        "tournaments": [
-          {
-            "tag": "event",
-            "tagText": "🔥中国",
-            "title": "学院杯·5城高校团队现开赛",
-            "desc": "5座中国城市高校内举办团队现开赛(3人一队)，覆盖一线高校TCG玩家群体",
-            "date": "2026"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥世锦赛",
-            "title": "Magic World Championship 32",
-            "desc": "11/13-15美国MagicCon Atlanta，赛制Star Trek Booster Draft + Standard Constructed",
-            "date": "2026-11-13~15"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "Pro Tour + Regional Championship体系",
-            "desc": "全年多场PT+RC资格赛，覆盖Standard/Pioneer/Modern三大竞技赛制",
-            "date": "2026"
-          }
-        ]
-      }
-    },
-    {
-      "id": "onepiece",
-      "name": "海贼王 TCG",
-      "emoji": "🏴‍☠️",
-      "avatarClass": "op",
-      "status": "hot",
-      "statusText": "OP-18「THE DOMINANCE OF GOD」11/20·天野喜孝绘SEC·EB-05 10/30",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "alert",
-            "tagText": "✅全球同步已发售",
-            "title": "OP-17: The World's Strongest Warriors (4周年)",
-            "url": "https://en.onepiece-cardgame.com",
-            "desc": "8/28全球同步已发售！英文预发售8/21→日本8/22→全球8/28，JP/EN发售间隔缩至6天，首款Block 5区块系列。预售期英文盒价$349-$599(市场约$391) vs MSRP $119.76，溢价明显",
-            "date": "2026-08-28"
-          },
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "OP-16: The Time of Battle",
-            "desc": "6/12发售，Paramount War/Impel Down篇，6位新领袖(黑胡子/战国/艾斯)，Manga Rare三上将",
-            "date": "2026-06-12"
-          },
-          {
-            "tag": "new",
-            "tagText": "里程碑",
-            "title": "OP-15: Adventure on Kami's Island (首款全球同步)",
-            "desc": "4/3 Bandai首个全球同步发售！Skypiea篇，Enel Manga Rare为热门卡，日本仅提前5周",
-            "date": "2026-04-03"
-          },
-          {
-            "tag": "new",
-            "tagText": "已发售",
-            "title": "ST-31~36 新手起始牌组",
-            "desc": "7/31发售，6色新预组(Luffy/Zoro/Kuzan/Katakuri/Sabo/Kid)，$11.99/副",
-            "date": "2026-07-31"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "EB-05: Extra Booster Heroines vol.2",
-            "desc": "10/30发售，第二弹女主角主题补充包",
-            "date": "2026-10-30"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "新品",
-            "title": "SD-01: Set Sail Deck Set 起始牌组套装",
-            "desc": "9/18发售(英文版$24.99)，全球同步新纪元入门牌组套装；日本4周年套9月同步上市(18,700日元)",
-            "date": "2026-09-18"
-          },
-          {
-            "tag": "new",
-            "tagText": "新品",
-            "title": "Premium Card Collection Best Selection Vol.6",
-            "desc": "8月发售！$25/盒(12卡+卡册)，精选卡收藏套装",
-            "date": "2026-08"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "🔥重磅",
-            "title": "OP-18: THE DOMINANCE OF GOD",
-            "desc": "11/20全球同步！天野喜孝绘Loki(8000战)/Shamrock(9000战)SEC，Franky/Gunko首张Leader，Nico Robin Super/Manga Parallel。EB-05 Heroines Vol.2 10/31(7位女性角色)、SD-01 9/18英文$24.99",
-            "date": "2026-11-20"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "news",
-            "tagText": "🔥新卡",
-            "title": "天野喜孝绘制OP-18 SEC卡Loki/Shamrock",
-            "desc": "最终幻想画师天野喜孝首次为海贼王TCG作画，Loki与Shamrock SEC卡，Franky首张Leader卡同步公开",
-            "date": "2026-09"
-          },
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "OP-17 4周年里程碑·全球同步已发售",
-            "desc": "OP-15(4月)已实现首次同步，OP-17起Bandai实现One Piece TCG日英完全同步！4周年庆典活动8/22-23全球店赛先行已收官。预售期英文盒价$349-$599(市场约$391) vs MSRP $119.76，溢价明显",
-            "date": "2026-08-28"
-          },
-          {
-            "tag": "news",
-            "tagText": "历史",
-            "title": "全球同步路线图回顾",
-            "desc": "OP-12(延迟12周)→OP-15(5周差距)→OP-16(同时)→OP-17(完全同步)。Bandai 2025年3月One Piece Day Dallas官宣此路线图",
-            "date": "2025-03起"
-          },
-          {
-            "tag": "news",
-            "tagText": "市场",
-            "title": "OP TCG全球第三大TCG",
-            "desc": "2025 Q4已超越游戏王成为全球销售额#3 TCG。OP-16英文盒价从$400回落至$188",
-            "date": "2026"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "🔥4周年",
-            "title": "4周年Treasure Campaign·Dash Pack（8/21起）",
-            "desc": "8/21起实体店购买OP-17整盒赠送Dash Pack(7卡池随机3张，白胡子/香克斯/巴基/凯多/路飞/黑胡子/玲玲)，线上购买不参与，送完即止",
-            "date": "2026-08-21起"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥店赛",
-            "title": "4周年店赛窗口(8/21-9/13)·75卡Tournament Pack",
-            "desc": "4周年店赛窗口8/21持续至9/13！75-card Tournament Pack + P-110 Luffy领袖参与promo。日文OP-17整盒已炒至¥17,000(~$107)，二级市场Shanks OP01-120 Manga Panel约$1,550",
-            "date": "2026-08-21~09-13"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥4周年",
-            "title": "4周年Release Event + ONE PIECE DAY '26",
-            "url": "https://en.onepiece-cardgame.com",
-            "desc": "8/22-23全球OP-17先行店赛！6包Sealed构筑+限定Release Pack参与奖+Winner Pack。同期幕张Messe举办ONE PIECE DAY '26，8/23卡牌舞台压轴",
-            "date": "2026-08-22~23"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥纪念赛",
-            "title": "OP-17发售纪念赛「最强斗士」",
-            "desc": "8/22日本先行+全国门店发售纪念赛！万代卡牌APP报名，购买6包即可参赛，特典包Vol.3奖励",
-            "date": "2026-08-22起"
-          },
-          {
-            "tag": "event",
-            "tagText": "营销",
-            "title": "3周年Collection英文版",
-            "desc": "预计8月底随OP-17同步上市",
-            "date": "2026-08"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥限定店",
-            "title": "香港四周年期间限定店（开至9/13）",
-            "desc": "香港四周年期间限定店持续营业至9/13，周边/促销活动同步进行",
-            "date": "2026-09-13截止"
-          }
-        ],
-        "offline": [],
-        "tournaments": [
-          {
-            "tag": "event",
-            "tagText": "🔥赛事",
-            "title": "OP-17 Pre-Release/Release Event",
-            "desc": "各地店铺OP-17 4周年先行活动，Sealed赛制",
-            "date": "2026-08-21起"
-          },
-          {
-            "tag": "done",
-            "tagText": "✅已落幕",
-            "title": "BCG Fest 26-27 欧洲总决赛（9/4-6荷兰乌得勒支Jaarbeurs）",
-            "desc": "One Piece TCG欧洲总决赛9/4-6在荷兰乌得勒支Jaarbeurs落幕！烧烧果实竞技场决出世界首位冠军，Championship欧洲总决赛同场收官",
-            "date": "2026-09-04~06"
-          },
-          {
-            "tag": "event",
-            "tagText": "赛事",
-            "title": "2026 World Championship",
-            "desc": "预计Q4举办",
-            "date": "2026 Q4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "kakawowhp",
-      "name": "哈利·波特 TCG",
-      "emoji": "🧙‍♂️",
-      "avatarClass": "hp",
-      "status": "upcoming",
-      "statusText": "卡卡沃×华纳·2027底首发",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "🔥新TCG",
-            "title": "卡卡沃×华纳 哈利·波特官方TCG",
-            "desc": "7/25卡卡嘉年华上海官宣！华纳兄弟全球消费品战略合作，100%原创手绘零AI，2027年底起中英文同步上市",
-            "date": "2027年底"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "独立美术团队组建完成",
-            "desc": "已为HP TCG组建专属美术团队，所有卡牌插画艺术家原创手绘，从零构建原创对战体系",
-            "date": "2026-07"
-          },
-          {
-            "tag": "upcoming",
-            "tagText": "预告",
-            "title": "后续将开放玩家测试",
-            "desc": "计划在适当阶段邀请哈利波特粉丝+TCG玩家参与产品测试，收集反馈打磨体验",
-            "date": "2027"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "哈利·波特25周年×卡卡沃强强联合",
-            "desc": "卡卡沃《哈利·波特》收藏卡2个月GMV超5000万元，已有成功合作基础！首发大中华区+亚太市场",
-            "date": "2026-07"
-          },
-          {
-            "tag": "news",
-            "tagText": "关注",
-            "title": "IP改编TCG新标杆",
-            "desc": "霍格沃茨四学院/经典角色/标志性魔咒/神奇动物，天然契合TCG玩法。学院阵营+魔杖魔咒+魔药+正邪对抗",
-            "date": "2026"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "🔥海外上架",
-            "title": "Kakawow Aura/GEM 25周年收藏卡海外上架",
-            "desc": "9月海外零售商上架Kakawow Aura(常规8000箱+Blaster 2000箱)与GEM(仅500箱)25周年收藏卡：67张全新电影剧照+9位演员亲签+Peacock Fold孔雀折光工艺，为2027底正式TCG持续蓄水IP热度",
-            "date": "2026-09"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥活动",
-            "title": "「魔法足迹」收藏展示框兑换活动开启（8/21）",
-            "desc": "哈利·波特25周年献礼！集齐任意1名角色(哈利/罗恩/赫敏)七个年级(Year1-7)全部7张卡，即有机会兑换官方收藏展示框(3款各限量20个，先到先得)。发送报名邮件至 ops@suplaymart.com 参与",
-            "date": "2026-08-21起"
-          },
-          {
-            "tag": "event",
-            "tagText": "🔥新品",
-            "title": "KAKAWOW GEM 哈利·波特25周年官方收藏卡上线(8/5)",
-            "desc": "8/5上线！全系列26卡种/366卡面，每盒保底1张实物宝石镶嵌卡或演员亲签卡(5种宝石NGTC鉴定)，11位经典角色亲签限编+1/1蓝宝石O星签字卡终极Hit。为TCG正式上市前持续蓄水IP热度",
-            "date": "2026-08-05"
-          },
-          {
-            "tag": "event",
-            "tagText": "发布会",
-            "title": "卡卡嘉年华现场官宣",
-            "desc": "卢娜/奥利弗·伍德演员首次来华！华纳VP Vikram Sharma亲临上海西岸",
-            "date": "2026-07-24~26"
-          }
-        ],
-        "offline": [],
-        "tournaments": []
-      }
-    },
-    {
-      "id": "doginal",
-      "name": "Doginal Dogs Legends",
-      "emoji": "🐕",
-      "avatarClass": "dg",
-      "status": "hot",
-      "statusText": "DDNYC 9/2-4已落幕·数字版beta waitlist开放",
-      "tabs": {
-        "newProducts": [
-          {
-            "tag": "new",
-            "tagText": "🔥新TCG",
-            "title": "Doginal Dogs Legends 宣布（8/3）",
-            "desc": "Dogecoin区块链像素艺术藏品社区推出高端手绘TCG，预购已开启。首发套装「Rise of the Pack」111张卡全部手工绘制，40张牌组格式+明确角色职业+生物/法术/陷阱组合，历时近两年打造",
-            "date": "2026-08-03"
-          },
-          {
-            "tag": "done",
-            "tagText": "✅已落幕",
-            "title": "DDNYC 2026 现场首发（9/2-4）",
-            "desc": "9/2-4纽约品牌旗舰活动DDNYC 2026首发进行中！The Whig报道现场创纪录数千人参与、TCG官方首发引发排队；首发套装「Rise of the Pack」预购首日售罄",
-            "date": "2026-09-02~04"
-          }
-        ],
-        "sentiment": [
-          {
-            "tag": "hot",
-            "tagText": "🔥热议",
-            "title": "链上社区进军实体TCG",
-            "desc": "继Azuki后又一Web3社区入局实体TCG，消息发布数小时冲上X热榜。团队强调这是真正为竞技而生的游戏而非贴牌发售",
-            "date": "2026-08"
-          },
-          {
-            "tag": "hot",
-            "tagText": "🔥新动向",
-            "title": "数字版Legends开发中·beta waitlist开放",
-            "desc": "官方确认数字版在开发中，beta access waitlist已在ddltcg.com开放。实体Booster Box $169/24包，首日预购售罄",
-            "date": "2026-08"
-          }
-        ],
-        "marketing": [
-          {
-            "tag": "event",
-            "tagText": "🔥售罄",
-            "title": "首发套装预购首日售罄",
-            "desc": "8/3与宣布同日开启预购，限量供给，稀有卡采用经典稀缺结构；预购首日即售罄",
-            "date": "2026-08-03"
-          }
-        ],
-        "offline": [],
-        "tournaments": []
-      }
-    }
-  ]
+  {
+   "id": "rwzc",
+   "name": "符文战场",
+   "emoji": "⚔️",
+   "avatarClass": "rw",
+   "status": "hot",
+   "statusText": "沈阳站9/12-13明日开赛·9/21 T1礼盒组队·9/26辉耀群星预览季·9/18登陆韩国",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "「化神争锋」(Vendetta) 第四系列",
+      "desc": "8/1发售！160+新卡/50异画/9传奇卡+30超编，售前赛创历史最佳",
+      "date": "2026-08-01"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥里程碑",
+      "title": "繁中版第一系列「起源」正式上市！",
+      "desc": "8/7港澳台发售！英雄预组(吉茵珂丝/维克特/李星)+起源补充包+试炼之地(4套入门牌组)。繁中赛区两场512人Regional公布！",
+      "date": "2026-08-07"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥二轮开签",
+      "title": "T1 2025冠军签名限定礼盒 今日(8/21)15:00小程序第二轮开签",
+      "url": "https://lol.qq.com/news/space-detail.shtml?docid=15148196801560497063",
+      "desc": "小程序6200套8/21 15:00公布第二轮抽选结果(释放资格抽选)、英雄联盟客户端3600套8/20 15:00已开签，中选24小时内付款、9/3统一发货。签名版¥2025(韩/英/中各限10125套)、普通版¥399(下半年推出)。二级市场行情已炒至¥4000(原价2025)。另设「天选之礼」周年抽奖、8/29-30武汉现场抽选、9月中旬「群英聚力」组队抽选。五位冠军签名卡对应冠军皮肤：Doran=安蓓萨/Oner=赵信/Faker=加里奥/Gumayusi=厄运小姐/Keria=萨勒芬妮。需誓约值≥120方可参与",
+      "date": "2026-08-21起"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥韩国",
+      "title": "符文战场 9/18 正式登陆韩国（韩文标准赛制）",
+      "desc": "9/3官宣9/18韩国正式发售，从第一系列「起源」起步！韩国限定Over-number卡：阿狸·九尾狐、金克丝&亚索韩版限定(画师Kim Star新图)。T1已签约LS为首位符文战场选手+BaseCamp经销",
+      "date": "2026-09-18"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "韩文版第一系列",
+      "desc": "9/18韩国正式发售，韩国限定Over-number阿狸·九尾狐/金克丝/亚索",
+      "date": "2026-09-18"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "「辉耀群星」(Radiance) 第五系列",
+      "desc": "9月底洛杉矶资格赛开启预览！售前现开赛10/16-22，艾克传奇卡红蓝配色，法语版同步推出",
+      "date": "2026-10-16~22"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "2027产品线：第六~第九系列",
+      "desc": "Legacy(1/29，含四人礼盒：黑默丁格/俄洛伊/泰达米尔/SP拉克丝)→Reckoning(4/30，封面疑似奥瑞利安·索尔/基兰/妮蔻/薇恩)→Q3第八系列(班德尔城)→Q4第九系列(皮城&祖安)，全球总决赛2027",
+      "date": "2027"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "海外线",
+      "title": "Radiance / Legacy / Proving Grounds 2nd Edition 海外档期",
+      "desc": "海外零售档期：Radiance 10/23（待官方确认）、Legacy 2027/1/29、Proving Grounds 2nd Edition 2027/2/19",
+      "date": "2026-10-23"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "alert",
+      "tagText": "🔥重磅",
+      "title": "2026年度报告：官宣2027全新赛事体系+首届全球总决赛",
+      "desc": "8/16官方发布年度游戏状态报告(执行制作人柴诚然+游戏总监Dave Guskin+设计总监Nik Davidson联合发布)。首办全球总决赛落地、退役Summoner Skirmish城市挑战赛、双线赛事架构升级。卡牌供应规则重大调整：新卡仅通过常规扩展包上线，试炼之地/特殊礼盒不再出独占卡。重点优化2v2模式+轮抽新增专属卡牌+筹备2028非轮换赛制",
+      "date": "2026-08-16"
+     },
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "Gen Con海外大放异彩·2027世界赛确认！",
+      "desc": "8月Gen Con展会占据大规模展区，游戏总监Guskin透露团队仅不到50人，确认2027年举办全球总决赛级别世界赛！2026-2027路线图：巴塞罗那→武汉→沈阳→洛杉矶→成都→拉斯维加斯",
+      "date": "2026-08-10"
+     },
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "T1礼盒抽选8/15开启+萨勒芬妮Keria签名卡公开",
+      "desc": "8/15抽选已启动！萨勒芬妮Keria冠军签名卡公开，T1 CEO表示Faker编号卡可能¥10万+，GEN/Cloud9/EDG等电竞豪门纷纷举办授权赛事",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "繁中版首波Regional+巴塞罗那资格赛",
+      "desc": "台湾站9/19-20新北硅谷512人！澳门站10/9-11威尼斯人512人！巴塞罗那8/21-23顶尖玩家齐聚",
+      "date": "2026-08-10"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥电子版",
+      "title": "电子版《符文战场》开发迹象浮现",
+      "desc": "拳头游戏公开招聘发行产品经理(要求TCG经验+移动端优先)，市场解读为电子版/移动端符文战场正在筹备，实体+数字双线布局信号",
+      "date": "2026-09"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "🔥今日开幕",
+      "title": "GamesCom 2026 科隆游戏展",
+      "desc": "8/26-30德国科隆展出(今日贸易/媒体日开幕)！本届超50家中国游戏厂商参展创历史新高，繁中版「起源」8/7已上市后继续全球推广",
+      "date": "2026-08-26~30"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥进行中",
+      "title": "水晶玫瑰·卡莎专场 (8/10-16)",
+      "desc": "参加1场指定赛事解锁卡莎水晶玫瑰主题隔板！后续瑟提&娑娜(8/17-23)、伊泽&拉克丝(8/24-31)",
+      "date": "2026-08-10~16"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥联名",
+      "title": "双城之战沉浸式音乐秀·一周年主题月",
+      "desc": "8/7-30！观演送纪念卡包(金克丝/蔚/杰斯/维克托/梅尔随机)，8/16、8/23海克斯主题活动日+限定联名镭射票根+抽奖",
+      "date": "2026-08-07~30"
+     },
+     {
+      "tag": "event",
+      "tagText": "✅已落幕",
+      "title": "一周年嘉年华·武汉（8/29-30已圆满收官）",
+      "desc": "8/29-30武汉国际博览中心B2馆已收官！1周年纪念P卡「阿卡丽」现场首发，8/29赛区对抗赛(14位中外选手)+特邀明星表演赛(EDG.nobody & DRG.SpiritZ1)，8/30项目组挑战赛+《双城之战》演员空降开幕式；现场认证赠标准补充包1包。区域公开赛扩容至1280人(原640)",
+      "date": "2026-08-29~30"
+     },
+     {
+      "tag": "event",
+      "tagText": "营销",
+      "title": "符文之夜活动",
+      "desc": "8/7-10/11每周活动，有机会开出梅尔异画奖励卡",
+      "date": "2026-08-07~10-11"
+     },
+     {
+      "tag": "new",
+      "tagText": "9月日历",
+      "title": "9月符文日历：T1礼盒组队 / 中秋 / 辉耀群星预览季",
+      "desc": "中旬符文聊天室 → 9/21 T1礼盒组队活动开启 → 中秋活动 → 魄罗表情包上线 → 9/26 辉耀群星(Radiance)预览季开启",
+      "date": "2026-09-11"
+     }
+    ],
+    "offline": [
+     {
+      "tag": "event",
+      "tagText": "🔥进行中",
+      "title": "城市挑战赛S4+Summoner Skirmish",
+      "desc": "S4已开战！8/17首轮Summoner Skirmish开启，双赛段免费参赛，水晶玫瑰卡莎冠军卡垫",
+      "date": "2026-08-08起"
+     }
+    ],
+    "tournaments": [
+     {
+      "tag": "event",
+      "tagText": "🔥国际",
+      "title": "巴塞罗那地区资格赛",
+      "desc": "8/21-23，顶尖玩家齐聚巴塞罗那，2026年关键国际赛事",
+      "date": "2026-08-21~23"
+     },
+     {
+      "tag": "event",
+      "tagText": "✅已落幕",
+      "title": "CN赛区武汉站+一周年庆典（8/29-30已收官）",
+      "desc": "8/29-30武汉国际博览中心B2馆已收官：8/29赛区对抗表演赛(14位中外选手)+特邀明星表演赛(EDG.nobody & DRG.SpiritZ1)，8/30共鸣公开赛(Bo1排位积分制+3v3团队赛，前2名直通全国冠军赛)+项目组挑战赛。T1礼盒现场抽选需誓约值≥120且身处场馆2公里内",
+      "date": "2026-08-29~30"
+     },
+     {
+      "tag": "event",
+      "tagText": "✅已落幕",
+      "title": "新加坡地区资格赛 (Singapore EXPO Hall 3) 已落幕",
+      "desc": "9/4-6新加坡EXPO已收官(2026倒数第二场RQ)！冠军$6,000+杰斯「进步先锋」独占画卡(冠军Playmat+Promo)，Top8 $1,000-3,000+Top Cut卡垫，Top16 $500，Top32 $250，Top64获区域锦标赛资格+40 Prize Wall券，Top128获拉克丝「冕卫之光」水晶玫瑰Playmat+杰斯异画Promo。直播解说Casanova/Courtney Smith/Carix/Logan Potter，OfflineTV(Toast/Sydeon/Yvonnie/Brodin/Frodan)到场，33张Best-Of Legends铂金传奇卡(来自Spiritforged/Unleashed/Vendetta)",
+      "date": "2026-09-04~06"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥倒计时3天",
+      "title": "CN赛区沈阳站（9/12-13·沈阳新世界博览馆4A馆）",
+      "desc": "9/12-13沈阳新世界博览馆4A馆举行，第四赛季区域公开赛沈阳站(武汉站冠军adtoll操控刀锋舞者艾瑞莉娅问鼎后CN赛区下一站)",
+      "date": "2026-09-12~13"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥倒计时10天",
+      "title": "战斗学院杯·高校专属赛事（9/19起·全国16城）",
+      "desc": "全新高校专属赛事「战斗学院杯」正式启航！第一阶段区域预选赛9/19全国16城指定符文竞技场同步开赛，高校在读学生完成小程序学生认证即可报名，冠军奖励与晋级通道后续公布",
+      "date": "2026-09-19"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "繁中 Regional Qualifier · 台湾站",
+      "desc": "9/19-20新北台北矽谷国际会议中心，512人",
+      "date": "2026-09-19"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "洛杉矶地区资格赛 (年度最后一场)",
+      "desc": "9/25-27拳头游戏主场，辉耀群星预览同步开启",
+      "date": "2026-09-25~27"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "Frontline拉斯维加斯公开赛",
+      "desc": "10/1-4内华达州拉斯维加斯",
+      "date": "2026-10-01~04"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "繁中 Regional Qualifier · 澳门站",
+      "desc": "10/9-11威尼斯人金光会展D&E馆(联名ASCC)，512人",
+      "date": "2026-10-09"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "CN赛区全国公开赛·成都",
+      "desc": "10/10-11四川省成都市",
+      "date": "2026-10-10~11"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "北美地区冠军赛·拉斯维加斯",
+      "desc": "12/11-13，与TFT联动",
+      "date": "2026-12-11~13"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥明日",
+      "title": "沈阳站区域公开赛·解说主持阵容公布（9/12-13）",
+      "desc": "9/12-13 沈阳新世界博览馆4A馆！主持：百变少女周敢敢；解说：阿芙芙芙洛、解说祥麟、笛喜_DC。9/12 上午10:00 B站/抖音/小红书三平台开播。场外常驻：新手教学、争锋竞技场、传奇乱斗、海克斯角斗场、四人乱斗、2v2、现开集点赛、轮抽集点赛；9/13 城市挑战赛特别场+项目组挑战赛（完成对局赢 fistbump 增益活动卡）。战利品印章可兑换魄罗手办/魄罗空调毯",
+      "date": "2026-09-12"
+     }
+    ]
+   }
+  },
+  {
+   "id": "xgzf",
+   "name": "峡谷争锋",
+   "emoji": "🏰",
+   "avatarClass": "xg",
+   "status": "hot",
+   "statusText": "广州巡回赛9/12明日开赛·512人琶洲·解说娇娇/IZORO/书高·新奖品卡云缨",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "✅已发售",
+      "title": "第二弹补充包「守焰同驰」（8/12）正式上市！",
+      "desc": "8/12已全国到货！谋略卡+资源卡(风暴龙王/东风祭坛)+英雄卡KR(8张全新：百里玄策/守约/蔡文姬/花木兰/苏烈等)+追逃游戏亚瑟&安琪拉连图KR+无框限编KR！全新加入日落海的荣誉骑士与神秘法师",
+      "date": "2026-08-12"
+     },
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "初版预组（河洛/建木/逐鹿）",
+      "desc": "50元亲民定价，上海首站巡回赛640名选手",
+      "date": "2026-04-08"
+     },
+     {
+      "tag": "new",
+      "tagText": "新品",
+      "title": "路启千秋主题礼盒",
+      "desc": "CJ2026首发亮相，丝路主题",
+      "date": "2026-08"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "news",
+      "tagText": "🔥新赛季",
+      "title": "认证赛换新赛季VOL.2（全国进行中）",
+      "desc": "8/27起认证赛换新赛季VOL.2，全国店铺赛季换新！VOL.2 PR + 冠军奖品卡/卡垫「安琪拉-糖果风暴」，国冠资格赛限128人。奖品包VOL.2还有概率开出全新异画PR「周瑜-百相守梦」",
+      "date": "2026-08-27起"
+     },
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "第二弹卡牌预览持续曝光中",
+      "desc": "谋略卡→资源卡(风暴龙王异画/东风祭坛)→8张全新英雄KR(百里玄策/百里守约/蔡文姬/花木兰/苏烈等)→追逃游戏亚瑟&安琪拉连图KR，发售日待公布",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "CJ2026圆满收官",
+      "desc": "N3馆三天热度爆棚，绝美coser+貂蝉背包+试玩+抽奖，全国赛事万人参与",
+      "date": "2026-08-01~03"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "营销",
+      "title": "全国巡回赛持续进行",
+      "desc": "5月起每月巡回赛级别以上大型赛事，城市派对青岛站8月奥帆中心",
+      "date": "2026-05起"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥场贩",
+      "title": "广州站场贩更新：大乔「绒语心约」牌垫&牌套",
+      "desc": "广州巡回赛现场场贩更新！大乔款「绒语心约」牌垫&牌套全新登场，组合购买赠大乔绒语心约PR卡一张（无需中选正赛，到场即可购买，数量有限售完即止）",
+      "date": "2026-09-12"
+     }
+    ],
+    "offline": [
+     {
+      "tag": "event",
+      "tagText": "活动",
+      "title": "全国30+城市超百场试玩会",
+      "desc": "覆盖主要一二线城市",
+      "date": "2026"
+     }
+    ],
+    "tournaments": [
+     {
+      "tag": "alert",
+      "tagText": "✅已落幕",
+      "title": "峡谷争锋2026大奖赛·上海（冠军御三家.鱼）",
+      "desc": "8/22 Day1千人瑞士轮八强出炉，8/23 Day2双卡组BO3决赛，冠军【御三家.鱼】；冠军/上位奖品卡「貂蝉-绝世舞姬」已公开，国冠资格赛限128人；8/27起认证赛换新赛季VOL.2",
+      "date": "2026-08-22~23"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥倒计时3天",
+      "title": "广州巡回赛（9/12·512人·琶洲展馆）",
+      "desc": "9/12·琶洲展馆·512人规模！解说阵容揭晓：娇娇/IZORO/书高。新奖品卡「云缨·赤焰之缨」PR+32强限定牌垫",
+      "date": "2026-09-12"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "国冠赛年度总决赛",
+      "desc": "总奖金池高达200万元",
+      "date": "2026"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥明日",
+      "title": "广州巡回赛 9/12 琶洲开赛（512人·奖金与场贩公布）",
+      "desc": "倒计时1天！512人·广州琶洲。特邀主持&解说 娇娇，特邀解说 IZORO / 书高。奖品卡【云缨·赤焰之缨】PR，32强限定牌垫。场贩：绒语心约·大乔 牌垫&牌套（购组合赠大乔PR卡）。二次抽选规则变更：未签确认书名额释放入二次抽选池。奖金体系：巡回赛20万/场、季度大奖赛60万、国冠赛200万",
+      "date": "2026-09-12"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hspw",
+   "name": "幻兽帕鲁 TCG",
+   "emoji": "🐉",
+   "avatarClass": "hs",
+   "status": "hot",
+   "statusText": "首弹发货超440万包·TGS 9/17-21第2弹插画公开·金猫怪拍出$10,350·2E版10月底",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "第1弹「帕尔帕戈斯的黎明」",
+      "desc": "7/30三语同步(日/英/简中)，预购量350万包+，50+帕鲁原创插画，243张卡(含异画)",
+      "date": "2026-07-30"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥收藏",
+      "title": "首印\"Error Box\"成收藏品",
+      "desc": "包装Palworld印成Palword(少一个l)，Bushiroad确认再版修正，首版被囤为\"Error Box\"。金魂卡价格从$4000回落至~$1000，捣蛋猫金卡真实成交$849-999",
+      "date": "2026-08"
+     },
+     {
+      "tag": "alert",
+      "tagText": "⚠️延期",
+      "title": "2E版「Dawn of Palpagos」重制推迟至10月底",
+      "desc": "首弹二版重制(罗马数字II标识，修正首版错字/卡面问题)由原定9月下旬推迟至10月底推出",
+      "date": "2026-10月底"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥新增",
+      "title": "第2弹「LEGENDS AWAKEN 觉醒的传说」",
+      "desc": "10/30日英简中三语同步！100+卡+平行异画，Broncherry/Chillet Ignis/Jetragon参战，反派Saya登场。Sleeve & Card Set Vol.1于10/2、Trial Decks 12/18、第3弹2027/1/29",
+      "date": "2026-10-30"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "⚠️延期",
+      "title": "Sleeve & Card Set Vol.1 卡套套装（10/2→10/16）",
+      "desc": "原定10/2发售，官方延期至10/16！含捣蛋猫/Depresso/Chillet/Quivern/Grizzbolt特典卡",
+      "date": "2026-10-16"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "新增",
+      "title": "Trial Decks 第三波（含全新机制）",
+      "desc": "12/18发售，接Red/Blue和Green/Purple预组，加入全新机制起始卡组",
+      "date": "2026-12-18"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "第3弹扩展包",
+      "desc": "2027/1/29发售！全产品线已排到明年",
+      "date": "2027-01-29"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "产品线",
+      "title": "2E版重制 10月底 + 第3弹 2027/1/29",
+      "desc": "2E版（第2版）10月底重印：卡面相同、版权旁加罗马数字 II，修正 PALWORD 拼写错误。Sleeve & Card Set Vol.1 延至 10/16。两款「恒升之途」预组（红绿/蓝紫）12/18。第3弹 2027/1/29",
+      "date": "2026-10-31"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "二级市场价格持续走高·首弹全球发货超440万包",
+      "desc": "首弹「帕尔帕戈斯的黎明」全球累计发货已超440万包（此前350万），二级市场溢价依旧严重",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥致歉",
+      "title": "Bushiroad就缺货/黄牛问题正式致歉(8/12)",
+      "desc": "8/12官方就市场需求超预期与黄牛炒作致歉，全球已售罄350万包+，重申TCG不应成金融商品。日本快闪店新货改为无塑封销售反制黄牛囤货，具体补货时间待后续公布",
+      "date": "2026-08-12"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥加印",
+      "title": "Bushiroad宣布「帕尔帕戈斯的黎明」二版加印(8/18-19)",
+      "desc": "8/18英文官方X确认补货在途+2nd Edition重印计划(修正首版Ribbuny卡Strike框色/文字及包装'Palword'拼写错误)；中文资讯称9/20推出「2版」套卡。黄金版捣蛋猫SLSSR传闻炒至超$1万(海外成交约$4000)，第2弹「LEGENDS AWAKEN」10/30发售在即",
+      "date": "2026-08-19"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "Palworld IP多平台扩张",
+      "desc": "官方授权手机新作《Palworld Online》由Garena代理(开发+发行)，与实体TCG同步布局，IP正从单一游戏转向多平台生态",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "儒意时光卡藏获中国区运营权",
+      "desc": "计划2027年底前开设200家直营门店，整合发行/零售/赛事/社区",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "Bushiroad承诺杜绝缺货炒作",
+      "desc": "木谷高明强调TCG不应成金融商品，起始牌组优先保障供应",
+      "date": "2026-07"
+     },
+     {
+      "tag": "hot",
+      "tagText": "🔥纪录",
+      "title": "金猫怪 Gold Cattiva PSA10 拍出 $10,350",
+      "desc": "Gold Soul Cattiva SSS #002 PSA10 POP1，61次出价，9/3 以 $10,350 成交——帕鲁TCG首张五位数成交卡，距首发仅34天；裸卡约 $1,550",
+      "date": "2026-09-03"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "🔥火热",
+      "title": "秋叶原限时快闪店",
+      "desc": "8/1-9/13火热进行中！",
+      "date": "2026-08-01~09-13"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥赛事",
+      "title": "8月官方店赛：捕捉露娜蒂+莉莉&百合女王牌垫抽选",
+      "desc": "「捕捉露娜蒂」主题赛事8/14-9/10(入场CPR-01 PR包)；「帕洛斯的黎明」发售纪念特别赛8/14-8/31(入场灵魂卡套装3枚+抽选莉莉&百合女王牌垫)。通过时光卡藏卡牌小助手报名",
+      "date": "2026-08-14起"
+     },
+     {
+      "tag": "event",
+      "tagText": "营销",
+      "title": "官方宣传大使阵容公布",
+      "desc": "BanG Dream! VTuber峰月律、DJ千石由乃、新日本职业摔角手Great-O-Khan出任官方宣传大使",
+      "date": "2026-07-22"
+     },
+     {
+      "tag": "event",
+      "tagText": "营销",
+      "title": "全球400+店铺教学活动",
+      "desc": "Bushiroad员工亲赴海外推广，参与约1.5万人",
+      "date": "2026-06起"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥展会",
+      "title": "TGS 2026 东京电玩展将展出第2弹插画",
+      "desc": "幻兽帕鲁TCG将亮相TGS 2026，现场展示第2弹「Legends Awaken」新插画，2E版重印10月底（罗马数字II标识）",
+      "date": "2026-09"
+     },
+     {
+      "tag": "hot",
+      "tagText": "🔥TGS",
+      "title": "TGS 2026 幕张参展·第2弹插画先行公开（9/17-21）",
+      "desc": "9/17-21 幕张展览馆 Hall 4/5 Pocketpair 展台：全 BP01 卡展示 + 第2弹「Awakened Legend」(10/30) 插画先行公开。展台特典：抓娃娃机 → Kigurumi Tsuppanyan PR卡；满¥3,000 → Kigurumi Okocho PR Soul卡；满¥20,000（前100名）→ Okocho 购物袋（9/17-18 平日不提供）",
+      "date": "2026-09-17",
+      "url": "https://palworld.com/"
+     }
+    ],
+    "offline": [
+     {
+      "tag": "event",
+      "tagText": "活动",
+      "title": "简体中文版首发庆典·上海",
+      "desc": "8/2五角场万达影城 ✅已完成",
+      "date": "2026-08-02"
+     }
+    ],
+    "tournaments": [
+     {
+      "tag": "done",
+      "tagText": "✅已落幕",
+      "title": "北京呆呆龙卡牌构筑赛（9/2-9/5）",
+      "desc": "9/2-9/5北京呆呆龙卡牌举办构筑赛；「2版」套卡9/20推出，第2弹「Legends Awaken」10/30三语同步",
+      "date": "2026-09-02~05"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥全球体系",
+      "title": "世界大赛完整路径公布！",
+      "desc": "地区预选(2026/9~2027/3，覆盖20+地区)→全国决赛(2027/4)→世界总决赛(2027/5)！简中版选手有完整晋级路径",
+      "date": "2026-09起"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥新赛事",
+      "title": "Masters League 大型巡回赛",
+      "desc": "9月日本四城市举办，同步贩售限定周边",
+      "date": "2026-09"
+     },
+     {
+      "tag": "event",
+      "tagText": "新赛事",
+      "title": "Challengers Cup Season 1",
+      "desc": "10月举办，优胜者获流水序号限定卡片",
+      "date": "2026-10"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "8月起每月店赛",
+      "desc": "全球官方认证店铺赛体系启动",
+      "date": "2026-08起"
+     }
+    ]
+   }
+  },
+  {
+   "id": "zmdd",
+   "name": "正面对决 TCG",
+   "emoji": "🏯",
+   "avatarClass": "zm",
+   "status": "active",
+   "statusText": "季度大奖赛《出征》超15万奖池·9/12天津神黄忠主题赛·第一赛季PR包公开",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "alert",
+      "tagText": "🔥里程碑",
+      "title": "第一弹补充包「出征」CJ首发！",
+      "desc": "7/31-8/3 CJ现场+全国800余家店铺同期发售！KayaK操刀，国民IP三国杀正式入局TCG赛道",
+      "date": "2026-07-31"
+     },
+     {
+      "tag": "new",
+      "tagText": "限量",
+      "title": "设计师签名限量礼盒",
+      "desc": "CJ现场限量发售，含限定卡牌+牌垫+牌盒+牌套，极具收藏价值",
+      "date": "2026-08"
+     },
+     {
+      "tag": "new",
+      "tagText": "新品",
+      "title": "周边配件阵容",
+      "desc": "吕玲绮主题卡册/牌盒/卡砖/牌垫/牌套等丰富周边",
+      "date": "2026-08"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "第二弹内容",
+      "desc": "Q4推出，与《镇魂街王者归来》联动卡牌，每三个月一弹稳定更新",
+      "date": "2026 Q4"
+     },
+     {
+      "tag": "new",
+      "tagText": "PR包",
+      "title": "第一赛季PR包：异画至臻传说牌 + 大画闪兵法牌",
+      "desc": "第一赛季PR包收录异画至臻传说牌（祛眼修多 / 夏溪停 / 黄洱桥 等）+ 大画闪兵法牌六款",
+      "date": "2026-09-11"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "国产TCG标杆：CJ首发现场火爆！",
+      "desc": "6大TCG顶牌手表演赛(万智牌/符文战场/游戏王/宝可梦)+舞台节目+COSER走秀+互动试玩，三国杀4亿用户基础",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "长期运营模式公布",
+      "desc": "金字塔赛事体系(店赛→城市赛→大奖赛→国冠赛)，4季/年，首场大奖赛2026秋。亚太出海计划同步",
+      "date": "2026"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "🔥回顾",
+      "title": "CJ现场表演赛",
+      "desc": "李博(万智牌)/Rico1997(全能)/张老伯(万智金级)/nii(PTCG双冠)/阳光(游戏王国冠)等明星牌手",
+      "date": "2026-07-31~08-03"
+     },
+     {
+      "tag": "event",
+      "tagText": "✅已收官",
+      "title": "北京DICE CON 2026线下试玩（8/21-23已收官）",
+      "desc": "8/21-23北京全国农业展览馆11号馆(第十届·亚洲最大桌游展)，首批线下试玩体验活动，2000+款参展桌游、200余家参展单位",
+      "date": "2026-08-21~23"
+     },
+     {
+      "tag": "event",
+      "tagText": "✅已落幕",
+      "title": "第一赛季城市挑战赛·上海站（8/30已落幕·冠军REX）",
+      "desc": "8/30上海浦东丁香国际商业中心LG2中庭(鱼人桌游·卡牌承办)已收官！实际90人参赛(原128规模)，冠军【REX】获城市赛专属PR卡「兵行险招·法正」+冠军牌垫。各地店赛持续进行",
+      "date": "2026-08-30"
+     },
+     {
+      "tag": "event",
+      "tagText": "联动",
+      "title": "与镇魂街王者归来联动",
+      "desc": "专属联动卡牌(P卡)公布",
+      "date": "2026"
+     }
+    ],
+    "offline": [
+     {
+      "tag": "event",
+      "tagText": "渠道",
+      "title": "800+店铺同期覆盖",
+      "desc": "根植店家策略，全周期资源扶持+专属运营资源包",
+      "date": "2026"
+     }
+    ],
+    "tournaments": [
+     {
+      "tag": "done",
+      "tagText": "✅已落幕",
+      "title": "天津CardTime店赛（9/3）",
+      "desc": "天津CardTime卡牌店9/3今晚举办店赛，参与即有机会赢取限定PR卡",
+      "date": "2026-09-03"
+     },
+     {
+      "tag": "event",
+      "tagText": "✅已落幕",
+      "title": "第一赛季城市挑战赛·上海站（8/30·冠军REX）",
+      "desc": "8/30浦东丁香国际商业中心LG2中庭(鱼人桌游·卡牌承办)已落幕，90人参赛，冠军【REX】获专属PR卡「兵行险招·法正」+冠军牌垫，积分制冲刺国冠赛资格",
+      "date": "2026-08-30"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥奖池",
+      "title": "第一赛季季度大奖赛《出征》",
+      "desc": "9/3官宣！首场季度大奖赛《出征》重磅来袭，超15万奖池等主公来战(姚记潮品9/4 B站)。金字塔赛事体系(店赛→城市赛→大奖赛→国冠赛)，9号看大奖赛细则决定报名",
+      "date": "2026-09"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥店赛",
+      "title": "天津神黄忠主题赛（9/12·CardTime卡牌店）",
+      "desc": "9/12 14:00天津CardTime卡牌店(南开新世界百货4楼)举办，免费入场送PR【老兵的铁剑】+三国杀OL兑换码，八强获神黄忠主题赛优胜牌盒、冠军限定卡垫；另有9/10周中娱乐构筑赛(入场《出征》补充包1包)",
+      "date": "2026-09-12"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥明日",
+      "title": "天津CardTime 神黄忠主题赛（9/12）",
+      "desc": "9/12周六 报名费0元！入场 PR【老兵的铁剑】+三国杀OL兑换码，13:30核销14:00开赛，16人上限。八强：神黄忠主题赛优胜牌盒；冠军：冠军限定卡垫；另设抽奖",
+      "date": "2026-09-12"
+     }
+    ]
+   }
+  },
+  {
+   "id": "cyjz",
+   "name": "超英击战 TCG",
+   "emoji": "🦸",
+   "avatarClass": "cy",
+   "status": "hot",
+   "statusText": "9-12月每月地区公开赛（官方承办）·SP-01蜘蛛纪元已发售",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "漫威TCG中文版全球首发",
+      "desc": "6/19广州全球首发，中国原创漫威TCG，杰森娱乐全生态运营",
+      "date": "2026-06-19"
+     },
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "印尼语版本上市",
+      "desc": "8/2雅加达发布，本地化运营+门店周赛/月赛体系",
+      "date": "2026-08-02"
+     },
+     {
+      "tag": "new",
+      "tagText": "✅已发售",
+      "title": "补充包《蜘蛛纪元》SP01 正式发售！",
+      "desc": "8/12全国到货！蜘蛛侠主题特别补充包，全闪卡无平卡：80角色卡+20冲击卡+54异画卡(每包6张/每盒20包/每箱12盒)，全新HR限编稀有度共4款(金编99张/银编616张)。英文海外版8/15紧随其后，泰国/新加坡8月落地本地化赛事；香港ACGHK 7/24-28英文版先行亮相",
+      "date": "2026-08-12"
+     },
+     {
+      "tag": "new",
+      "tagText": "✅已发售",
+      "title": "英文版海外正式发售",
+      "desc": "8/15标准补充包+基础卡组英文版已全球上线！8/22广州首场地区公开赛(城市赛)紧随其后",
+      "date": "2026-08-15"
+     },
+     {
+      "tag": "new",
+      "tagText": "🔥新品",
+      "title": "首发新品「2026 Chronoz: Disney Legacy Trading Cards」",
+      "desc": "超英击战首发跨界新品，Disney Legacy Trading Cards系列，与漫威TCG双线并行，进一步拓展迪士尼IP卡牌矩阵",
+      "date": "2026-08"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "8月活动矩阵全开",
+      "desc": "COMIDAY30成都(8/8-9 ✅已完成)→蜘蛛纪元(8/12)→英文版(8/15)→MOJOFEST上海(8/21-23)→广州公开赛(8/22)",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "中国原创TCG出海标杆",
+      "desc": "香港+印尼+泰国+新加坡同步布局，杰森娱乐\"产品+渠道+体验+社群+赛事\"全生态模式。8/16创始人林俊亲赴泰国曼谷赛事交流，杰森年营收突破10亿元",
+      "date": "2026-08"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "展会",
+      "title": "COMIDAY30 成都",
+      "desc": "8/8-9世纪城新国际会展中心P11 ✅已完成",
+      "date": "2026-08-08~09"
+     },
+     {
+      "tag": "event",
+      "tagText": "✅已收官",
+      "title": "MOJOFEST趣藏嘉年华·上海",
+      "desc": "8/21-23 HERO DOME英雄外滩演艺中心A19(黄浦区局门路688号)已圆满收官！入场礼包含MOJO FEST限定宝藏包TB03，试玩教学赠包。另泰国曼谷8/16举行首场海外赛事",
+      "date": "2026-08-21~23"
+     }
+    ],
+    "offline": [
+     {
+      "tag": "event",
+      "tagText": "🔥新店",
+      "title": "森罗万象上海环球港店开业",
+      "desc": "8月初开业，大面积店铺内设对战专区，卡牌爱好者长期据点",
+      "date": "2026-08"
+     },
+     {
+      "tag": "event",
+      "tagText": "活动",
+      "title": "全国多地主题体验馆",
+      "desc": "武汉/广东等地已落地，门店试玩+玩家社群+赛事搭建",
+      "date": "2026"
+     }
+    ],
+    "tournaments": [
+     {
+      "tag": "alert",
+      "tagText": "✅已落幕",
+      "title": "首场地区公开赛·广州站（8/22圆满落幕）",
+      "desc": "冠军 猫岛-Icego(红蓝复仇者联盟)、亚军 魔王(红蓝宿敌共生体)、季军 猫岛-昊天(红蓝复仇者联盟)！冠军¥3000/亚军¥2000/季军¥1000，优胜金属冲击卡(冠军金卡/亚军银卡/季军铜卡)，同场MOJOFEST上海8/21-23",
+      "date": "2026-08-22"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥倒计时4天",
+      "title": "黑猫牌垫争霸赛《超英击战》构筑赛（9/13·广州）",
+      "desc": "9/13 15:30广州卡朋卡牌陈家祠店举办构筑赛，报名费¥20(报名9/4起)，入场2包BP01+1包TB02，冠军获特殊牌垫+3张EB包自选单卡，赛后另有抽选牌垫",
+      "date": "2026-09-13"
+     },
+     {
+      "tag": "new",
+      "tagText": "赛程",
+      "title": "9/10/11/12月 每月地区公开赛（官方承办）",
+      "desc": "官方赛程：9月、10月、11月、12月 各举办一场地区公开赛（官方承办）。冠军金卡 / 亚军银卡 / 季军铜卡纪念品",
+      "date": "2026-09-11"
+     }
+    ]
+   }
+  },
+  {
+   "id": "hyrz",
+   "name": "火影忍者 TCG",
+   "emoji": "🍥",
+   "avatarClass": "hy",
+   "status": "hot",
+   "statusText": "Set2北美9月下旬预发售·Set3 Akatsuki 11/13系列首度全球同步",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "Naruto Mythos Set 1: Konoha Shido",
+      "desc": "3/13欧洲首发，152张卡+22K金传奇卡，现已进入美国零售渠道",
+      "date": "2026-03-13"
+     },
+     {
+      "tag": "done",
+      "tagText": "✅已发售",
+      "title": "Mythos Set 2: Shinobi Shiren",
+      "desc": "9/4今日全球正式发售！217张卡(24包/盒·每包10卡)，编号卡系统精细化+全新原创卡牌设计(Original Designs)+新稀有度层级+22K金卡回归，英版Booster Box £99.95-£119.99。10/16第二波(Starter Pack Design B+Team Set)，美/加/墨/加勒比9月下旬预发售，欧洲预发售8/28-30已收官",
+      "date": "2026-09-04"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥重要",
+      "title": "Mythos Set 3: Akatsuki（疾风传）",
+      "desc": "11/13全球同步(预发售11/7)！进入疾风传，新增美/加/拉美/澳/南非市场。Set 2美区预发售9月下旬、2027欧洲锦标赛3月",
+      "date": "2026-11-13"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥重磅",
+      "title": "Bandai「Naruto Card Game」",
+      "desc": "2027夏全球同步！规则全公开：1领袖+50角色+5查克拉+1召唤，Leader生命值归零即败。Gen Con先行卡国内¥8000+！10月全球巡展启动",
+      "date": "2027年夏"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "区域",
+      "title": "Set 2 Shinobi Shiren 北美预发售（9月下旬）",
+      "desc": "欧洲/英国 8/29 预发售、9/4 正式发售已完成；美国/加拿大/墨西哥/加勒比地区预发售 2026年9月下旬，正式发售随后数周",
+      "date": "2026-09下旬"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "🔥全球同步",
+      "title": "Set 3 Akatsuki 11/7预发售·11/13发售（系列首度全球同步）",
+      "desc": "首次进入《疾风传》时代。自 Set 3 起全球同步发售（含美国/加拿大/拉美/澳洲/南非，巴西葡语本地化）；Special Packs 与 Team Sets 在 Set 3 前仍为欧洲/英国独占",
+      "date": "2026-11-13"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "alert",
+      "tagText": "🔥关注",
+      "title": "Bandai火影TCG Gen Con先行卡天价",
+      "desc": "中国二级市场报价8000+元！Bandai全球巡展10月启动(NYCC→PAX Aus→Spiel Essen→Paris→Lucca)",
+      "date": "2026-08"
+     },
+     {
+      "tag": "hot",
+      "tagText": "热议",
+      "title": "两款火影TCG正面竞争格局",
+      "desc": "Cicaboom Mythos(收藏向/欧洲核心/3弹已定) vs Bandai新TCG(竞技向/全球/2027夏)。市场格局重大重塑",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "Mythos Set 2新增全球5大市场",
+      "desc": "美国/加拿大/拉美/澳洲/南非同步接入Set 2，Set 3起全球完全同步。Set 1二版限量进入美国",
+      "date": "2026-08"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "已完成",
+      "title": "Gen Con 2026 Bandai试玩",
+      "desc": "7/30-8/2印第安纳波利斯，免费教学+先行卡+背包+贴纸 ✅",
+      "date": "2026-07-30~08-02"
+     },
+     {
+      "tag": "event",
+      "tagText": "营销",
+      "title": "Bandai全球巡展10月启动",
+      "desc": "NYCC(10月)→PAX Australia(10月)→Spiel Essen→Paris Games Week→Lucca",
+      "date": "2026-10起"
+     }
+    ],
+    "offline": [
+     {
+      "tag": "event",
+      "tagText": "已完成",
+      "title": "Mythos TCG SDCC试玩",
+      "desc": "7/23-26圣地亚哥漫展首次美国试玩 ✅",
+      "date": "2026-07-23~26"
+     }
+    ],
+    "tournaments": [
+     {
+      "tag": "event",
+      "tagText": "🔥新Promo",
+      "title": "9-10月周赛Promo Pack（胜者卡卡西等）",
+      "desc": "9-10月欧美周赛推出Promo Pack：佐助/鸣人/自来也/千手纲手/鼬Chibi卡+胜者卡卡西卡，配套Set 2发售",
+      "date": "2026-09~10"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥赛事",
+      "title": "Mythos Set 2 Pre-Release Tournament",
+      "desc": "今日(8/28-30)全球预发售店赛开启，提前一周抢先体验新卡！",
+      "date": "2026-08-28~30"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "Mythos Store Championships",
+      "desc": "6月起欧洲店铺冠军赛进行中",
+      "date": "2026-06起"
+     },
+     {
+      "tag": "news",
+      "tagText": "规划",
+      "title": "Mythos欧洲锦标赛",
+      "desc": "目标2027年3月",
+      "date": "2027-03"
+     }
+    ]
+   }
+  },
+  {
+   "id": "azuki",
+   "name": "Gates Awakened (Azuki)",
+   "emoji": "⛩️",
+   "avatarClass": "az",
+   "status": "hot",
+   "statusText": "AZK-01已发售·GameSquare×Azuki Labs营销至10月·下个区域赛10/24 Peoria",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "alert",
+      "tagText": "🔥已发售",
+      "title": "Gates Awakened (AZK-01) 正式上市！",
+      "desc": "Azuki首款TCG已全面发售！4款起始牌组$12.99(雷/水/地/火)，补充包展示盒$119.99(24包/盒)，148张独特卡牌。预购收入超$100万！",
+      "date": "2026-08"
+     },
+     {
+      "tag": "new",
+      "tagText": "已上线",
+      "title": "GameSquare创作者营销合作",
+      "desc": "8/6宣布，GameSquare负责TCG/卡牌收藏社区KOL营销，覆盖YouTube+TikTok+Instagram，持续至10月",
+      "date": "2026-08-06"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "Gates Awakened Manga同步推出",
+      "desc": "与TCG同步发行配套漫画，创作者Arnold Tsang参与原创内容",
+      "date": "2026-09~10"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "NFT IP首次实体TCG全面落地",
+      "desc": "AZK-01已发货！独立IKZ资源牌组系统+双区域战场(花园/巷弄)+传送门机制，规则创新获好评。$10万锦标赛奖金池。首场区域赛8/15 Pasadena约320人参赛",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "⚠️禁卡",
+      "title": "Rushfire Gate 8/18被禁·第二弹2026年末",
+      "desc": "官方8/18宣布Rushfire Gate禁卡(平衡性调整)；第二弹扩展包定档2026年末。下个Garden Arena区域赛10/24 Peoria，组织者更换为Top Cut Events",
+      "date": "2026-08-18"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "Web3到实体TCG的跨界尝试",
+      "desc": "Chiru Labs从NFT成功转型实体TCG，Arnold Tsang(前守望先锋艺术总监)领衔美术团队，全手绘零AI",
+      "date": "2026-08"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "done",
+      "tagText": "✅已截止",
+      "title": "欧洲零售商上架AZK-01预售（订单9/4已截止）",
+      "desc": "欧洲零售商上架AZK-01 Boosters/四款Starter Deck预售，Release Date 10/23，订单截止9/4今日",
+      "date": "2026-09-04"
+     },
+     {
+      "tag": "event",
+      "tagText": "营销",
+      "title": "创作者营销活动启动",
+      "desc": "8/6起至10月，GameSquare部署TCG/收藏社区KOL，覆盖YouTube+TikTok+Instagram Reels",
+      "date": "2026-08~10"
+     },
+     {
+      "tag": "new",
+      "tagText": "合作",
+      "title": "GameSquare × Azuki Labs 创作者营销（持续至10月）",
+      "desc": "GameSquare (NASDAQ:GAME) 与 Azuki Labs 合作推广 Gates Awakened TCG 与漫画，活动持续至2026年10月，创作者发布 YouTube / TikTok / Instagram Reels；9月围绕漫画追加创作者活动（Arnold Tsang 原创内容）",
+      "date": "2026-09-11",
+      "url": "https://www.azuki.com/"
+     }
+    ],
+    "offline": [],
+    "tournaments": [
+     {
+      "tag": "event",
+      "tagText": "🔥下一场",
+      "title": "Garden Arena区域赛·Peoria (10/24)",
+      "desc": "下个Garden Arena区域赛10/24在Peoria举行，组织者更换为Top Cut Events。Top16晋级2027 Invitational，Top8获serialized Raizan编号卡，$10万锦标赛奖金池",
+      "date": "2026-10-24"
+     },
+     {
+      "tag": "event",
+      "tagText": "✅已结束",
+      "title": "洛杉矶Garden Arena区域赛 (8/15已结束)",
+      "desc": "Azuki TCG首场官方区域赛8/15在Pasadena Convention Center举行，与CoreTCG合作！约320名选手参赛，Top16晋级2027 Invitational，Top8获serialized Raizan编号卡，$10万锦标赛奖金池",
+      "date": "2026-08-15"
+     }
+    ]
+   }
+  },
+  {
+   "id": "mtghobbit",
+   "name": "MTG The Hobbit",
+   "emoji": "🏔️",
+   "avatarClass": "mtgh",
+   "status": "hot",
+   "statusText": "Hobbit已发售·Gift Bundle 9/4已发售·Dallas已落幕·Heart of the Mountain进行中",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "✅已发售",
+      "title": "MTG The Hobbit 全球发售",
+      "url": "https://magic.wizards.com/en/news",
+      "desc": "8/14已全球发售！Bilbo Baggins孤山之旅，Tolkien宇宙×MTG第五扩展。Play Boosters $6.99 / Collector Boosters $37.99 / Bundle $69.99。Smaug金龙闪仅500张+40张Box Topper经典卡(One Ring回归)+Dwarvish语言卡5张",
+      "date": "2026-08-14"
+     },
+     {
+      "tag": "new",
+      "tagText": "✅已完成",
+      "title": "售前赛 (Prerelease)",
+      "desc": "8/7-13全球店铺售前赛已完成",
+      "date": "2026-08-07~13"
+     },
+     {
+      "tag": "alert",
+      "tagText": "✅已上线",
+      "title": "MTG Arena 数字版",
+      "desc": "8/11正式上线！Pack/Pass/Play预购Bundle已开售，Sealed/Draft活动同步启动！Arena Direct Sealed 8/14-23可赢Collector Booster箱",
+      "date": "2026-08-11"
+     },
+     {
+      "tag": "done",
+      "tagText": "✅已发售",
+      "title": "Gift Bundle 礼盒",
+      "desc": "9/4今日发售，含特别赠卡和收藏配件",
+      "date": "2026-09-04"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥稀有",
+      "title": "Smaug Gleaming Gold 金龙闪",
+      "desc": "Smaug the Magnificent金龙闪变体仅500张！Book Cover变体/Dwarvish语言卡/Dragon Hoard边框卡",
+      "date": "2026-08-14"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "Tolkien宇宙第三度联动MTG·Arena今日上线",
+      "desc": "继LTR魔戒后再度回归中土世界！新机制Storied Recruit(传奇招募)+Hone Counters(磨砺指示物)+回归Adventure/Amass(Goblins)/Saga",
+      "date": "2026-08"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥B&R",
+      "title": "Standard紧急B&R更新(8/10)",
+      "desc": "Gran-Gran、Stormchaser's Talent、Badgermole Cub 禁止！每张补偿1 Wildcard。Timeless为8月Qualifier赛制",
+      "date": "2026-08-10"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "Legality: HOB全赛制合法",
+      "desc": "主系列HOB全赛制合法；Eternal-legal子系列HOC可用于Commander/Legacy/Vintage",
+      "date": "2026-08"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "🔥赛事",
+      "title": "Magic Spotlight: The Hobbit · 布里斯班",
+      "desc": "今日(8/28)开幕(Let's Play Games主办)，主赛事Modern构筑8/29-30($5万奖池：冠军$1万+Pro Tour邀请/亚军$5千)，Riddles in the Dark限定promo(Tomas Duchek绘，Top128获foil版)，冠军获Black Lotus主题奖杯",
+      "date": "2026-08-28~30"
+     },
+     {
+      "tag": "done",
+      "tagText": "✅已落幕",
+      "title": "Magic Spotlight: The Hobbit · 达拉斯",
+      "desc": "9/4-6美国达拉斯站今日开幕！主赛事Modern构筑9/5-6，Top8获Pro Tour邀请，冠军$10,000",
+      "date": "2026-09-04~06"
+     }
+    ],
+    "offline": [
+     {
+      "tag": "event",
+      "tagText": "活动",
+      "title": "Commander Party 第一轮",
+      "desc": "8/21-27，赠卡Bilbo, Luckwearer",
+      "date": "2026-08-21~27"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥进行中",
+      "title": "Magic Presents: Heart of the Mountain",
+      "desc": "9/4-10今日开始，Arkenstone争夺战主题Commander",
+      "date": "2026-09-04~10"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "Commander Party 第二轮 (9/18-24)",
+      "desc": "Commander Party第二轮9/18-24举行，各认证店铺组织",
+      "date": "2026-09-18~24"
+     }
+    ],
+    "tournaments": [
+     {
+      "tag": "event",
+      "tagText": "🔥今日",
+      "title": "Arena Direct Sealed (8/14-23)",
+      "desc": "HOB现开赛，7胜赢Collector Booster箱！8/14起",
+      "date": "2026-08-14~23"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "Friday Night Magic (8/14起)",
+      "desc": "每周五HOB赛季FNM，Standard Showdown Wood Elves promo奖励",
+      "date": "2026-08-14~09-24"
+     }
+    ]
+   }
+  },
+  {
+   "id": "mtg",
+   "name": "万智牌",
+   "emoji": "🔮",
+   "avatarClass": "mtg",
+   "status": "hot",
+   "statusText": "Reality Fracture预览季进行中·全卡表9/18·售前9/25·桌面10/2·Star Trek 11/13",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "Marvel Super Heroes 联名系列",
+      "desc": "6/26全球发售！漫威超级英雄联动，史上最快突破3亿美元收入的MTG系列，玩家社区反响炸裂",
+      "date": "2026-06-26"
+     },
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "Secrets of Strixhaven（斯翠海文的秘密）",
+      "desc": "4/24发售，五大学院回归！魔法学院主题扩展，上市后迅速全网售罄",
+      "date": "2026-04-24"
+     },
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "Teenage Mutant Ninja Turtles（忍者神龟联名）",
+      "desc": "3/6全球发售，MTG×忍者神龟跨界联名",
+      "date": "2026-03-06"
+     },
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "Lorwyn Eclipsed（洛温：日蚀）",
+      "desc": "1/23发售，本宇宙2026开年系列",
+      "date": "2026-01-23"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥预览季",
+      "title": "Reality Fracture 预览季 9/8 启动（10am PT直播）",
+      "desc": "预览季9/8启动（10am PT直播）！全卡表9/18·售前赛9/25-10/1·桌面10/2·Arena 9/29。Arena预购3款bundle已上线，Arena Powered Cube 9/8-28，Hobbit Limited Open 9/11-13，故事结局9/11，新机制Empower Jace/Echoed Pairs+Hexhaven五学院+Elder Sphinxes",
+      "date": "2026-09-08"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥即将",
+      "title": "Reality Fracture（现实裂隙）",
+      "url": "https://magic.wizards.com/en/news",
+      "desc": "10/2全球发售！本宇宙年度收官系列，Jace黑化为反派「The Theorist」构建Echoverse回声宇宙。镜像鹏洛客颠覆色组：蓝Chandra Chill of Compliance(预购$48)/1费白Liliana the Faultless/2费白Ajani Resolute/黑Garruk Veiled Butcher。Echoed Pairs机制每包必含一对正反对卡(30张无框echo对卡=15对)。收藏亮点：13张Shattered Mirror碎镜卡(仅Collector含闪)、23张Braintwister无框卡、10张Japan Showcase。Commander含Darksteel Angel(16年陈年Platinum Angel加强版：不会输+不灭+防-1/-1)。序列化Headliner「Bloodline Recollector」500张、预购$88。售前9/25-10/1、Arena 9/29、Card Kingdom预购8/26已开启。产品线MSRP：Play Booster $5.49/Collector Booster $26.99/Bundle $57.99/Commander Deck $49.99。Secret Lair Bundle 10/23通过Secret Lair网店+WPN店铺发售。北京Fracture Spotlight 10/31-11/1、Hartford 10/23-25。2027年推Battle of Five Armies Co-op Kit",
+      "date": "2026-10-02"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "Star Trek（星际迷航联名）",
+      "desc": "11/13全球发售！MTG×Star Trek无疆新宇宙联动",
+      "date": "2026-11-13"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥Secret Lair",
+      "title": "Secret Lair X Masters of the Universe 超级掉落",
+      "desc": "9/14开启预售！五套Drop(He-Man/Skeletor/She-Ra等)，闪卡$39.99/非闪$29.99；同月「A Perfectly Normal Superdrop」9/1已上线(Marvel Joe Fixit+Shivan Dragon回归)",
+      "date": "2026-09-14"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥首测",
+      "title": "MTG Arena 国服星火首测",
+      "desc": "腾讯代理国服《万智牌：竞技场》开启星火首测！限定纪念卡背+登录福利+大师VS大师欢乐邀请赛",
+      "date": "2026-01"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "Star Trek 联动 11/13 + Mystery Booster Commander 11/9",
+      "desc": "MTG Universes Beyond: Star Trek 11/13（售前 11/6，含 Star Trek Commander / Stardates 产品线）；Mystery Booster Commander Edition 11/9",
+      "date": "2026-11-13",
+      "url": "https://magic.wizards.com/en"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "🔥产品阵容",
+      "title": "Reality Fracture 产品阵容：Commander预组/Draft Night/Secret Lair Bundle",
+      "desc": "Multiverse Reforged Commander 预组（四色无黑，新杰斯对标 Breya）；5款 Foundations Commander 预组 $30 MSRP（系列首次）；Draft Night box（12 Play + 90基本地 + 1 Collector）；Regular Bundle（9 Play + 30地 + promo）；Secret Lair Bundle（6 Play + 2 Collector + promo）10/23；序列化追逐卡 Bloodline Recollector 限量500张",
+      "date": "2026-10-02",
+      "url": "https://magic.wizards.com/en"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "H1创收约70亿元，单季超$5亿",
+      "desc": "孩之宝财报：万智牌2026上半年持续强劲，2025年度销售$17亿成百亿IP。玩家平均年龄35岁、平均玩龄5年+，黏性极高",
+      "date": "2026-08"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥2027",
+      "title": "MagicCon Amsterdam公布2027三款新系列",
+      "desc": "7/17-19 MagicCon Amsterdam现场揭晓：(1)Nauctis 2/5(水下暗黑) (2)Kamigawa Titanbreach 6/4(神河巨人) (3)Zhalfir 10/1(非洲奇幻)。2027年6大系列(UB+本宇宙各半)",
+      "date": "2026-07-17"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥2027 MagicCon",
+      "title": "2027年MagicCon四站官宣+Mystery Booster指挥官版",
+      "desc": "2027 MagicCon全球四站：Detroit 2/26-28、Tokyo 5/14-16、Las Vegas 8/27-29、Amsterdam 12/3-5；新推Mystery Booster Commander Edition(新增50+全新卡，仅线下活动可得)",
+      "date": "2026-07-17"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "全球1.2万+门店·年参与赛事100万+人",
+      "desc": "全球最大TCG赛事网络，Standard/Pioneer/Modern/Commander多赛制并行，MagicCon全球巡回",
+      "date": "2026"
+     },
+     {
+      "tag": "news",
+      "tagText": "🔥剧情",
+      "title": "Reality Fracture 剧情与 Hexhaven 五学院设定",
+      "desc": "杰斯·贝连（自称 Theorist）构建「Echoverse」——删去尼可波拉斯/新非瑞克西亚/奥札奇的完美多元宇宙复制，钱德拉领导抵抗，为其自 Duskmourn 起三部曲终章。新场景 Hexhaven 为 Strixhaven 的 Echoverse 另一半，五学院配色：Fatehold(蓝白)/Vigorbloom(绿白)/Konstrari(红绿)/Stingerquill(黑红)/Theorix(蓝黑)，至少11位鹏洛客登场",
+      "date": "2026-09-11",
+      "url": "https://magic.wizards.com/en"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "✅已完成",
+      "title": "MagicCon: Las Vegas 2026",
+      "desc": "5/1-3拉斯维加斯会议中心，数千牌手+内容前瞻+竞技对决",
+      "date": "2026-05-01~03"
+     },
+     {
+      "tag": "event",
+      "tagText": "✅已完成",
+      "title": "MagicCon: Amsterdam 2026",
+      "desc": "7/17-19荷兰阿姆斯特丹，欧洲年度盛会",
+      "date": "2026-07-17~19"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥北京",
+      "title": "MagicCon: Atlanta + Spotlight北京站",
+      "desc": "亚特兰大MagicCon 11月+北京Fracture Spotlight 10/31-11/1！中国牌手主场赛事",
+      "date": "2026-10~11"
+     }
+    ],
+    "offline": [
+     {
+      "tag": "event",
+      "tagText": "门店",
+      "title": "全球1.2万+认证店铺",
+      "desc": "WPN认证体系覆盖全球，中国持续扩展中",
+      "date": "2026"
+     }
+    ],
+    "tournaments": [
+     {
+      "tag": "event",
+      "tagText": "🔥中国",
+      "title": "学院杯·5城高校团队现开赛",
+      "desc": "5座中国城市高校内举办团队现开赛(3人一队)，覆盖一线高校TCG玩家群体",
+      "date": "2026"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥世锦赛",
+      "title": "Magic World Championship 32",
+      "desc": "11/13-15美国MagicCon Atlanta，赛制Star Trek Booster Draft + Standard Constructed",
+      "date": "2026-11-13~15"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "Pro Tour + Regional Championship体系",
+      "desc": "全年多场PT+RC资格赛，覆盖Standard/Pioneer/Modern三大竞技赛制",
+      "date": "2026"
+     }
+    ]
+   }
+  },
+  {
+   "id": "onepiece",
+   "name": "海贼王 TCG",
+   "emoji": "🏴‍☠️",
+   "avatarClass": "op",
+   "status": "hot",
+   "statusText": "OP-18「THE DOMINANCE OF GOD」11月全球同步·天野喜孝绘SEC·EB-05 10/30",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "alert",
+      "tagText": "✅全球同步已发售",
+      "title": "OP-17: The World's Strongest Warriors (4周年)",
+      "url": "https://en.onepiece-cardgame.com",
+      "desc": "8/28全球同步已发售！英文预发售8/21→日本8/22→全球8/28，JP/EN发售间隔缩至6天，首款Block 5区块系列。预售期英文盒价$349-$599(市场约$391) vs MSRP $119.76，溢价明显",
+      "date": "2026-08-28"
+     },
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "OP-16: The Time of Battle",
+      "desc": "6/12发售，Paramount War/Impel Down篇，6位新领袖(黑胡子/战国/艾斯)，Manga Rare三上将",
+      "date": "2026-06-12"
+     },
+     {
+      "tag": "new",
+      "tagText": "里程碑",
+      "title": "OP-15: Adventure on Kami's Island (首款全球同步)",
+      "desc": "4/3 Bandai首个全球同步发售！Skypiea篇，Enel Manga Rare为热门卡，日本仅提前5周",
+      "date": "2026-04-03"
+     },
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "ST-31~36 新手起始牌组",
+      "desc": "7/31发售，6色新预组(Luffy/Zoro/Kuzan/Katakuri/Sabo/Kid)，$11.99/副",
+      "date": "2026-07-31"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "EB-05: Extra Booster Heroines vol.2",
+      "desc": "10/30发售，第二弹女主角主题补充包",
+      "date": "2026-10-30"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "新品",
+      "title": "SD-01: Set Sail Deck Set 起始牌组套装",
+      "desc": "9/18发售(英文版$24.99)，全球同步新纪元入门牌组套装；日本4周年套9月同步上市(18,700日元)",
+      "date": "2026-09-18"
+     },
+     {
+      "tag": "new",
+      "tagText": "新品",
+      "title": "Premium Card Collection Best Selection Vol.6",
+      "desc": "8月发售！$25/盒(12卡+卡册)，精选卡收藏套装",
+      "date": "2026-08"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "🔥重磅",
+      "title": "OP-18: THE DOMINANCE OF GOD",
+      "desc": "11/20全球同步！天野喜孝绘Loki(8000战)/Shamrock(9000战)SEC，Franky/Gunko首张Leader，Nico Robin Super/Manga Parallel。EB-05 Heroines Vol.2 10/31(7位女性角色)、SD-01 9/18英文$24.99",
+      "date": "2026-11-20"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "新品",
+      "title": "EB-05 Heroines Edition Vol.2（10/30 日本）",
+      "desc": "10/30 日本发售，英文版 10/31（MSRP $4.99）。收录7位女性角色跨篇章卡图，主打娜美/罗宾动画特别篇视觉，为 OP-18 前的小型收藏向产品",
+      "date": "2026-10-30"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "新品",
+      "title": "SD-01 Set Sail Deck Set（9/18）",
+      "desc": "Beckett 2026 官方发布日程确认：One Piece Card Game Set Sail Deck Set [SD-01] 9/18 发售",
+      "date": "2026-09-18",
+      "url": "https://www.beckett.com/news/2026-tcg-release-dates-checklists-and-set-information"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "news",
+      "tagText": "🔥新卡",
+      "title": "天野喜孝绘制OP-18 SEC卡Loki/Shamrock",
+      "desc": "最终幻想画师天野喜孝首次为海贼王TCG作画，Loki与Shamrock SEC卡，Franky首张Leader卡同步公开",
+      "date": "2026-09"
+     },
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "OP-17 4周年里程碑·全球同步已发售",
+      "desc": "OP-15(4月)已实现首次同步，OP-17起Bandai实现One Piece TCG日英完全同步！4周年庆典活动8/22-23全球店赛先行已收官。预售期英文盒价$349-$599(市场约$391) vs MSRP $119.76，溢价明显",
+      "date": "2026-08-28"
+     },
+     {
+      "tag": "news",
+      "tagText": "历史",
+      "title": "全球同步路线图回顾",
+      "desc": "OP-12(延迟12周)→OP-15(5周差距)→OP-16(同时)→OP-17(完全同步)。Bandai 2025年3月One Piece Day Dallas官宣此路线图",
+      "date": "2025-03起"
+     },
+     {
+      "tag": "news",
+      "tagText": "市场",
+      "title": "OP TCG全球第三大TCG",
+      "desc": "2025 Q4已超越游戏王成为全球销售额#3 TCG。OP-16英文盒价从$400回落至$188",
+      "date": "2026"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "🔥4周年",
+      "title": "4周年Treasure Campaign·Dash Pack（8/21起）",
+      "desc": "8/21起实体店购买OP-17整盒赠送Dash Pack(7卡池随机3张，白胡子/香克斯/巴基/凯多/路飞/黑胡子/玲玲)，线上购买不参与，送完即止",
+      "date": "2026-08-21起"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥店赛",
+      "title": "4周年店赛窗口(8/21-9/13)·75卡Tournament Pack",
+      "desc": "4周年店赛窗口8/21持续至9/13！75-card Tournament Pack + P-110 Luffy领袖参与promo。日文OP-17整盒已炒至¥17,000(~$107)，二级市场Shanks OP01-120 Manga Panel约$1,550",
+      "date": "2026-08-21~09-13"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥4周年",
+      "title": "4周年Release Event + ONE PIECE DAY '26",
+      "url": "https://en.onepiece-cardgame.com",
+      "desc": "8/22-23全球OP-17先行店赛！6包Sealed构筑+限定Release Pack参与奖+Winner Pack。同期幕张Messe举办ONE PIECE DAY '26，8/23卡牌舞台压轴",
+      "date": "2026-08-22~23"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥纪念赛",
+      "title": "OP-17发售纪念赛「最强斗士」",
+      "desc": "8/22日本先行+全国门店发售纪念赛！万代卡牌APP报名，购买6包即可参赛，特典包Vol.3奖励",
+      "date": "2026-08-22起"
+     },
+     {
+      "tag": "event",
+      "tagText": "营销",
+      "title": "3周年Collection英文版",
+      "desc": "预计8月底随OP-17同步上市",
+      "date": "2026-08"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥限定店",
+      "title": "香港四周年期间限定店（开至9/13）",
+      "desc": "香港四周年期间限定店持续营业至9/13，周边/促销活动同步进行",
+      "date": "2026-09-13截止"
+     }
+    ],
+    "offline": [],
+    "tournaments": [
+     {
+      "tag": "event",
+      "tagText": "🔥赛事",
+      "title": "OP-17 Pre-Release/Release Event",
+      "desc": "各地店铺OP-17 4周年先行活动，Sealed赛制",
+      "date": "2026-08-21起"
+     },
+     {
+      "tag": "done",
+      "tagText": "✅已落幕",
+      "title": "BCG Fest 26-27 欧洲总决赛（9/4-6荷兰乌得勒支Jaarbeurs）",
+      "desc": "One Piece TCG欧洲总决赛9/4-6在荷兰乌得勒支Jaarbeurs落幕！烧烧果实竞技场决出世界首位冠军，Championship欧洲总决赛同场收官",
+      "date": "2026-09-04~06"
+     },
+     {
+      "tag": "event",
+      "tagText": "赛事",
+      "title": "2026 World Championship",
+      "desc": "预计Q4举办",
+      "date": "2026 Q4"
+     },
+     {
+      "tag": "hot",
+      "tagText": "进行中",
+      "title": "简中 9月旗舰战 / 9月超限激斗战（9/1-9/30）",
+      "desc": "旗舰战：标准赛制，优胜限定卡「OP16-032 波尔·汉库珂(异画)」，八强 OP15-113 佐罗，报名费30元，定员32人。超限激斗战：开放赛制，优胜「EB02-006 大和(异画)」，八强 OP14-033 佩罗娜，报名费20元，每店定员32人。均通过「万代卡牌」APP 报名",
+      "date": "2026-09-01~09-30",
+      "url": "https://onepiece-cardgame.cn/"
+     },
+     {
+      "tag": "new",
+      "tagText": "赛事",
+      "title": "Championship26-27 Season2 秋季 3on3·北京站启动",
+      "desc": "官方启动 Championship26-27 Season2 秋季 3on3 北京站，3人组队赛制",
+      "date": "2026-08-19",
+      "url": "https://onepiece-cardgame.cn/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "kakawowhp",
+   "name": "哈利·波特 TCG",
+   "emoji": "🧙‍♂️",
+   "avatarClass": "hp",
+   "status": "upcoming",
+   "statusText": "AURA 25周年9月发售（全球限量8000箱）·GEM高端版9/2已发售",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "🔥新TCG",
+      "title": "卡卡沃×华纳 哈利·波特官方TCG",
+      "desc": "7/25卡卡嘉年华上海官宣！华纳兄弟全球消费品战略合作，100%原创手绘零AI，2027年底起中英文同步上市",
+      "date": "2027年底"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "独立美术团队组建完成",
+      "desc": "已为HP TCG组建专属美术团队，所有卡牌插画艺术家原创手绘，从零构建原创对战体系",
+      "date": "2026-07"
+     },
+     {
+      "tag": "upcoming",
+      "tagText": "预告",
+      "title": "后续将开放玩家测试",
+      "desc": "计划在适当阶段邀请哈利波特粉丝+TCG玩家参与产品测试，收集反馈打磨体验",
+      "date": "2027"
+     },
+     {
+      "tag": "alert",
+      "tagText": "🔥9月",
+      "title": "Kakawow AURA 哈利波特25周年 9月发售",
+      "desc": "5卡/包、10包/盒、10盒/箱，Regular 全球限量8000箱（Blaster 箱全球仅2000箱）。首度收录67张全新电影剧照；9位经典角色演员亲笔签名卡共9个系列81种设计；首度采用 AURA「Peacock Fold」多层折射工艺；四联拼图卡。箱货含 Magic Trilogy I #/555、25周年庆典卡 #/525、魔法石卡 #/375、25周年插画卡(Part1) #/75 或 25周年签名卡 #/45",
+      "date": "2026-09",
+      "url": "https://www.kakawow.com/"
+     },
+     {
+      "tag": "new",
+      "tagText": "已发售",
+      "title": "Kakawow GEM 25周年高端收藏版（9/2已发售）",
+      "desc": "9/2发售，10卡/盒，超限量500箱。每盒平均3-5张编号卡 + 1张 GEM 卡或25周年签名卡；11位演员亲笔签名（Tom Felton / Bonnie Wright / Jason Isaacs / Evanna Lynch / Matthew Lewis / Katie Leung 等）；平行版本 蓝#/25、黄#/10、黑#/5、粉1/1",
+      "date": "2026-09-02",
+      "url": "https://www.kakawow.com/"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "哈利·波特25周年×卡卡沃强强联合",
+      "desc": "卡卡沃《哈利·波特》收藏卡2个月GMV超5000万元，已有成功合作基础！首发大中华区+亚太市场",
+      "date": "2026-07"
+     },
+     {
+      "tag": "news",
+      "tagText": "关注",
+      "title": "IP改编TCG新标杆",
+      "desc": "霍格沃茨四学院/经典角色/标志性魔咒/神奇动物，天然契合TCG玩法。学院阵营+魔杖魔咒+魔药+正邪对抗",
+      "date": "2026"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "🔥海外上架",
+      "title": "Kakawow Aura/GEM 25周年收藏卡海外上架",
+      "desc": "9月海外零售商上架Kakawow Aura(常规8000箱+Blaster 2000箱)与GEM(仅500箱)25周年收藏卡：67张全新电影剧照+9位演员亲签+Peacock Fold孔雀折光工艺，为2027底正式TCG持续蓄水IP热度",
+      "date": "2026-09"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥活动",
+      "title": "「魔法足迹」收藏展示框兑换活动开启（8/21）",
+      "desc": "哈利·波特25周年献礼！集齐任意1名角色(哈利/罗恩/赫敏)七个年级(Year1-7)全部7张卡，即有机会兑换官方收藏展示框(3款各限量20个，先到先得)。发送报名邮件至 ops@suplaymart.com 参与",
+      "date": "2026-08-21起"
+     },
+     {
+      "tag": "event",
+      "tagText": "🔥新品",
+      "title": "KAKAWOW GEM 哈利·波特25周年官方收藏卡上线(8/5)",
+      "desc": "8/5上线！全系列26卡种/366卡面，每盒保底1张实物宝石镶嵌卡或演员亲签卡(5种宝石NGTC鉴定)，11位经典角色亲签限编+1/1蓝宝石O星签字卡终极Hit。为TCG正式上市前持续蓄水IP热度",
+      "date": "2026-08-05"
+     },
+     {
+      "tag": "event",
+      "tagText": "发布会",
+      "title": "卡卡嘉年华现场官宣",
+      "desc": "卢娜/奥利弗·伍德演员首次来华！华纳VP Vikram Sharma亲临上海西岸",
+      "date": "2026-07-24~26"
+     }
+    ],
+    "offline": [],
+    "tournaments": []
+   }
+  },
+  {
+   "id": "doginal",
+   "name": "Doginal Dogs Legends",
+   "emoji": "🐕",
+   "avatarClass": "dg",
+   "status": "hot",
+   "statusText": "DDNYC 9/2-4已落幕·数字版beta waitlist开放",
+   "tabs": {
+    "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "🔥新TCG",
+      "title": "Doginal Dogs Legends 宣布（8/3）",
+      "desc": "Dogecoin区块链像素艺术藏品社区推出高端手绘TCG，预购已开启。首发套装「Rise of the Pack」111张卡全部手工绘制，40张牌组格式+明确角色职业+生物/法术/陷阱组合，历时近两年打造",
+      "date": "2026-08-03"
+     },
+     {
+      "tag": "done",
+      "tagText": "✅已落幕",
+      "title": "DDNYC 2026 现场首发（9/2-4）",
+      "desc": "9/2-4纽约品牌旗舰活动DDNYC 2026首发进行中！The Whig报道现场创纪录数千人参与、TCG官方首发引发排队；首发套装「Rise of the Pack」预购首日售罄",
+      "date": "2026-09-02~04"
+     }
+    ],
+    "sentiment": [
+     {
+      "tag": "hot",
+      "tagText": "🔥热议",
+      "title": "链上社区进军实体TCG",
+      "desc": "继Azuki后又一Web3社区入局实体TCG，消息发布数小时冲上X热榜。团队强调这是真正为竞技而生的游戏而非贴牌发售",
+      "date": "2026-08"
+     },
+     {
+      "tag": "hot",
+      "tagText": "🔥新动向",
+      "title": "数字版Legends开发中·beta waitlist开放",
+      "desc": "官方确认数字版在开发中，beta access waitlist已在ddltcg.com开放。实体Booster Box $169/24包，首日预购售罄",
+      "date": "2026-08"
+     }
+    ],
+    "marketing": [
+     {
+      "tag": "event",
+      "tagText": "🔥售罄",
+      "title": "首发套装预购首日售罄",
+      "desc": "8/3与宣布同日开启预购，限量供给，稀有卡采用经典稀缺结构；预购首日即售罄",
+      "date": "2026-08-03"
+     }
+    ],
+    "offline": [],
+    "tournaments": []
+   }
+  }
+ ]
 }
