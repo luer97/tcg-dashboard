@@ -1,19 +1,6 @@
 {
-  "updated": "2026-09-19T08:55:00+08:00",
+  "updated": "2026-09-20T08:55:00+08:00",
   "entries": [
-    {
-      "date": "2026-08-20",
-      "game": "符文战场",
-      "gameId": "rwzc",
-      "emoji": "⚔️",
-      "avatarClass": "rw",
-      "category": "marketing",
-      "tag": "alert",
-      "tagText": "🔥开奖",
-      "title": "T1冠军签名限定礼盒今日公布第一轮抽选结果",
-      "url": "https://lol.qq.com/news/space-detail.shtml?docid=15148196801560497063",
-      "desc": "8/20第一轮、8/21第二轮开奖，五位冠军卡对应冠军皮肤(Doran安蓓萨/Oner赵信/Faker加里奥/Gumayusi厄运小姐/Keria萨勒芬妮)，广州玩家群已出价¥6000收购"
-    },
     {
       "date": "2026-08-21",
       "game": "宝可梦 PTCG",
@@ -642,6 +629,19 @@
       "desc": "天津CardTime卡牌店9/3举办店赛，赢取限定PR卡；上海城市赛8/30已落幕·冠军REX"
     },
     {
+      "date": "2026-09-02",
+      "game": "正面对决 TCG",
+      "gameId": "zmdd",
+      "emoji": "🏯",
+      "avatarClass": "zm",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "🔥9/26-27",
+      "title": "同 IP 线下盛典：2026 三国杀王者之战神王战·上海站售票开启",
+      "desc": "9/26-27 上海世贸商城，竞技版/休闲版双通道门票；竞技版三赛道决出年度盛典直通名额，入场伴手礼含「凤勇螭魄·关银屏」上海限定卡",
+      "url": "https://sanguosha.com/news/20260902_3884_3119"
+    },
+    {
       "date": "2026-09-03",
       "game": "符文战场",
       "gameId": "rwzc",
@@ -930,6 +930,19 @@
       "desc": "通过快闪店 Dr. B's RESEARCH LAB 与全球Nike门店分发特典卡，不走卡牌零售渠道；Jump订阅者9/18-10/18可邮购34张完整套装"
     },
     {
+      "date": "2026-09-04",
+      "game": "火影忍者 TCG",
+      "gameId": "hyrz",
+      "emoji": "🍥",
+      "avatarClass": "hy",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "🔥发售",
+      "title": "Mythos Set 2「Shinobi Shiren」欧洲正式发售·Release Events 开跑",
+      "desc": "Set 2 于 9/4 在欧洲正式上市，官方 Release Events 自 9/4 持续至 10/4；同步上线 Set 2 收藏指南",
+      "url": "https://www.narutomythos.com/de/community"
+    },
+    {
       "date": "2026-09-05",
       "game": "峡谷争锋",
       "gameId": "xgzf",
@@ -1038,6 +1051,19 @@
       "desc": "9/8 官方宣布 Dawn of Palpagos 自 7/30 上市以来全球发货超440万包（7月时为350万包）"
     },
     {
+      "date": "2026-09-08",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "sentiment",
+      "tag": "hot",
+      "tagText": "🔥专访",
+      "title": "总监专访复盘 2026 与《辉耀群星》展望",
+      "desc": "总监回应供应问题，透露《辉耀群星》含音乐宇宙（心之钢）收藏品、全新终极稀有度与一张「疯狂牌」，并称 2027 年将大幅提升活动卡水准",
+      "url": "https://new.qq.com/rain/a/20260908A0CNL900"
+    },
+    {
       "date": "2026-09-09",
       "game": "幻兽帕鲁 TCG",
       "gameId": "hspw",
@@ -1108,6 +1134,19 @@
       "tagText": "🔥新动向",
       "title": "数字版Legends beta waitlist开放",
       "desc": "官方确认数字版开发中，beta access waitlist在ddltcg.com开放；实体Booster Box $169/24包，首日预购售罄"
+    },
+    {
+      "date": "2026-09-09",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "tournaments",
+      "tag": "event",
+      "tagText": "🔥奖金",
+      "title": "繁中台湾站奖金与奖品卡明细公开：NT$30 万总奖金·好运姐·海盗",
+      "desc": "总奖金 NT$300,000（税前）：冠军 NT$100,000、2-4 名各 4 万、5-8 名各 1 万、9-16 名各 5 千；奖品卡「好运姐·海盗」分 CHAMPION/TOP8/TOP32 版；每个传奇最好名次额外获该传奇金属纪念卡（本次发英文版）",
+      "url": "https://pttcomics.com/C_Chat/1geMP2Jb"
     },
     {
       "date": "2026-09-10",
@@ -1307,6 +1346,18 @@
       "url": "https://www.narutotcgmythos.com/"
     },
     {
+      "date": "2026-09-13",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "marketing",
+      "tag": "event",
+      "tagText": "✅收官",
+      "title": "香港四周年期间限定店结束·4周年店赛窗口（8/21-9/13）收官",
+      "desc": "香港四周年期间限定店开至 9/13 结束；4 周年店赛窗口同步收官，期间发放 75 张规格的 Tournament Pack"
+    },
+    {
       "date": "2026-09-16",
       "game": "宝可梦 PTCG",
       "gameId": "ptcg",
@@ -1318,6 +1369,19 @@
       "title": "30th Celebration 全球同步首发（史上首次）",
       "desc": "176张全闪卡，6卡/包，每包必出30种皮卡丘之一；Futuristic Rare（YOSHIROTTEN绘Mew ex/Mewtwo ex）+30张Classic Collection经典复刻（含金框Base Set喷火龙）。同日发售幻彩未来纪念礼盒与典藏手办礼盒",
       "url": "https://www.pokemon.com/us/pokemon-news/get-ready-for-pokemon-tcg-30th-celebration"
+    },
+    {
+      "date": "2026-09-16",
+      "game": "宝可梦 PTCG",
+      "gameId": "ptcg",
+      "emoji": "⚡",
+      "avatarClass": "pk",
+      "category": "sentiment",
+      "tag": "alert",
+      "tagText": "🔥首发日",
+      "title": "30th Celebration 全球首发当日排队潮·数字版提前开包",
+      "desc": "TCG 史上首个真正全球同日发售日：巴黎 Fnac Saint-Lazare 开门一小时后仍有约 100 人排队，法国 JouéClub（约 300 店）称数周被问货电话淹没；数字端 9/15 19:00 经 TCG Live 抢先开包。日本首日仅 3 款产品且全部 Pokémon Center Online 抽选，单包 ¥360（标准包 ¥200，溢价 80%）",
+      "url": "https://cardnews.io/tcg/pokemon/pokemon-30th-anniversary-launch-day-queues"
     },
     {
       "date": "2026-09-17",
@@ -1393,6 +1457,31 @@
       "title": "Cyberpunk TCG 众筹交付9月启动·Beta店赛已收官",
       "desc": "卡片在上海印厂投产，9月前两周起向 Kickstarter 支持者交付；店内 Beta 赛事9/10-17已结束，Beta 卡带「B」前缀与独占异画",
       "url": "https://cyberpunktcg.com/blog/production-update-1"
+    },
+    {
+      "date": "2026-09-18",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥定档",
+      "title": "《辉耀群星》预览季官方定档 9/25（洛杉矶RQ开跑）·卡图每日更新",
+      "desc": "官方 9/18 公告确认 Radiance 预览季 9/25 随洛杉矶区域预选赛正式开跑（中国区 9/26），9/18 先由 LCS/LEC 转播预热；卡图每日太平洋时间 17:00 更新，X 话题 #RBRadiance。系列 180 张卡、60+ 珍藏卡，萨勒芬妮&伊芙琳双人对决卡组",
+      "url": "https://playriftbound.com/en-us/news/announcements/radiance-preview-season/"
+    },
+    {
+      "date": "2026-09-18",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "sentiment",
+      "tag": "warn",
+      "tagText": "⚠️生效",
+      "title": "最新禁卡令 9/18 海外生效（简繁中 9/21）·「卡牌骗术」被禁",
+      "desc": "随预览季公告同步确认，最新禁牌令已于 9/18 海外生效、9/21 简繁中生效，蓝艾克体系关键卡「卡牌骗术」被禁，符文之夜前需更新牌组"
     },
     {
       "date": "2026-09-19",
@@ -1482,6 +1571,70 @@
       "tagText": "🔥体系公开",
       "title": "正面对决完整赛事体系与积分直通规则公开",
       "desc": "五层级：常规店级赛→店家冠军赛→城市挑战赛→季度大奖赛→国家冠军赛；首赛年总奖金超百万；单季16分直通大奖赛、年度60分直通国冠赛"
+    },
+    {
+      "date": "2026-09-19",
+      "game": "海贼王 TCG",
+      "gameId": "onepiece",
+      "emoji": "🏴‍☠️",
+      "avatarClass": "op",
+      "category": "newProducts",
+      "tag": "alert",
+      "tagText": "🔥重构环境",
+      "title": "OP-18 官方定调「重构游戏环境」级 Leader 登场·126+1 卡四主题",
+      "desc": "官方以最强表述宣传 OP-18：万众期待角色首度 Leader 化将重构环境；系列 126+1 种卡，覆盖三个既有主题 + 一个首次进入卡牌游戏的新主题，11/20 日英全球同步，与 12 月 ST-37/38 组成新手入坑包",
+      "url": "https://godpackgames.ca/products/one-piece-op-18-sealed-case-pre-order"
+    },
+    {
+      "date": "2026-09-20",
+      "game": "符文战场",
+      "gameId": "rwzc",
+      "emoji": "⚔️",
+      "avatarClass": "rw",
+      "category": "tournaments",
+      "tag": "alert",
+      "tagText": "🔥决赛日",
+      "title": "繁中区域公开赛·台湾站进入第二日决赛阶段",
+      "desc": "新北台北硅谷国际会议中心 B2，512 人规模，GLORIOUS SOUL 主办，9/19-20 两日赛程于今日 9/20 收官；同期战斗学院杯高校赛（全国 16 城）与城市挑战赛 S4 第二赛段第二周（七城）亦在本周末落地"
+    },
+    {
+      "date": "2026-09-20",
+      "game": "哈利·波特 TCG",
+      "gameId": "kakawowhp",
+      "emoji": "🧙‍♂️",
+      "avatarClass": "hp",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "🔥配置",
+      "title": "AURA 25 周年 Hobby/Blaster 完整配置与平行清单公开·海外多国上架",
+      "desc": "Hobby 10 包×5 卡，Base 平行 /299 至 1/1 九档 + Aura 卡五档；25 周年签名卡涵盖 9 位演员（/45、Red /3、Black 1/1、Peacock 系列）。Blaster 7 包×4 卡，独占插入与 /50 签名卡。已在澳洲、英国、美国、加拿大零售上架",
+      "url": "https://cashcardsunlimited.com/fr-ca/products/2026-kakawow-harry-potter-aura-hobby-box"
+    },
+    {
+      "date": "2026-09-20",
+      "game": "Cyberpunk TCG",
+      "gameId": "cyberpunk",
+      "emoji": "🌆",
+      "avatarClass": "cp",
+      "category": "newProducts",
+      "tag": "new",
+      "tagText": "🔥规格",
+      "title": "Set 1 规模确认：140 张 + 31 张异画·Beta 与零售版本不互通",
+      "desc": "Set 1「Welcome to Night City」共 140 张本体 + 31 张异画（171 变体）；Beta 卡编号带「B」前缀、包装有 Beta 标记，异画与零售版完全不重叠；Beta 店赛在部分店铺延续至 9/20 前后收官",
+      "url": "https://www.newsbreak.com/gamedaily-333497653/4887923902746-cyberpunk-tcg-everything-you-need-to-know"
+    },
+    {
+      "date": "2026-09-20",
+      "game": "峡谷争锋",
+      "gameId": "xgzf",
+      "emoji": "🏰",
+      "avatarClass": "xg",
+      "category": "sentiment",
+      "tag": "hot",
+      "tagText": "🔥出圈",
+      "title": "2026 大奖赛获地方官方媒体专题报道·认证赛 VOL.2 进行中",
+      "desc": "上海宝山区官方媒体专题报道 8/22-23 大奖赛：千人规模、60 万奖金，创国产原创 TCG 赛事之最；冠军「御三家.鱼」。全国店铺认证赛新赛季 VOL.2 进行中",
+      "url": "http://wmw.baoshan.sh.cn/320/441/410/20269841037634.html"
     }
   ]
 }
