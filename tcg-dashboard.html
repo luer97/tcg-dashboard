@@ -150,10 +150,12 @@ body {
 .game-avatar.mtg { background: linear-gradient(135deg, #d4a853, #8b6914); }
 .game-avatar.dg { background: linear-gradient(135deg, #64748b, #334155); }
 .game-avatar.cp { background: linear-gradient(135deg, #06b6d4, #a855f7); }
+.game-avatar.dc { background: linear-gradient(135deg, #0ea5e9, #1e3a8a); }
 .tcg-status { display: flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 20px; }
 .tcg-status.hot { background: #fef2f2; color: var(--red); }
 .tcg-status.active { background: #f0fdf4; color: #16a34a; }
 .tcg-status.upcoming { background: #fffbeb; color: #d97706; }
+.tcg-status.new { background: #eff6ff; color: #2563eb; }
 .tab-nav { display: flex; border-bottom: 1px solid var(--border); padding: 0 12px; background: #fafbfc; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
 .tab-nav::-webkit-scrollbar { display: none; }
 .tab-btn {
@@ -366,8 +368,14 @@ function filterGames(type, btn) {
     var status = card.dataset.status;
     var id = card.dataset.id;
     if (type === 'hot' && status === 'hot') card.style.display = '';
-    else if (type === 'new' && ['ptcg','hspw','cyjz','hyrz','azuki','mtghobbit','onepiece','kakawowhp'].indexOf(id) >= 0) card.style.display = '';
-    else if (type === 'event' && ['rwzc','ptcg','xgzf','cyjz','mtghobbit','onepiece'].indexOf(id) >= 0) card.style.display = '';
+    else if (type === 'new' && ['ptcg','hspw','cyjz','hyrz','azuki','mtghobbit','onepiece','kakawowhp','doginal','cyberpunk','divinecross'].indexOf(id) >= 0) card.style.display = '';
+    else if (type === 'event') {
+      var pool = (typeof tcgData !== 'undefined' && tcgData) ? tcgData : [];
+      var g = pool.find(function(x) { return x.id === id; });
+      var hasEvent = g && g.tabs && g.tabs.tournaments && g.tabs.tournaments.length > 0;
+      if (hasEvent || ['rwzc','ptcg','xgzf','cyjz','mtghobbit','onepiece'].indexOf(id) >= 0) card.style.display = '';
+      else card.style.display = 'none';
+    }
     else if (type === 'sentiment') card.style.display = '';
     else card.style.display = 'none';
   });
