@@ -1,12 +1,12 @@
 {
  "meta": {
-  "updated": "2026-09-22T11:30:00+08:00",
+  "updated": "2026-09-24T10:30:00+08:00",
   "totalGames": 15,
-  "totalNewProducts": 131,
-  "totalEvents": 73,
-  "totalMarketing": 63,
-  "totalAlerts": 76,
-  "alertBanner": "⚠️ 重要预警（9/22巡查）：🔴符文战场<strong style=\"color:#dc2626\">洛杉矶RQ 9/25-27 倒计时3天</strong>，辉耀群星开发者座谈会周五3pm PT 揭幕预览季；补充盒抽选 9/25 开启、10/5 中签。🔴万智牌Reality Fracture<strong style=\"color:#dc2626\">售前赛9/25开跑·倒计时3天</strong>；<strong style=\"color:#dc2626\">收藏包/礼盒/指挥官预组多地区延期，墨西哥整体延期</strong>；Magic Spotlight 北京站 10/31-11/1 首次落地中国。🔴火影<strong style=\"color:#dc2626\">奥兰多地区赛9/27·倒计时5天</strong>；万代官方TCG 2027夏全球发售；Fest 吉隆坡/台北站报名开启。🔴宝可梦<strong style=\"color:#dc2626\">简中「嗨皮组合」官宣 10/16 发售·88元</strong>（4款卡组）；30周年二级市场 ETB 挂价 $150 远超 MSRP。🔴海贼王<strong style=\"color:#dc2626\">OP-18「神之支配」主题确认：水之都×神之骑士团·弗兰奇首个Leader</strong>，11/20 全球同步。🔴幻兽帕鲁<strong style=\"color:#dc2626\">BP02 完整规格确认·10/30 三语全球同步</strong>；BP03 定档 2027/1/29。🔴哈利波特AURA<strong style=\"color:#dc2626\">全球限量修正为 Regular 8,000箱 / Blaster 2,000箱</strong>（此前8万箱为误传）。🔴<strong style=\"color:#dc2626\">新纳入监控：日本 DIVINE CROSS TCG</strong>（9/24 四弹齐发·开5包即玩）。🔴Cyberpunk TCG<strong style=\"color:#dc2626\">4张Secret Rare明细公开</strong>·零售预发售 10/30-11/1。"
+  "totalNewProducts": 134,
+  "totalEvents": 78,
+  "totalMarketing": 65,
+  "totalAlerts": 77,
+  "alertBanner": "⚠️ 重要预警（9/24巡查）：🔴符文战场<strong style=\"color:#dc2626\">辉耀群星预览季明日9/25开启</strong>（LCS/LEC转播预热+洛杉矶RQ同步）；简中社区预览指南公布（9/28起分批发布）；<strong style=\"color:#dc2626\">CN独占卡面10/10全国公开赛揭晓</strong>；补充盒抽选9/25-9/30。🔴万智牌<strong style=\"color:#dc2626\">Reality Fracture售前赛明日9/25开跑</strong>；Arena 9/29上线；Early-Access Event 9/23已直播；成就系统+预购Bundle公布。🔴峡谷争锋<strong style=\"color:#dc2626\">「月满延吉」电竞大赛9/25-27线下决赛</strong>（延吉1978文创园·总奖金7万+）。🔴<strong style=\"color:#dc2626\">DIVINE CROSS TCG今日9/24四弹齐发正式发售</strong>。🔴正面对决<strong style=\"color:#dc2626\">神王战上海站9/26-27倒计时2天</strong>。🔴火影<strong style=\"color:#dc2626\">奥兰多地区赛9/27倒计时3天</strong>。🔴宝可梦30周年持续溢价；城市赛第四赛季进行中。🔴海贼王OP-18 11/20全球同步；EB-05 10月。🔴幻兽帕鲁BP02 10/30三语全球同步。🔴Cyberpunk TCG零售预发售10/30-11/1。"
  },
  "games": [
   {
@@ -145,6 +145,14 @@
      }
     ],
     "sentiment": [
+     {
+      "tag": "hot",
+      "tagText": "🔥持续溢价",
+      "date": "2026-09-24",
+      "title": "30周年二级市场持续溢价：ETB挂价$150+（MSRP $89.99）",
+      "desc": "30th Celebration发售后持续溢价，TCGplayer ETB最低$150、Pokémon ex Box $76.82、散包$18.97；日本实施反黄牛限购；Walmart 9/16抽选补货；城市赛第四赛季9/5-11/1进行中",
+      "url": "https://www.yahoo.com/entertainment/music/articles/pok-mon-tcg-30th-celebration-115215263.html"
+     },
      {
       "tag": "alert",
       "tagText": "⚠️溢价",
@@ -385,6 +393,14 @@
    "statusText": "RQ洛杉矶9/25-27·辉耀群星预览季同步揭幕·补充盒抽选9/25开启",
    "tabs": {
     "newProducts": [
+     {
+      "tag": "alert",
+      "tagText": "🔥明日预览季",
+      "date": "2026-09-25",
+      "title": "「辉耀群星」预览季明日9/25正式开启·简中社区预览指南公布",
+      "desc": "预览季9/25随洛杉矶RQ开跑，LCS/LEC转播预热；简中社区独家预览9/28起分批发布（蔚蓝边际/节能/小橘派派等共创伙伴）；官方社媒9/26起每日9:00视频总结；小程序「卡牌图鉴」同步更新。CN独占卡面10/10全国公开赛现场揭晓。补充盒抽选9/25 9:00 AM PT开放登记、9/30截止、10/5中签、10/23发货",
+      "url": "https://playriftbound.com/en-us/news/announcements/radiance-preview-season/"
+     },
      {
       "tag": "upcoming",
       "tagText": "🔥9/25抽选",
@@ -634,6 +650,14 @@
     "tournaments": [
      {
       "tag": "alert",
+      "tagText": "🔥明日RQ",
+      "date": "2026-09-25",
+      "title": "洛杉矶区域预选赛（RQ）9/25-27·辉耀群星预览季同步开跑",
+      "desc": "2026最后一场RQ，洛杉矶会议中心，总奖金$25,000；禁卡令后首场大赛；开发者座谈会周五3pm PT揭幕预览季",
+      "url": "https://riftbound.gg/radiance-set-booster-display-draw"
+     },
+     {
+      "tag": "alert",
       "tagText": "🔥倒计时3天",
       "date": "2026-09-25~27",
       "title": "洛杉矶 RQ 场馆与赛程详情公布：洛杉矶会议中心·总奖金 $25,000",
@@ -841,6 +865,14 @@
     ],
     "marketing": [
      {
+      "tag": "new",
+      "tagText": "🔥新补充包",
+      "date": "2026-10-21",
+      "title": "新补充包「命启星峦」将亮相CTE中国玩具展10/21-23",
+      "desc": "CTE中国玩具展10/21-23展位N1E31，新补充包「命启星峦」亮相",
+      "url": "https://www.toybaba.com/news/6a8cf8307d0c228bfa361d5e"
+     },
+     {
       "tag": "event",
       "tagText": "营销",
       "title": "全国巡回赛持续进行",
@@ -865,6 +897,14 @@
      }
     ],
     "tournaments": [
+     {
+      "tag": "alert",
+      "tagText": "🔥明日决赛",
+      "date": "2026-09-25",
+      "title": "「月满延吉·峡谷争锋」电竞大赛9/25-27线下决赛·延吉1978文创园",
+      "desc": "腾讯王者荣耀官方授权文旅专项赛事，9/25-27延吉1978文创园VIVA未晚市集；线上海选9/8-20已结束；总奖金池超7万元（冠军3万/亚军2万/季军1万）；增设高校邀请赛+政企表演赛+万象棋体验赛；「白赛夜演」模式+朝鲜族非遗表演+中秋市集",
+      "url": "https://jl.people.com.cn/n2/2026/0909/c349771-41690903.html"
+     },
      {
       "tag": "alert",
       "tagText": "✅已落幕",
@@ -1268,6 +1308,14 @@
     "tournaments": [
      {
       "tag": "alert",
+      "tagText": "🔥倒计时2天",
+      "date": "2026-09-26",
+      "title": "2026三国杀王者之战神王战·上海站9/26-27",
+      "desc": "9/26-27上海世贸商城，竞技版/休闲版双通道；竞技版三赛道（八人身份局/3V3血战/承天之弈1V1）决出年度盛典直通名额；入场伴手礼含「凤勇螭魄·关银屏」上海限定卡；承天之弈第二弹超前爆料",
+      "url": "https://sanguosha.com/news/20260902_3884_3119"
+     },
+     {
+      "tag": "alert",
       "tagText": "🔥倒计时4天",
       "date": "2026-09-26~27",
       "title": "2026 三国杀王者之战神王战·上海站售票开启（9/26-27 世贸商城）",
@@ -1611,6 +1659,14 @@
     ],
     "tournaments": [
      {
+      "tag": "alert",
+      "tagText": "🔥倒计时3天",
+      "date": "2026-09-27",
+      "title": "NARUTO Mythos 奥兰多地区赛9/27·Pro-Play Summit",
+      "desc": "9/27佛罗里达Pro-Play Summit举办，冠军获专属金卡，每位参赛者获奖品包",
+      "url": "https://www.narutotcgmythos.com/"
+     },
+     {
       "tag": "new",
       "tagText": "🔥报名开启",
       "date": "2026-09-18起",
@@ -1947,6 +2003,14 @@
    "tabs": {
     "newProducts": [
      {
+      "tag": "alert",
+      "tagText": "🔥明日售前",
+      "date": "2026-09-25",
+      "title": "Reality Fracture售前赛明日9/25开跑·Arena 9/29上线",
+      "desc": "售前赛9/25-10/1（双头巨人改为1售前组合+2包）；MTG Arena 9/29上线；Early-Access Event 9/23已直播；成就系统公布（Jace Beleren成就奖励）；预购Bundle三款（Pack/Pass/Play各$49.99）；全卡表已上线（FRA 175张+FRC指挥官+SPG 10卡）；Secret Lair Bundle 10/23",
+      "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-september-21-2026"
+     },
+     {
       "tag": "new",
       "tagText": "💰MSRP",
       "date": "2026-10-02",
@@ -2170,6 +2234,14 @@
      }
     ],
     "tournaments": [
+     {
+      "tag": "alert",
+      "tagText": "🔥Arena Direct",
+      "date": "2026-09-25",
+      "title": "Arena Direct: March of the Machine 9/25-27",
+      "desc": "Arena Direct重返非瑞克西亚入侵前线，9/25-27举办；Cube on Cubin' On持续至9/28",
+      "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-september-21-2026"
+     },
      {
       "tag": "new",
       "tagText": "🗓️整季赛程",
@@ -2816,6 +2888,14 @@
     ],
     "marketing": [
      {
+      "tag": "new",
+      "tagText": "🔥Beta收官",
+      "date": "2026-09-20",
+      "title": "Beta店赛已收官·零售预发售10/30-11/1·正式发售11/6",
+      "desc": "Beta店赛9/10-20已收官；零售预发售周末10/30-11/1；正式零售发售11/6；Edgerunner Open Regional芝加哥12/11-13+华沙1/30-31；Kickstarter交付9月已启动",
+      "url": "https://cyberpunktcg.com/blog/production-update-1"
+     },
+     {
       "tag": "event",
       "tagText": "🔥展会",
       "title": "Spiel Essen 2026（10/9-13）+ PAX Australia（10/9-11）",
@@ -2883,6 +2963,14 @@
    "statusText": "日本对战型TCG·9/24四弹齐发·开5包即玩",
    "tabs": {
     "newProducts": [
+     {
+      "tag": "new",
+      "tagText": "✅今日发售",
+      "date": "2026-09-24",
+      "title": "DIVINE CROSS TCG今日9/24四弹齐发正式发售",
+      "desc": "9/24正式发售！四弹同步上市：《某科学的一方通行》《魔都精兵的奴隶2》《WANNABE→CREATORS》《秋之回忆#5》；1箱20包/每包6张，每箱必含1张随机PR；每弹常规卡35种（2SEC/5UR/8SR/8R/12N）；主打「拆5包即玩」",
+      "url": "https://www.moonroadhk.com/en/blogs/%E6%96%B0%E8%81%9E/divine-cross-2026-september-booster-pack-preorder-guide"
+     },
      {
       "tag": "upcoming",
       "tagText": "🔥9/24四弹",
